@@ -1,0 +1,3413 @@
+Year,Home,Home Country,Away,Away Country,Home Goals,Away Goals
+1999,Celtic,Sco,St. Patrick's Athletic,Irl,0,0
+1999,St. Patrick's Athletic,Irl,Celtic,Sco,0,2
+1999,FK Obilic,Srb,IBV Vestmannaeyjar,Isl,2,0
+1999,IBV Vestmannaeyjar,Isl,FK Obilic,Srb,1,2
+1999,HJK Helsinki,Fin,FK Yerevan,Arm,2,0
+1999,FK Yerevan,Arm,HJK Helsinki,Fin,0,3
+1999,Litex Lovech,Bul,Halmstads BK,Swe,2,0
+1999,Halmstads BK,Swe,Litex Lovech,Bul,2,1
+1999,Steaua Bucuresti,Rom,Flora Tallinn,Est,4,1
+1999,Flora Tallinn,Est,Steaua Bucuresti,Rom,3,1
+1999,LKS Lodz,Pol,Kapaz Ganja,Azb,4,1
+1999,Kapaz Ganja,Azb,LKS Lodz,Pol,1,3
+1999,Kareda Siauliai,Lit,NK Maribor,Slo,0,3
+1999,NK Maribor,Slo,Kareda Siauliai,Lit,1,0
+1999,Dinamo Tbilisi,Geo,Vllaznia Shkodër,Alb,3,0
+1999,Vllaznia Shkodër,Alb,Dinamo Tbilisi,Geo,3,1
+1999,Valletta FC,Mlt,Anorthosis Famagusta,Cyp,0,2
+1999,Anorthosis Famagusta,Cyp,Valletta FC,Mlt,6,0
+1999,Zimbru Chisinau,Mol,Újpest TE,Hun,1,0
+1999,Újpest TE,Hun,Zimbru Chisinau,Mol,3,1
+1999,Grasshoppers Zürich,Sui,Jeunesse d'Esch,Lux,6,0
+1999,Jeunesse d'Esch,Lux,Grasshoppers Zürich,Sui,0,2
+1999,Dinamo Kiev,Ukr,Barry Town,Wal,8,0
+1999,Barry Town,Wal,Dinamo Kiev,Ukr,1,2
+1999,Sileks Kratovo,Mac,Club Brugge,Bel,0,0
+1999,Club Brugge,Bel,Sileks Kratovo,Mac,2,1
+1999,Beitar Jerusalem,Isr,B36 Torshavn,Far,4,1
+1999,B36 Torshavn,Far,Beitar Jerusalem,Isr,0,1
+1999,Cliftonville,Nir,1.FC Kosice,Svk,1,5
+1999,1.FC Kosice,Svk,Cliftonville,Nir,8,0
+1999,Skonto Riga,Lat,Dinamo Minsk,Bls,0,0
+1999,Dinamo Minsk,Bls,Skonto Riga,Lat,1,2
+1999,1.FC Kosice,Svk,Brøndby IF,Den,0,2
+1999,Brøndby IF,Den,1.FC Kosice,Svk,0,1
+1999,Galatasaray,Tur,Grasshoppers Zürich,Sui,2,1
+1999,Grasshoppers Zürich,Sui,Galatasaray,Tur,2,3
+1999,Celtic,Sco,Dinamo Zagreb,Cro,1,0
+1999,Dinamo Zagreb,Cro,Celtic,Sco,3,0
+1999,Litex Lovech,Bul,Spartak Moscow,Rus,0,5
+1999,Spartak Moscow,Rus,Litex Lovech,Bul,6,2
+1999,Sturm Graz,Aut,Újpest TE,Hun,4,0
+1999,Újpest TE,Hun,Sturm Graz,Aut,2,3
+1999,Rosenborg BK,Nor,Club Brugge,Bel,2,0
+1999,Club Brugge,Bel,Rosenborg BK,Nor,4,2
+1999,Dinamo Kiev,Ukr,Sparta Praha,Cze,0,1
+1999,Sparta Praha,Cze,Dinamo Kiev,Ukr,0,1
+1999,Olympiakos Piraeus,Gre,Anorthosis Famagusta,Cyp,2,1
+1999,Anorthosis Famagusta,Cyp,Olympiakos Piraeus,Gre,2,4
+1999,Steaua Bucuresti,Rom,Panathinaikos,Gre,2,2
+1999,Panathinaikos,Gre,Steaua Bucuresti,Rom,6,3
+1999,Benfica,Por,Beitar Jerusalem,Isr,6,0
+1999,Beitar Jerusalem,Isr,Benfica,Por,4,2
+1999,Manchester United,Eng,LKS Lodz,Pol,2,0
+1999,LKS Lodz,Pol,Manchester United,Eng,0,0
+1999,NK Maribor,Slo,PSV Eindhoven,Ned,2,1
+1999,PSV Eindhoven,Ned,NK Maribor,Slo,4,1
+1999,HJK Helsinki,Fin,FC Metz,Fra,1,0
+1999,FC Metz,Fra,HJK Helsinki,Fin,1,1
+1999,Dinamo Tbilisi,Geo,Athletic Bilbao,Esp,2,1
+1999,Athletic Bilbao,Esp,Dinamo Tbilisi,Geo,1,0
+1999,Bayern München,Ger,FK Obilic,Srb,4,0
+1999,FK Obilic,Srb,Bayern München,Ger,1,1
+1999,Internazionale,Ita,Skonto Riga,Lat,4,0
+1999,Skonto Riga,Lat,Internazionale,Ita,1,3
+1999,FC Porto,Por,Olympiakos Piraeus,Gre,2,2
+1999,Olympiakos Piraeus,Gre,FC Porto,Por,2,1
+1999,Dinamo Zagreb,Cro,Ajax,Ned,0,0
+1999,Ajax,Ned,Dinamo Zagreb,Cro,0,1
+1999,Ajax,Ned,FC Porto,Por,2,1
+1999,FC Porto,Por,Ajax,Ned,3,0
+1999,Olympiakos Piraeus,Gre,Dinamo Zagreb,Cro,2,0
+1999,Dinamo Zagreb,Cro,Olympiakos Piraeus,Gre,1,1
+1999,Olympiakos Piraeus,Gre,Ajax,Ned,1,0
+1999,Ajax,Ned,Olympiakos Piraeus,Gre,2,0
+1999,FC Porto,Por,Dinamo Zagreb,Cro,3,0
+1999,Dinamo Zagreb,Cro,FC Porto,Por,3,1
+1999,Athletic Bilbao,Esp,Rosenborg BK,Nor,1,1
+1999,Rosenborg BK,Nor,Athletic Bilbao,Esp,2,1
+1999,Juventus,Ita,Galatasaray,Tur,2,2
+1999,Galatasaray,Tur,Juventus,Ita,1,1
+1999,Galatasaray,Tur,Athletic Bilbao,Esp,2,1
+1999,Athletic Bilbao,Esp,Galatasaray,Tur,1,0
+1999,Rosenborg BK,Nor,Juventus,Ita,1,1
+1999,Juventus,Ita,Rosenborg BK,Nor,2,0
+1999,Rosenborg BK,Nor,Galatasaray,Tur,3,0
+1999,Galatasaray,Tur,Rosenborg BK,Nor,3,0
+1999,Athletic Bilbao,Esp,Juventus,Ita,0,0
+1999,Juventus,Ita,Athletic Bilbao,Esp,1,1
+1999,Real Madrid,Esp,Internazionale,Ita,2,0
+1999,Internazionale,Ita,Real Madrid,Esp,3,1
+1999,Sturm Graz,Aut,Spartak Moscow,Rus,0,2
+1999,Spartak Moscow,Rus,Sturm Graz,Aut,0,0
+1999,Spartak Moscow,Rus,Real Madrid,Esp,2,1
+1999,Real Madrid,Esp,Spartak Moscow,Rus,2,1
+1999,Internazionale,Ita,Sturm Graz,Aut,1,0
+1999,Sturm Graz,Aut,Internazionale,Ita,0,2
+1999,Internazionale,Ita,Spartak Moscow,Rus,2,1
+1999,Spartak Moscow,Rus,Internazionale,Ita,1,1
+1999,Real Madrid,Esp,Sturm Graz,Aut,6,1
+1999,Sturm Graz,Aut,Real Madrid,Esp,1,5
+1999,Brøndby IF,Den,Bayern München,Ger,2,1
+1999,Bayern München,Ger,Brøndby IF,Den,2,0
+1999,Manchester United,Eng,FC Barcelona,Esp,3,3
+1999,FC Barcelona,Esp,Manchester United,Eng,3,3
+1999,FC Barcelona,Esp,Brøndby IF,Den,2,0
+1999,Brøndby IF,Den,FC Barcelona,Esp,0,2
+1999,Bayern München,Ger,Manchester United,Eng,2,2
+1999,Manchester United,Eng,Bayern München,Ger,1,1
+1999,Bayern München,Ger,FC Barcelona,Esp,1,0
+1999,FC Barcelona,Esp,Bayern München,Ger,1,2
+1999,Brøndby IF,Den,Manchester United,Eng,2,6
+1999,Manchester United,Eng,Brøndby IF,Den,5,0
+1999,RC Lens,Fra,Arsenal,Eng,1,1
+1999,Arsenal,Eng,RC Lens,Fra,0,1
+1999,Panathinaikos,Gre,Dinamo Kiev,Ukr,2,1
+1999,Dinamo Kiev,Ukr,Panathinaikos,Gre,2,1
+1999,Dinamo Kiev,Ukr,RC Lens,Fra,1,1
+1999,RC Lens,Fra,Dinamo Kiev,Ukr,1,3
+1999,Arsenal,Eng,Panathinaikos,Gre,2,1
+1999,Panathinaikos,Gre,Arsenal,Eng,1,3
+1999,Arsenal,Eng,Dinamo Kiev,Ukr,1,1
+1999,Dinamo Kiev,Ukr,Arsenal,Eng,3,1
+1999,RC Lens,Fra,Panathinaikos,Gre,1,0
+1999,Panathinaikos,Gre,RC Lens,Fra,1,0
+1999,PSV Eindhoven,Ned,HJK Helsinki,Fin,2,1
+1999,HJK Helsinki,Fin,PSV Eindhoven,Ned,1,3
+1999,1.FC Kaiserslautern,Ger,Benfica,Por,1,0
+1999,Benfica,Por,1.FC Kaiserslautern,Ger,2,1
+1999,Benfica,Por,PSV Eindhoven,Ned,2,1
+1999,PSV Eindhoven,Ned,Benfica,Por,2,2
+1999,HJK Helsinki,Fin,1.FC Kaiserslautern,Ger,0,0
+1999,1.FC Kaiserslautern,Ger,HJK Helsinki,Fin,5,2
+1999,HJK Helsinki,Fin,Benfica,Por,2,0
+1999,Benfica,Por,HJK Helsinki,Fin,2,2
+1999,PSV Eindhoven,Ned,1.FC Kaiserslautern,Ger,1,2
+1999,1.FC Kaiserslautern,Ger,PSV Eindhoven,Ned,3,1
+1999,Real Madrid,Esp,Dinamo Kiev,Ukr,1,1
+1999,Dinamo Kiev,Ukr,Real Madrid,Esp,2,0
+1999,Manchester United,Eng,Internazionale,Ita,2,0
+1999,Internazionale,Ita,Manchester United,Eng,1,1
+1999,Juventus,Ita,Olympiakos Piraeus,Gre,2,1
+1999,Olympiakos Piraeus,Gre,Juventus,Ita,1,1
+1999,Bayern München,Ger,1.FC Kaiserslautern,Ger,2,0
+1999,1.FC Kaiserslautern,Ger,Bayern München,Ger,0,4
+1999,Manchester United,Eng,Juventus,Ita,1,1
+1999,Juventus,Ita,Manchester United,Eng,2,3
+1999,Dinamo Kiev,Ukr,Bayern München,Ger,3,3
+1999,Bayern München,Ger,Dinamo Kiev,Ukr,1,0
+1999,Manchester United,Eng,Bayern München,Ger,2,1
+2000,Sloga Skopje,Mac,Kapaz Ganja,Azb,1,0
+2000,Kapaz Ganja,Azb,Sloga Skopje,Mac,2,1
+2000,IBV Vestmannaeyjar,Isl,SK Tirana,Alb,1,0
+2000,SK Tirana,Alb,IBV Vestmannaeyjar,Isl,1,2
+2000,Partizan Belgrade,Srb,Flora Tallinn,Est,6,0
+2000,Flora Tallinn,Est,Partizan Belgrade,Srb,1,4
+2000,Barry Town,Wal,Valletta FC,Mlt,0,0
+2000,Valletta FC,Mlt,Barry Town,Wal,3,2
+2000,Litex Lovech,Bul,Glentoran,Nir,3,0
+2000,Glentoran,Nir,Litex Lovech,Bul,0,3
+2000,HB Torshavn,Far,Haka Valkeakoski,Fin,1,1
+2000,Haka Valkeakoski,Fin,HB Torshavn,Far,6,0
+2000,Jeunesse d'Esch,Lux,Skonto Riga,Lat,0,2
+2000,Skonto Riga,Lat,Jeunesse d'Esch,Lux,8,0
+2000,St. Patrick's Athletic,Irl,Zimbru Chisinau,Mol,0,5
+2000,Zimbru Chisinau,Mol,St. Patrick's Athletic,Irl,5,0
+2000,Zalgiris Vilnius,Lit,Araks Ararat,Arm,2,0
+2000,Araks Ararat,Arm,Zalgiris Vilnius,Lit,0,3
+2000,Rapid Wien,Aut,Valletta FC,Mlt,3,0
+2000,Valletta FC,Mlt,Rapid Wien,Aut,0,2
+2000,Anorthosis Famagusta,Cyp,Slovan Bratislava,Svk,2,1
+2000,Slovan Bratislava,Svk,Anorthosis Famagusta,Cyp,1,1
+2000,Partizan Belgrade,Srb,NK Rijeka,Cro,3,1
+2000,NK Rijeka,Cro,Partizan Belgrade,Srb,0,3
+2000,CSKA Moscow,Rus,Molde FK,Nor,2,0
+2000,Molde FK,Nor,CSKA Moscow,Rus,4,0
+2000,Litex Lovech,Bul,Widzew Lódz,Pol,4,1
+2000,Widzew Lódz,Pol,Litex Lovech,Bul,4,1
+2000,Haka Valkeakoski,Fin,Glasgow Rangers,Sco,1,4
+2000,Glasgow Rangers,Sco,Haka Valkeakoski,Fin,3,0
+2000,Dinamo Tbilisi,Geo,Zimbru Chisinau,Mol,2,1
+2000,Zimbru Chisinau,Mol,Dinamo Tbilisi,Geo,2,0
+2000,Dnepr Mogilev,Bls,AIK Stockholm,Swe,0,1
+2000,AIK Stockholm,Swe,Dnepr Mogilev,Bls,2,0
+2000,Sloga Skopje,Mac,Brøndby IF,Den,0,1
+2000,Brøndby IF,Den,Sloga Skopje,Mac,1,0
+2000,Rapid Bucuresti,Rom,Skonto Riga,Lat,3,3
+2000,Skonto Riga,Lat,Rapid Bucuresti,Rom,2,1
+2000,Besiktas,Tur,Hapoel Haifa,Isr,1,1
+2000,Hapoel Haifa,Isr,Besiktas,Tur,0,0
+2000,Dinamo Kiev,Ukr,Zalgiris Vilnius,Lit,2,0
+2000,Zalgiris Vilnius,Lit,Dinamo Kiev,Ukr,0,1
+2000,IBV Vestmannaeyjar,Isl,MTK Budapest,Hun,0,2
+2000,MTK Budapest,Hun,IBV Vestmannaeyjar,Isl,3,1
+2000,NK Maribor,Slo,Racing Genk,Bel,5,1
+2000,Racing Genk,Bel,NK Maribor,Slo,3,0
+2000,Chelsea,Eng,Skonto Riga,Lat,3,0
+2000,Skonto Riga,Lat,Chelsea,Eng,0,0
+2000,Rapid Wien,Aut,Galatasaray,Tur,0,3
+2000,Galatasaray,Tur,Rapid Wien,Aut,1,0
+2000,Fiorentina,Ita,Widzew Lódz,Pol,3,1
+2000,Widzew Lódz,Pol,Fiorentina,Ita,0,2
+2000,AaB Aalborg,Den,Dinamo Kiev,Ukr,1,2
+2000,Dinamo Kiev,Ukr,AaB Aalborg,Den,2,2
+2000,Molde FK,Nor,Real Mallorca,Esp,0,0
+2000,Real Mallorca,Esp,Molde FK,Nor,1,1
+2000,Olympique Lyon,Fra,NK Maribor,Slo,0,1
+2000,NK Maribor,Slo,Olympique Lyon,Fra,2,0
+2000,Dinamo Zagreb,Cro,MTK Budapest,Hun,0,0
+2000,MTK Budapest,Hun,Dinamo Zagreb,Cro,0,2
+2000,Glasgow Rangers,Sco,AC Parma,Ita,2,0
+2000,AC Parma,Ita,Glasgow Rangers,Sco,1,0
+2000,Brøndby IF,Den,Boavista,Por,1,2
+2000,Boavista,Por,Brøndby IF,Den,4,2
+2000,AEK Athens,Gre,AIK Stockholm,Swe,0,0
+2000,AIK Stockholm,Swe,AEK Athens,Gre,1,0
+2000,Hapoel Haifa,Isr,Valencia,Esp,0,2
+2000,Valencia,Esp,Hapoel Haifa,Isr,2,0
+2000,Hertha BSC,Ger,Anorthosis Famagusta,Cyp,2,0
+2000,Anorthosis Famagusta,Cyp,Hertha BSC,Ger,0,0
+2000,Zimbru Chisinau,Mol,PSV Eindhoven,Ned,0,0
+2000,PSV Eindhoven,Ned,Zimbru Chisinau,Mol,2,0
+2000,Spartak Moscow,Rus,Partizan Belgrade,Srb,2,0
+2000,Partizan Belgrade,Srb,Spartak Moscow,Rus,1,3
+2000,Sturm Graz,Aut,Servette FC Genève,Sui,2,1
+2000,Servette FC Genève,Sui,Sturm Graz,Aut,2,2
+2000,FK Teplice,Cze,Borussia Dortmund,Ger,0,1
+2000,Borussia Dortmund,Ger,FK Teplice,Cze,1,0
+2000,Bayer Leverkusen,Ger,Lazio Roma,Ita,1,1
+2000,Lazio Roma,Ita,Bayer Leverkusen,Ger,1,1
+2000,Dinamo Kiev,Ukr,NK Maribor,Slo,0,1
+2000,NK Maribor,Slo,Dinamo Kiev,Ukr,1,2
+2000,NK Maribor,Slo,Bayer Leverkusen,Ger,0,2
+2000,Bayer Leverkusen,Ger,NK Maribor,Slo,0,0
+2000,Lazio Roma,Ita,Dinamo Kiev,Ukr,2,1
+2000,Dinamo Kiev,Ukr,Lazio Roma,Ita,0,1
+2000,Lazio Roma,Ita,NK Maribor,Slo,4,0
+2000,NK Maribor,Slo,Lazio Roma,Ita,0,4
+2000,Bayer Leverkusen,Ger,Dinamo Kiev,Ukr,1,1
+2000,Dinamo Kiev,Ukr,Bayer Leverkusen,Ger,4,2
+2000,AIK Stockholm,Swe,FC Barcelona,Esp,1,2
+2000,FC Barcelona,Esp,AIK Stockholm,Swe,5,0
+2000,Fiorentina,Ita,Arsenal,Eng,0,0
+2000,Arsenal,Eng,Fiorentina,Ita,0,1
+2000,Arsenal,Eng,AIK Stockholm,Swe,3,1
+2000,AIK Stockholm,Swe,Arsenal,Eng,2,3
+2000,FC Barcelona,Esp,Fiorentina,Ita,4,2
+2000,Fiorentina,Ita,FC Barcelona,Esp,3,3
+2000,FC Barcelona,Esp,Arsenal,Eng,1,1
+2000,Arsenal,Eng,FC Barcelona,Esp,2,4
+2000,AIK Stockholm,Swe,Fiorentina,Ita,0,0
+2000,Fiorentina,Ita,AIK Stockholm,Swe,3,0
+2000,Boavista,Por,Rosenborg BK,Nor,0,3
+2000,Rosenborg BK,Nor,Boavista,Por,2,0
+2000,Feyenoord,Ned,Borussia Dortmund,Ger,1,1
+2000,Borussia Dortmund,Ger,Feyenoord,Ned,1,1
+2000,Borussia Dortmund,Ger,Boavista,Por,3,1
+2000,Boavista,Por,Borussia Dortmund,Ger,1,0
+2000,Rosenborg BK,Nor,Feyenoord,Ned,2,2
+2000,Feyenoord,Ned,Rosenborg BK,Nor,1,0
+2000,Rosenborg BK,Nor,Borussia Dortmund,Ger,2,2
+2000,Borussia Dortmund,Ger,Rosenborg BK,Nor,0,3
+2000,Boavista,Por,Feyenoord,Ned,1,1
+2000,Feyenoord,Ned,Boavista,Por,1,1
+2000,Manchester United,Eng,Dinamo Zagreb,Cro,0,0
+2000,Dinamo Zagreb,Cro,Manchester United,Eng,1,2
+2000,Olympique Marseille,Fra,Sturm Graz,Aut,2,0
+2000,Sturm Graz,Aut,Olympique Marseille,Fra,3,2
+2000,Sturm Graz,Aut,Manchester United,Eng,0,3
+2000,Manchester United,Eng,Sturm Graz,Aut,2,1
+2000,Dinamo Zagreb,Cro,Olympique Marseille,Fra,1,2
+2000,Olympique Marseille,Fra,Dinamo Zagreb,Cro,2,2
+2000,Dinamo Zagreb,Cro,Sturm Graz,Aut,3,0
+2000,Sturm Graz,Aut,Dinamo Zagreb,Cro,1,0
+2000,Manchester United,Eng,Olympique Marseille,Fra,2,1
+2000,Olympique Marseille,Fra,Manchester United,Eng,1,0
+2000,Olympiakos Piraeus,Gre,Real Madrid,Esp,3,3
+2000,Real Madrid,Esp,Olympiakos Piraeus,Gre,3,0
+2000,Molde FK,Nor,FC Porto,Por,0,1
+2000,FC Porto,Por,Molde FK,Nor,3,1
+2000,FC Porto,Por,Olympiakos Piraeus,Gre,2,0
+2000,Olympiakos Piraeus,Gre,FC Porto,Por,1,0
+2000,Real Madrid,Esp,Molde FK,Nor,4,1
+2000,Molde FK,Nor,Real Madrid,Esp,0,1
+2000,Real Madrid,Esp,FC Porto,Por,3,1
+2000,FC Porto,Por,Real Madrid,Esp,2,1
+2000,Olympiakos Piraeus,Gre,Molde FK,Nor,3,1
+2000,Molde FK,Nor,Olympiakos Piraeus,Gre,3,2
+2000,Bayern München,Ger,PSV Eindhoven,Ned,2,1
+2000,PSV Eindhoven,Ned,Bayern München,Ger,2,1
+2000,Valencia,Esp,Glasgow Rangers,Sco,2,0
+2000,Glasgow Rangers,Sco,Valencia,Esp,1,2
+2000,Glasgow Rangers,Sco,Bayern München,Ger,1,1
+2000,Bayern München,Ger,Glasgow Rangers,Sco,1,0
+2000,PSV Eindhoven,Ned,Valencia,Esp,1,1
+2000,Valencia,Esp,PSV Eindhoven,Ned,1,0
+2000,PSV Eindhoven,Ned,Glasgow Rangers,Sco,0,1
+2000,Glasgow Rangers,Sco,PSV Eindhoven,Ned,4,1
+2000,Bayern München,Ger,Valencia,Esp,1,1
+2000,Valencia,Esp,Bayern München,Ger,1,1
+2000,Sparta Praha,Cze,Girondins Bordeaux,Fra,0,0
+2000,Girondins Bordeaux,Fra,Sparta Praha,Cze,0,0
+2000,Willem II Tilburg,Ned,Spartak Moscow,Rus,1,3
+2000,Spartak Moscow,Rus,Willem II Tilburg,Ned,1,1
+2000,Spartak Moscow,Rus,Sparta Praha,Cze,1,1
+2000,Sparta Praha,Cze,Spartak Moscow,Rus,5,2
+2000,Girondins Bordeaux,Fra,Willem II Tilburg,Ned,3,2
+2000,Willem II Tilburg,Ned,Girondins Bordeaux,Fra,0,0
+2000,Girondins Bordeaux,Fra,Spartak Moscow,Rus,2,1
+2000,Spartak Moscow,Rus,Girondins Bordeaux,Fra,1,2
+2000,Sparta Praha,Cze,Willem II Tilburg,Ned,4,0
+2000,Willem II Tilburg,Ned,Sparta Praha,Cze,3,4
+2000,Chelsea,Eng,AC Milan,Ita,0,0
+2000,AC Milan,Ita,Chelsea,Eng,1,1
+2000,Galatasaray,Tur,Hertha BSC,Ger,2,2
+2000,Hertha BSC,Ger,Galatasaray,Tur,1,4
+2000,Hertha BSC,Ger,Chelsea,Eng,2,1
+2000,Chelsea,Eng,Hertha BSC,Ger,2,0
+2000,AC Milan,Ita,Galatasaray,Tur,2,1
+2000,Galatasaray,Tur,AC Milan,Ita,3,2
+2000,AC Milan,Ita,Hertha BSC,Ger,1,1
+2000,Hertha BSC,Ger,AC Milan,Ita,1,0
+2000,Chelsea,Eng,Galatasaray,Tur,1,0
+2000,Galatasaray,Tur,Chelsea,Eng,0,5
+2000,Hertha BSC,Ger,FC Barcelona,Esp,1,1
+2000,FC Barcelona,Esp,Hertha BSC,Ger,3,1
+2000,Sparta Praha,Cze,FC Porto,Por,0,2
+2000,FC Porto,Por,Sparta Praha,Cze,2,2
+2000,FC Porto,Por,Hertha BSC,Ger,1,0
+2000,Hertha BSC,Ger,FC Porto,Por,0,1
+2000,FC Barcelona,Esp,Sparta Praha,Cze,5,0
+2000,Sparta Praha,Cze,FC Barcelona,Esp,1,2
+2000,FC Barcelona,Esp,FC Porto,Por,4,2
+2000,FC Porto,Por,FC Barcelona,Esp,0,2
+2000,Hertha BSC,Ger,Sparta Praha,Cze,1,1
+2000,Sparta Praha,Cze,Hertha BSC,Ger,1,0
+2000,Fiorentina,Ita,Manchester United,Eng,2,0
+2000,Manchester United,Eng,Fiorentina,Ita,3,1
+2000,Valencia,Esp,Girondins Bordeaux,Fra,3,0
+2000,Girondins Bordeaux,Fra,Valencia,Esp,1,4
+2000,Girondins Bordeaux,Fra,Fiorentina,Ita,0,0
+2000,Fiorentina,Ita,Girondins Bordeaux,Fra,3,3
+2000,Manchester United,Eng,Valencia,Esp,3,0
+2000,Valencia,Esp,Manchester United,Eng,0,0
+2000,Manchester United,Eng,Girondins Bordeaux,Fra,2,0
+2000,Girondins Bordeaux,Fra,Manchester United,Eng,1,2
+2000,Fiorentina,Ita,Valencia,Esp,1,0
+2000,Valencia,Esp,Fiorentina,Ita,2,0
+2000,Dinamo Kiev,Ukr,Real Madrid,Esp,1,2
+2000,Real Madrid,Esp,Dinamo Kiev,Ukr,2,2
+2000,Rosenborg BK,Nor,Bayern München,Ger,1,1
+2000,Bayern München,Ger,Rosenborg BK,Nor,2,1
+2000,Bayern München,Ger,Dinamo Kiev,Ukr,2,1
+2000,Dinamo Kiev,Ukr,Bayern München,Ger,2,0
+2000,Real Madrid,Esp,Rosenborg BK,Nor,3,1
+2000,Rosenborg BK,Nor,Real Madrid,Esp,0,1
+2000,Real Madrid,Esp,Bayern München,Ger,2,4
+2000,Bayern München,Ger,Real Madrid,Esp,4,1
+2000,Dinamo Kiev,Ukr,Rosenborg BK,Nor,2,1
+2000,Rosenborg BK,Nor,Dinamo Kiev,Ukr,1,2
+2000,Olympique Marseille,Fra,Lazio Roma,Ita,0,2
+2000,Lazio Roma,Ita,Olympique Marseille,Fra,5,1
+2000,Chelsea,Eng,Feyenoord,Ned,3,1
+2000,Feyenoord,Ned,Chelsea,Eng,1,3
+2000,Feyenoord,Ned,Olympique Marseille,Fra,3,0
+2000,Olympique Marseille,Fra,Feyenoord,Ned,0,0
+2000,Lazio Roma,Ita,Chelsea,Eng,0,0
+2000,Chelsea,Eng,Lazio Roma,Ita,1,2
+2000,Lazio Roma,Ita,Feyenoord,Ned,1,2
+2000,Feyenoord,Ned,Lazio Roma,Ita,0,0
+2000,Olympique Marseille,Fra,Chelsea,Eng,1,0
+2000,Chelsea,Eng,Olympique Marseille,Fra,1,0
+2000,Chelsea,Eng,FC Barcelona,Esp,3,1
+2000,FC Barcelona,Esp,Chelsea,Eng,5,1
+2000,Valencia,Esp,Lazio Roma,Ita,5,2
+2000,Lazio Roma,Ita,Valencia,Esp,1,0
+2000,Real Madrid,Esp,Manchester United,Eng,0,0
+2000,Manchester United,Eng,Real Madrid,Esp,2,3
+2000,FC Porto,Por,Bayern München,Ger,1,1
+2000,Bayern München,Ger,FC Porto,Por,2,1
+2000,Valencia,Esp,FC Barcelona,Esp,4,1
+2000,FC Barcelona,Esp,Valencia,Esp,2,1
+2000,Real Madrid,Esp,Bayern München,Ger,2,0
+2000,Bayern München,Ger,Real Madrid,Esp,2,1
+2000,Real Madrid,Esp,Valencia,Esp,3,0
+2001,KI Klaksvik,Far,Red Star Belgrade,Srb,0,3
+2001,Red Star Belgrade,Srb,KI Klaksvik,Far,2,0
+2001,Llansantffraid,Wal,Levadia Maardu,Est,2,2
+2001,Levadia Maardu,Est,Llansantffraid,Wal,4,0
+2001,Sloga Skopje,Mac,Shelbourne,Irl,0,1
+2001,Shelbourne,Irl,Sloga Skopje,Mac,1,1
+2001,Birkirkara,Mlt,KR Reykjavik,Isl,1,2
+2001,KR Reykjavik,Isl,Birkirkara,Mlt,4,1
+2001,FBK Kaunas,Lit,Brotnjo Citluk,Bos,4,0
+2001,Brotnjo Citluk,Bos,FBK Kaunas,Lit,3,0
+2001,SK Tirana,Alb,Zimbru Chisinau,Mol,2,3
+2001,Zimbru Chisinau,Mol,SK Tirana,Alb,3,2
+2001,Shirak Gyumri,Arm,BATE Borisov,Bls,1,1
+2001,BATE Borisov,Bls,Shirak Gyumri,Arm,2,1
+2001,Haka Valkeakoski,Fin,Linfield Belfast,Nir,1,0
+2001,Linfield Belfast,Nir,Haka Valkeakoski,Fin,2,1
+2001,Skonto Riga,Lat,FK Shamkir,Azb,2,1
+2001,FK Shamkir,Azb,Skonto Riga,Lat,4,1
+2001,F91 Dudelange,Lux,Levski Sofia,Bul,0,4
+2001,Levski Sofia,Bul,F91 Dudelange,Lux,2,0
+2001,Haka Valkeakoski,Fin,Inter Bratislava,Svk,0,0
+2001,Inter Bratislava,Svk,Haka Valkeakoski,Fin,1,0
+2001,Red Star Belgrade,Srb,Torpedo Kutaisi,Geo,4,0
+2001,Torpedo Kutaisi,Geo,Red Star Belgrade,Srb,2,0
+2001,Helsingborg IF,Swe,BATE Borisov,Bls,0,0
+2001,BATE Borisov,Bls,Helsingborg IF,Swe,0,3
+2001,Dinamo Bucuresti,Rom,Polonia Warsaw,Pol,3,4
+2001,Polonia Warsaw,Pol,Dinamo Bucuresti,Rom,3,1
+2001,Shelbourne,Irl,Rosenborg BK,Nor,1,3
+2001,Rosenborg BK,Nor,Shelbourne,Irl,1,1
+2001,Besiktas,Tur,Levski Sofia,Bul,1,0
+2001,Levski Sofia,Bul,Besiktas,Tur,1,1
+2001,Sturm Graz,Aut,Hapoel Tel-Aviv,Isr,3,0
+2001,Hapoel Tel-Aviv,Isr,Sturm Graz,Aut,1,2
+2001,Zimbru Chisinau,Mol,NK Maribor,Slo,2,0
+2001,NK Maribor,Slo,Zimbru Chisinau,Mol,1,0
+2001,Slavia Praha,Cze,FK Shamkir,Azb,1,0
+2001,FK Shamkir,Azb,Slavia Praha,Cze,1,4
+2001,Anderlecht,Bel,Anorthosis Famagusta,Cyp,4,2
+2001,Anorthosis Famagusta,Cyp,Anderlecht,Bel,0,0
+2001,Shakhtar Donetsk,Ukr,Levadia Maardu,Est,4,1
+2001,Levadia Maardu,Est,Shakhtar Donetsk,Ukr,1,5
+2001,Glasgow Rangers,Sco,FBK Kaunas,Lit,4,1
+2001,FBK Kaunas,Lit,Glasgow Rangers,Sco,0,0
+2001,Brøndby IF,Den,KR Reykjavik,Isl,3,1
+2001,KR Reykjavik,Isl,Brøndby IF,Den,0,0
+2001,Hajduk Split,Cro,Dunaferr Dunaujvaros,Hun,0,2
+2001,Dunaferr Dunaujvaros,Hun,Hajduk Split,Cro,2,2
+2001,FC Tirol Innsbruck,Aut,Valencia,Esp,0,0
+2001,Valencia,Esp,FC Tirol Innsbruck,Aut,4,1
+2001,Zimbru Chisinau,Mol,Sparta Praha,Cze,0,1
+2001,Sparta Praha,Cze,Zimbru Chisinau,Mol,1,0
+2001,Brøndby IF,Den,Hamburger SV,Ger,0,2
+2001,Hamburger SV,Ger,Brøndby IF,Den,0,0
+2001,Helsingborg IF,Swe,Internazionale,Ita,1,0
+2001,Internazionale,Ita,Helsingborg IF,Swe,0,0
+2001,Besiktas,Tur,Lokomotiv Moscow,Rus,3,0
+2001,Lokomotiv Moscow,Rus,Besiktas,Tur,1,3
+2001,Inter Bratislava,Svk,Olympique Lyon,Fra,1,2
+2001,Olympique Lyon,Fra,Inter Bratislava,Svk,2,1
+2001,Anderlecht,Bel,FC Porto,Por,1,0
+2001,FC Porto,Por,Anderlecht,Bel,0,0
+2001,Herfølge BK,Den,Glasgow Rangers,Sco,0,3
+2001,Glasgow Rangers,Sco,Herfølge BK,Den,3,0
+2001,Dinamo Kiev,Ukr,Red Star Belgrade,Srb,0,0
+2001,Red Star Belgrade,Srb,Dinamo Kiev,Ukr,1,1
+2001,Sturm Graz,Aut,Feyenoord,Ned,2,1
+2001,Feyenoord,Ned,Sturm Graz,Aut,1,1
+2001,Dunaferr Dunaujvaros,Hun,Rosenborg BK,Nor,2,2
+2001,Rosenborg BK,Nor,Dunaferr Dunaujvaros,Hun,2,1
+2001,FC Sankt Gallen,Sui,Galatasaray,Tur,1,2
+2001,Galatasaray,Tur,FC Sankt Gallen,Sui,2,2
+2001,AC Milan,Ita,Dinamo Zagreb,Cro,3,1
+2001,Dinamo Zagreb,Cro,AC Milan,Ita,0,3
+2001,Shakhtar Donetsk,Ukr,Slavia Praha,Cze,0,1
+2001,Slavia Praha,Cze,Shakhtar Donetsk,Ukr,0,2
+2001,Polonia Warsaw,Pol,Panathinaikos,Gre,2,2
+2001,Panathinaikos,Gre,Polonia Warsaw,Pol,2,1
+2001,Leeds United,Eng,TSV 1860 München,Ger,2,1
+2001,TSV 1860 München,Ger,Leeds United,Eng,0,1
+2001,Spartak Moscow,Rus,Bayer Leverkusen,Ger,2,0
+2001,Bayer Leverkusen,Ger,Spartak Moscow,Rus,1,0
+2001,Sporting CP Lisbon,Por,Real Madrid,Esp,2,2
+2001,Real Madrid,Esp,Sporting CP Lisbon,Por,4,0
+2001,Real Madrid,Esp,Spartak Moscow,Rus,1,0
+2001,Spartak Moscow,Rus,Real Madrid,Esp,1,0
+2001,Bayer Leverkusen,Ger,Sporting CP Lisbon,Por,3,2
+2001,Sporting CP Lisbon,Por,Bayer Leverkusen,Ger,0,0
+2001,Bayer Leverkusen,Ger,Real Madrid,Esp,2,3
+2001,Real Madrid,Esp,Bayer Leverkusen,Ger,5,3
+2001,Spartak Moscow,Rus,Sporting CP Lisbon,Por,3,1
+2001,Sporting CP Lisbon,Por,Spartak Moscow,Rus,0,3
+2001,Sparta Praha,Cze,Arsenal,Eng,0,1
+2001,Arsenal,Eng,Sparta Praha,Cze,4,2
+2001,Shakhtar Donetsk,Ukr,Lazio Roma,Ita,0,3
+2001,Lazio Roma,Ita,Shakhtar Donetsk,Ukr,5,1
+2001,Lazio Roma,Ita,Sparta Praha,Cze,3,0
+2001,Sparta Praha,Cze,Lazio Roma,Ita,0,1
+2001,Arsenal,Eng,Shakhtar Donetsk,Ukr,3,2
+2001,Shakhtar Donetsk,Ukr,Arsenal,Eng,3,0
+2001,Arsenal,Eng,Lazio Roma,Ita,2,0
+2001,Lazio Roma,Ita,Arsenal,Eng,1,1
+2001,Sparta Praha,Cze,Shakhtar Donetsk,Ukr,3,2
+2001,Shakhtar Donetsk,Ukr,Sparta Praha,Cze,2,1
+2001,Valencia,Esp,Olympiakos Piraeus,Gre,2,1
+2001,Olympiakos Piraeus,Gre,Valencia,Esp,1,0
+2001,Olympique Lyon,Fra,Heerenveen,Ned,3,1
+2001,Heerenveen,Ned,Olympique Lyon,Fra,0,2
+2001,Heerenveen,Ned,Valencia,Esp,0,1
+2001,Valencia,Esp,Heerenveen,Ned,1,1
+2001,Olympiakos Piraeus,Gre,Olympique Lyon,Fra,2,1
+2001,Olympique Lyon,Fra,Olympiakos Piraeus,Gre,1,0
+2001,Olympiakos Piraeus,Gre,Heerenveen,Ned,2,0
+2001,Heerenveen,Ned,Olympiakos Piraeus,Gre,1,0
+2001,Valencia,Esp,Olympique Lyon,Fra,1,0
+2001,Olympique Lyon,Fra,Valencia,Esp,1,2
+2001,Galatasaray,Tur,AS Monaco,Fra,3,2
+2001,AS Monaco,Fra,Galatasaray,Tur,4,2
+2001,Glasgow Rangers,Sco,Sturm Graz,Aut,5,0
+2001,Sturm Graz,Aut,Glasgow Rangers,Sco,2,0
+2001,Sturm Graz,Aut,Galatasaray,Tur,3,0
+2001,Galatasaray,Tur,Sturm Graz,Aut,2,2
+2001,AS Monaco,Fra,Glasgow Rangers,Sco,0,1
+2001,Glasgow Rangers,Sco,AS Monaco,Fra,2,2
+2001,AS Monaco,Fra,Sturm Graz,Aut,5,0
+2001,Sturm Graz,Aut,AS Monaco,Fra,2,0
+2001,Galatasaray,Tur,Glasgow Rangers,Sco,3,2
+2001,Glasgow Rangers,Sco,Galatasaray,Tur,0,0
+2001,Hamburger SV,Ger,Juventus,Ita,4,4
+2001,Juventus,Ita,Hamburger SV,Ger,1,3
+2001,Panathinaikos,Gre,Deportivo La Coruña,Esp,1,1
+2001,Deportivo La Coruña,Esp,Panathinaikos,Gre,1,0
+2001,Deportivo La Coruña,Esp,Hamburger SV,Ger,2,1
+2001,Hamburger SV,Ger,Deportivo La Coruña,Esp,1,1
+2001,Juventus,Ita,Panathinaikos,Gre,2,1
+2001,Panathinaikos,Gre,Juventus,Ita,3,1
+2001,Juventus,Ita,Deportivo La Coruña,Esp,0,0
+2001,Deportivo La Coruña,Esp,Juventus,Ita,1,1
+2001,Hamburger SV,Ger,Panathinaikos,Gre,0,1
+2001,Panathinaikos,Gre,Hamburger SV,Ger,0,0
+2001,Rosenborg BK,Nor,Paris Saint-Germain,Fra,3,1
+2001,Paris Saint-Germain,Fra,Rosenborg BK,Nor,7,2
+2001,Helsingborg IF,Swe,Bayern München,Ger,1,3
+2001,Bayern München,Ger,Helsingborg IF,Swe,0,0
+2001,Bayern München,Ger,Rosenborg BK,Nor,3,1
+2001,Rosenborg BK,Nor,Bayern München,Ger,1,1
+2001,Paris Saint-Germain,Fra,Helsingborg IF,Swe,4,1
+2001,Helsingborg IF,Swe,Paris Saint-Germain,Fra,1,1
+2001,Paris Saint-Germain,Fra,Bayern München,Ger,1,0
+2001,Bayern München,Ger,Paris Saint-Germain,Fra,2,0
+2001,Rosenborg BK,Nor,Helsingborg IF,Swe,6,1
+2001,Helsingborg IF,Swe,Rosenborg BK,Nor,2,0
+2001,PSV Eindhoven,Ned,Dinamo Kiev,Ukr,2,1
+2001,Dinamo Kiev,Ukr,PSV Eindhoven,Ned,0,1
+2001,Manchester United,Eng,Anderlecht,Bel,5,1
+2001,Anderlecht,Bel,Manchester United,Eng,2,1
+2001,Anderlecht,Bel,PSV Eindhoven,Ned,1,0
+2001,PSV Eindhoven,Ned,Anderlecht,Bel,2,3
+2001,Dinamo Kiev,Ukr,Manchester United,Eng,0,0
+2001,Manchester United,Eng,Dinamo Kiev,Ukr,1,0
+2001,Dinamo Kiev,Ukr,Anderlecht,Bel,4,0
+2001,Anderlecht,Bel,Dinamo Kiev,Ukr,4,2
+2001,PSV Eindhoven,Ned,Manchester United,Eng,3,1
+2001,Manchester United,Eng,PSV Eindhoven,Ned,3,1
+2001,FC Barcelona,Esp,Leeds United,Eng,4,0
+2001,Leeds United,Eng,FC Barcelona,Esp,1,1
+2001,AC Milan,Ita,Besiktas,Tur,4,1
+2001,Besiktas,Tur,AC Milan,Ita,0,2
+2001,Besiktas,Tur,FC Barcelona,Esp,3,0
+2001,FC Barcelona,Esp,Besiktas,Tur,5,0
+2001,Leeds United,Eng,AC Milan,Ita,1,0
+2001,AC Milan,Ita,Leeds United,Eng,1,1
+2001,Leeds United,Eng,Besiktas,Tur,6,0
+2001,Besiktas,Tur,Leeds United,Eng,0,0
+2001,FC Barcelona,Esp,AC Milan,Ita,0,2
+2001,AC Milan,Ita,FC Barcelona,Esp,3,3
+2001,Valencia,Esp,Sturm Graz,Aut,2,0
+2001,Sturm Graz,Aut,Valencia,Esp,0,5
+2001,Manchester United,Eng,Panathinaikos,Gre,3,1
+2001,Panathinaikos,Gre,Manchester United,Eng,1,1
+2001,Panathinaikos,Gre,Valencia,Esp,0,0
+2001,Valencia,Esp,Panathinaikos,Gre,2,1
+2001,Sturm Graz,Aut,Manchester United,Eng,0,2
+2001,Manchester United,Eng,Sturm Graz,Aut,3,0
+2001,Sturm Graz,Aut,Panathinaikos,Gre,2,0
+2001,Panathinaikos,Gre,Sturm Graz,Aut,1,2
+2001,Valencia,Esp,Manchester United,Eng,0,0
+2001,Manchester United,Eng,Valencia,Esp,1,1
+2001,AC Milan,Ita,Galatasaray,Tur,2,2
+2001,Galatasaray,Tur,AC Milan,Ita,2,0
+2001,Paris Saint-Germain,Fra,Deportivo La Coruña,Esp,1,3
+2001,Deportivo La Coruña,Esp,Paris Saint-Germain,Fra,4,3
+2001,Deportivo La Coruña,Esp,AC Milan,Ita,0,1
+2001,AC Milan,Ita,Deportivo La Coruña,Esp,1,1
+2001,Galatasaray,Tur,Paris Saint-Germain,Fra,1,0
+2001,Paris Saint-Germain,Fra,Galatasaray,Tur,2,0
+2001,Galatasaray,Tur,Deportivo La Coruña,Esp,1,0
+2001,Deportivo La Coruña,Esp,Galatasaray,Tur,2,0
+2001,AC Milan,Ita,Paris Saint-Germain,Fra,1,1
+2001,Paris Saint-Germain,Fra,AC Milan,Ita,1,1
+2001,Bayern München,Ger,Olympique Lyon,Fra,1,0
+2001,Olympique Lyon,Fra,Bayern München,Ger,3,0
+2001,Spartak Moscow,Rus,Arsenal,Eng,4,1
+2001,Arsenal,Eng,Spartak Moscow,Rus,1,0
+2001,Arsenal,Eng,Bayern München,Ger,2,2
+2001,Bayern München,Ger,Arsenal,Eng,1,0
+2001,Olympique Lyon,Fra,Spartak Moscow,Rus,3,0
+2001,Spartak Moscow,Rus,Olympique Lyon,Fra,1,1
+2001,Olympique Lyon,Fra,Arsenal,Eng,0,1
+2001,Arsenal,Eng,Olympique Lyon,Fra,1,1
+2001,Bayern München,Ger,Spartak Moscow,Rus,1,0
+2001,Spartak Moscow,Rus,Bayern München,Ger,0,3
+2001,Leeds United,Eng,Real Madrid,Esp,0,2
+2001,Real Madrid,Esp,Leeds United,Eng,3,2
+2001,Anderlecht,Bel,Lazio Roma,Ita,1,0
+2001,Lazio Roma,Ita,Anderlecht,Bel,2,1
+2001,Lazio Roma,Ita,Leeds United,Eng,0,1
+2001,Leeds United,Eng,Lazio Roma,Ita,3,3
+2001,Real Madrid,Esp,Anderlecht,Bel,4,1
+2001,Anderlecht,Bel,Real Madrid,Esp,2,0
+2001,Real Madrid,Esp,Lazio Roma,Ita,3,2
+2001,Lazio Roma,Ita,Real Madrid,Esp,2,2
+2001,Leeds United,Eng,Anderlecht,Bel,2,1
+2001,Anderlecht,Bel,Leeds United,Eng,1,4
+2001,Manchester United,Eng,Bayern München,Ger,0,1
+2001,Bayern München,Ger,Manchester United,Eng,2,1
+2001,Galatasaray,Tur,Real Madrid,Esp,3,2
+2001,Real Madrid,Esp,Galatasaray,Tur,3,0
+2001,Leeds United,Eng,Deportivo La Coruña,Esp,3,0
+2001,Deportivo La Coruña,Esp,Leeds United,Eng,2,0
+2001,Arsenal,Eng,Valencia,Esp,2,1
+2001,Valencia,Esp,Arsenal,Eng,1,0
+2001,Leeds United,Eng,Valencia,Esp,0,0
+2001,Valencia,Esp,Leeds United,Eng,3,0
+2001,Real Madrid,Esp,Bayern München,Ger,0,1
+2001,Bayern München,Ger,Real Madrid,Esp,2,1
+2001,Valencia,Esp,Bayern München,Ger,1,1
+2002,Levski Sofia,Bul,Zeljeznicar Sarajevo,Bos,4,0
+2002,Zeljeznicar Sarajevo,Bos,Levski Sofia,Bul,0,0
+2002,Linfield Belfast,Nir,Torpedo Kutaisi,Geo,0,0
+2002,Torpedo Kutaisi,Geo,Linfield Belfast,Nir,1,0
+2002,KR Reykjavik,Isl,Vllaznia Shkodër,Alb,2,1
+2002,Vllaznia Shkodër,Alb,KR Reykjavik,Isl,1,0
+2002,Sloga Skopje,Mac,FBK Kaunas,Lit,0,0
+2002,FBK Kaunas,Lit,Sloga Skopje,Mac,1,1
+2002,VB Vágur,Far,Slavia Mozyr,Bls,0,0
+2002,Slavia Mozyr,Bls,VB Vágur,Far,5,0
+2002,Bohemians Dublin,Irl,Levadia Maardu,Est,3,0
+2002,Levadia Maardu,Est,Bohemians Dublin,Irl,0,0
+2002,Barry Town,Wal,FK Shamkir,Azb,2,0
+2002,FK Shamkir,Azb,Barry Town,Wal,0,1
+2002,Valletta FC,Mlt,Haka Valkeakoski,Fin,0,0
+2002,Haka Valkeakoski,Fin,Valletta FC,Mlt,5,0
+2002,F91 Dudelange,Lux,Skonto Riga,Lat,1,6
+2002,Skonto Riga,Lat,F91 Dudelange,Lux,0,1
+2002,Araks Ararat,Arm,Sheriff Tiraspol,Mol,0,1
+2002,Sheriff Tiraspol,Mol,Araks Ararat,Arm,2,0
+2002,Anderlecht,Bel,Sheriff Tiraspol,Mol,4,0
+2002,Sheriff Tiraspol,Mol,Anderlecht,Bel,1,2
+2002,Shakhtar Donetsk,Ukr,FC Lugano,Sui,3,0
+2002,FC Lugano,Sui,Shakhtar Donetsk,Ukr,2,1
+2002,Ferencváros,Hun,Hajduk Split,Cro,0,0
+2002,Hajduk Split,Cro,Ferencváros,Hun,0,0
+2002,Bohemians Dublin,Irl,Halmstads BK,Swe,1,2
+2002,Halmstads BK,Swe,Bohemians Dublin,Irl,2,0
+2002,Torpedo Kutaisi,Geo,FC København,Den,1,1
+2002,FC København,Den,Torpedo Kutaisi,Geo,3,1
+2002,Omonia Nicosia,Cyp,Red Star Belgrade,Srb,1,1
+2002,Red Star Belgrade,Srb,Omonia Nicosia,Cyp,2,1
+2002,Haka Valkeakoski,Fin,Maccabi Haifa,Isr,0,1
+2002,Maccabi Haifa,Isr,Haka Valkeakoski,Fin,0,3
+2002,Levski Sofia,Bul,SK Brann Bergen,Nor,0,0
+2002,SK Brann Bergen,Nor,Levski Sofia,Bul,1,1
+2002,Galatasaray,Tur,Vllaznia Shkodër,Alb,2,0
+2002,Vllaznia Shkodër,Alb,Galatasaray,Tur,1,4
+2002,FC Porto,Por,Barry Town,Wal,8,0
+2002,Barry Town,Wal,FC Porto,Por,3,1
+2002,Steaua Bucuresti,Rom,Sloga Skopje,Mac,3,0
+2002,Sloga Skopje,Mac,Steaua Bucuresti,Rom,1,2
+2002,Skonto Riga,Lat,Wisla Kraków,Pol,1,2
+2002,Wisla Kraków,Pol,Skonto Riga,Lat,1,0
+2002,Slavia Mozyr,Bls,Inter Bratislava,Svk,0,1
+2002,Inter Bratislava,Svk,Slavia Mozyr,Bls,1,0
+2002,NK Maribor,Slo,Glasgow Rangers,Sco,0,3
+2002,Glasgow Rangers,Sco,NK Maribor,Slo,3,1
+2002,Galatasaray,Tur,Levski Sofia,Bul,2,1
+2002,Levski Sofia,Bul,Galatasaray,Tur,1,1
+2002,Red Star Belgrade,Srb,Bayer Leverkusen,Ger,0,0
+2002,Bayer Leverkusen,Ger,Red Star Belgrade,Srb,3,0
+2002,Ajax,Ned,Celtic,Sco,1,3
+2002,Celtic,Sco,Ajax,Ned,0,1
+2002,Shakhtar Donetsk,Ukr,Borussia Dortmund,Ger,0,2
+2002,Borussia Dortmund,Ger,Shakhtar Donetsk,Ukr,3,1
+2002,Wisla Kraków,Pol,FC Barcelona,Esp,3,4
+2002,FC Barcelona,Esp,Wisla Kraków,Pol,1,0
+2002,Halmstads BK,Swe,Anderlecht,Bel,2,3
+2002,Anderlecht,Bel,Halmstads BK,Swe,1,1
+2002,FC Porto,Por,Grasshoppers Zürich,Sui,2,2
+2002,Grasshoppers Zürich,Sui,FC Porto,Por,2,3
+2002,Lokomotiv Moscow,Rus,FC Tirol Innsbruck,Aut,3,1
+2002,FC Tirol Innsbruck,Aut,Lokomotiv Moscow,Rus,1,0
+2002,Glasgow Rangers,Sco,Fenerbahçe,Tur,0,0
+2002,Fenerbahçe,Tur,Glasgow Rangers,Sco,2,1
+2002,Inter Bratislava,Svk,Rosenborg BK,Nor,3,3
+2002,Rosenborg BK,Nor,Inter Bratislava,Svk,4,0
+2002,Slavia Praha,Cze,Panathinaikos,Gre,1,2
+2002,Panathinaikos,Gre,Slavia Praha,Cze,1,0
+2002,AC Parma,Ita,Lille OSC,Fra,0,2
+2002,Lille OSC,Fra,AC Parma,Ita,0,1
+2002,Steaua Bucuresti,Rom,Dinamo Kiev,Ukr,2,4
+2002,Dinamo Kiev,Ukr,Steaua Bucuresti,Rom,1,1
+2002,FC København,Den,Lazio Roma,Ita,2,1
+2002,Lazio Roma,Ita,FC København,Den,4,1
+2002,Haka Valkeakoski,Fin,Liverpool,Eng,0,5
+2002,Liverpool,Eng,Haka Valkeakoski,Fin,4,1
+2002,Hajduk Split,Cro,Real Mallorca,Esp,1,0
+2002,Real Mallorca,Esp,Hajduk Split,Cro,2,0
+2002,AS Roma,Ita,Real Madrid,Esp,1,2
+2002,Real Madrid,Esp,AS Roma,Ita,1,1
+2002,Lokomotiv Moscow,Rus,Anderlecht,Bel,1,1
+2002,Anderlecht,Bel,Lokomotiv Moscow,Rus,1,5
+2002,Anderlecht,Bel,AS Roma,Ita,0,0
+2002,AS Roma,Ita,Anderlecht,Bel,1,1
+2002,Real Madrid,Esp,Lokomotiv Moscow,Rus,4,0
+2002,Lokomotiv Moscow,Rus,Real Madrid,Esp,2,0
+2002,Real Madrid,Esp,Anderlecht,Bel,4,1
+2002,Anderlecht,Bel,Real Madrid,Esp,0,2
+2002,AS Roma,Ita,Lokomotiv Moscow,Rus,2,1
+2002,Lokomotiv Moscow,Rus,AS Roma,Ita,0,1
+2002,Liverpool,Eng,Boavista,Por,1,1
+2002,Boavista,Por,Liverpool,Eng,1,1
+2002,Dinamo Kiev,Ukr,Borussia Dortmund,Ger,2,2
+2002,Borussia Dortmund,Ger,Dinamo Kiev,Ukr,1,0
+2002,Borussia Dortmund,Ger,Liverpool,Eng,0,0
+2002,Liverpool,Eng,Borussia Dortmund,Ger,2,0
+2002,Boavista,Por,Dinamo Kiev,Ukr,3,1
+2002,Dinamo Kiev,Ukr,Boavista,Por,1,0
+2002,Boavista,Por,Borussia Dortmund,Ger,2,1
+2002,Borussia Dortmund,Ger,Boavista,Por,2,1
+2002,Liverpool,Eng,Dinamo Kiev,Ukr,1,0
+2002,Dinamo Kiev,Ukr,Liverpool,Eng,1,2
+2002,Schalke 04,Ger,Panathinaikos,Gre,0,2
+2002,Panathinaikos,Gre,Schalke 04,Ger,2,0
+2002,Real Mallorca,Esp,Arsenal,Eng,1,0
+2002,Arsenal,Eng,Real Mallorca,Esp,3,1
+2002,Arsenal,Eng,Schalke 04,Ger,3,2
+2002,Schalke 04,Ger,Arsenal,Eng,3,1
+2002,Panathinaikos,Gre,Real Mallorca,Esp,2,0
+2002,Real Mallorca,Esp,Panathinaikos,Gre,1,0
+2002,Panathinaikos,Gre,Arsenal,Eng,1,0
+2002,Arsenal,Eng,Panathinaikos,Gre,2,1
+2002,Schalke 04,Ger,Real Mallorca,Esp,0,1
+2002,Real Mallorca,Esp,Schalke 04,Ger,0,4
+2002,FC Nantes,Fra,PSV Eindhoven,Ned,4,1
+2002,PSV Eindhoven,Ned,FC Nantes,Fra,0,0
+2002,Galatasaray,Tur,Lazio Roma,Ita,1,0
+2002,Lazio Roma,Ita,Galatasaray,Tur,1,0
+2002,Lazio Roma,Ita,FC Nantes,Fra,1,3
+2002,FC Nantes,Fra,Lazio Roma,Ita,1,0
+2002,PSV Eindhoven,Ned,Galatasaray,Tur,3,1
+2002,Galatasaray,Tur,PSV Eindhoven,Ned,2,0
+2002,PSV Eindhoven,Ned,Lazio Roma,Ita,1,0
+2002,Lazio Roma,Ita,PSV Eindhoven,Ned,2,1
+2002,FC Nantes,Fra,Galatasaray,Tur,0,1
+2002,Galatasaray,Tur,FC Nantes,Fra,0,0
+2002,Celtic,Sco,Rosenborg BK,Nor,1,0
+2002,Rosenborg BK,Nor,Celtic,Sco,2,0
+2002,FC Porto,Por,Juventus,Ita,0,0
+2002,Juventus,Ita,FC Porto,Por,3,1
+2002,Juventus,Ita,Celtic,Sco,3,2
+2002,Celtic,Sco,Juventus,Ita,4,3
+2002,Rosenborg BK,Nor,FC Porto,Por,1,2
+2002,FC Porto,Por,Rosenborg BK,Nor,1,0
+2002,Rosenborg BK,Nor,Juventus,Ita,1,1
+2002,Juventus,Ita,Rosenborg BK,Nor,1,0
+2002,Celtic,Sco,FC Porto,Por,1,0
+2002,FC Porto,Por,Celtic,Sco,3,0
+2002,Bayer Leverkusen,Ger,Fenerbahçe,Tur,2,1
+2002,Fenerbahçe,Tur,Bayer Leverkusen,Ger,1,2
+2002,FC Barcelona,Esp,Olympique Lyon,Fra,2,0
+2002,Olympique Lyon,Fra,FC Barcelona,Esp,2,3
+2002,Olympique Lyon,Fra,Bayer Leverkusen,Ger,0,1
+2002,Bayer Leverkusen,Ger,Olympique Lyon,Fra,2,4
+2002,Fenerbahçe,Tur,FC Barcelona,Esp,0,3
+2002,FC Barcelona,Esp,Fenerbahçe,Tur,1,0
+2002,Fenerbahçe,Tur,Olympique Lyon,Fra,0,1
+2002,Olympique Lyon,Fra,Fenerbahçe,Tur,3,1
+2002,Bayer Leverkusen,Ger,FC Barcelona,Esp,2,1
+2002,FC Barcelona,Esp,Bayer Leverkusen,Ger,2,1
+2002,Lille OSC,Fra,Deportivo La Coruña,Esp,1,1
+2002,Deportivo La Coruña,Esp,Lille OSC,Fra,1,1
+2002,Olympiakos Piraeus,Gre,Manchester United,Eng,0,2
+2002,Manchester United,Eng,Olympiakos Piraeus,Gre,3,0
+2002,Manchester United,Eng,Lille OSC,Fra,1,0
+2002,Lille OSC,Fra,Manchester United,Eng,1,1
+2002,Deportivo La Coruña,Esp,Olympiakos Piraeus,Gre,2,2
+2002,Olympiakos Piraeus,Gre,Deportivo La Coruña,Esp,1,1
+2002,Deportivo La Coruña,Esp,Manchester United,Eng,2,1
+2002,Manchester United,Eng,Deportivo La Coruña,Esp,2,3
+2002,Lille OSC,Fra,Olympiakos Piraeus,Gre,3,1
+2002,Olympiakos Piraeus,Gre,Lille OSC,Fra,2,1
+2002,Sparta Praha,Cze,Spartak Moscow,Rus,2,0
+2002,Spartak Moscow,Rus,Sparta Praha,Cze,2,2
+2002,Feyenoord,Ned,Bayern München,Ger,2,2
+2002,Bayern München,Ger,Feyenoord,Ned,3,1
+2002,Bayern München,Ger,Sparta Praha,Cze,0,0
+2002,Sparta Praha,Cze,Bayern München,Ger,0,1
+2002,Spartak Moscow,Rus,Feyenoord,Ned,2,2
+2002,Feyenoord,Ned,Spartak Moscow,Rus,2,1
+2002,Spartak Moscow,Rus,Bayern München,Ger,1,3
+2002,Bayern München,Ger,Spartak Moscow,Rus,5,1
+2002,Sparta Praha,Cze,Feyenoord,Ned,4,0
+2002,Feyenoord,Ned,Sparta Praha,Cze,0,2
+2002,Bayern München,Ger,Manchester United,Eng,1,1
+2002,Manchester United,Eng,Bayern München,Ger,0,0
+2002,Boavista,Por,FC Nantes,Fra,1,0
+2002,FC Nantes,Fra,Boavista,Por,1,1
+2002,Manchester United,Eng,Boavista,Por,3,0
+2002,Boavista,Por,Manchester United,Eng,0,3
+2002,FC Nantes,Fra,Bayern München,Ger,0,1
+2002,Bayern München,Ger,FC Nantes,Fra,2,1
+2002,FC Nantes,Fra,Manchester United,Eng,1,1
+2002,Manchester United,Eng,FC Nantes,Fra,5,1
+2002,Boavista,Por,Bayern München,Ger,0,0
+2002,Bayern München,Ger,Boavista,Por,1,0
+2002,Galatasaray,Tur,AS Roma,Ita,1,1
+2002,AS Roma,Ita,Galatasaray,Tur,1,1
+2002,Liverpool,Eng,FC Barcelona,Esp,1,3
+2002,FC Barcelona,Esp,Liverpool,Eng,0,0
+2002,AS Roma,Ita,Liverpool,Eng,0,0
+2002,Liverpool,Eng,AS Roma,Ita,2,0
+2002,FC Barcelona,Esp,Galatasaray,Tur,2,2
+2002,Galatasaray,Tur,FC Barcelona,Esp,0,1
+2002,FC Barcelona,Esp,AS Roma,Ita,1,1
+2002,AS Roma,Ita,FC Barcelona,Esp,3,0
+2002,Liverpool,Eng,Galatasaray,Tur,0,0
+2002,Galatasaray,Tur,Liverpool,Eng,1,1
+2002,Panathinaikos,Gre,FC Porto,Por,0,0
+2002,FC Porto,Por,Panathinaikos,Gre,2,1
+2002,Sparta Praha,Cze,Real Madrid,Esp,2,3
+2002,Real Madrid,Esp,Sparta Praha,Cze,3,0
+2002,FC Porto,Por,Sparta Praha,Cze,0,1
+2002,Sparta Praha,Cze,FC Porto,Por,2,0
+2002,Real Madrid,Esp,Panathinaikos,Gre,3,0
+2002,Panathinaikos,Gre,Real Madrid,Esp,2,2
+2002,Real Madrid,Esp,FC Porto,Por,1,0
+2002,FC Porto,Por,Real Madrid,Esp,1,2
+2002,Sparta Praha,Cze,Panathinaikos,Gre,0,2
+2002,Panathinaikos,Gre,Sparta Praha,Cze,2,1
+2002,Deportivo La Coruña,Esp,Arsenal,Eng,2,0
+2002,Arsenal,Eng,Deportivo La Coruña,Esp,0,2
+2002,Juventus,Ita,Bayer Leverkusen,Ger,4,0
+2002,Bayer Leverkusen,Ger,Juventus,Ita,3,1
+2002,Arsenal,Eng,Juventus,Ita,3,1
+2002,Juventus,Ita,Arsenal,Eng,1,0
+2002,Bayer Leverkusen,Ger,Deportivo La Coruña,Esp,3,0
+2002,Deportivo La Coruña,Esp,Bayer Leverkusen,Ger,1,3
+2002,Bayer Leverkusen,Ger,Arsenal,Eng,1,1
+2002,Arsenal,Eng,Bayer Leverkusen,Ger,4,1
+2002,Juventus,Ita,Deportivo La Coruña,Esp,0,0
+2002,Deportivo La Coruña,Esp,Juventus,Ita,2,0
+2002,Panathinaikos,Gre,FC Barcelona,Esp,1,0
+2002,FC Barcelona,Esp,Panathinaikos,Gre,3,1
+2002,Bayern München,Ger,Real Madrid,Esp,2,1
+2002,Real Madrid,Esp,Bayern München,Ger,2,0
+2002,Deportivo La Coruña,Esp,Manchester United,Eng,0,2
+2002,Manchester United,Eng,Deportivo La Coruña,Esp,3,2
+2002,Liverpool,Eng,Bayer Leverkusen,Ger,1,0
+2002,Bayer Leverkusen,Ger,Liverpool,Eng,4,2
+2002,FC Barcelona,Esp,Real Madrid,Esp,0,2
+2002,Real Madrid,Esp,FC Barcelona,Esp,1,1
+2002,Manchester United,Eng,Bayer Leverkusen,Ger,2,2
+2002,Bayer Leverkusen,Ger,Manchester United,Eng,1,1
+2002,Bayer Leverkusen,Ger,Real Madrid,Esp,1,2
+2003,Tampere United,Fin,Pyunik Yerevan,Arm,0,4
+2003,Pyunik Yerevan,Arm,Tampere United,Fin,2,0
+2003,Skonto Riga,Lat,Barry Town,Wal,5,0
+2003,Barry Town,Wal,Skonto Riga,Lat,0,1
+2003,Portadown,Nir,Belshina Bobruisk,Bls,0,0
+2003,Belshina Bobruisk,Bls,Portadown,Nir,3,2
+2003,F91 Dudelange,Lux,Vardar Skopje,Mac,1,1
+2003,Vardar Skopje,Mac,F91 Dudelange,Lux,3,0
+2003,FBK Kaunas,Lit,Dinamo Tirana,Alb,2,3
+2003,Dinamo Tirana,Alb,FBK Kaunas,Lit,0,0
+2003,Flora Tallinn,Est,APOEL Nicosia,Cyp,0,0
+2003,APOEL Nicosia,Cyp,Flora Tallinn,Est,1,0
+2003,Zeljeznicar Sarajevo,Bos,IA Akranes,Isl,3,0
+2003,IA Akranes,Isl,Zeljeznicar Sarajevo,Bos,0,1
+2003,Hibernians FC,Mlt,Shelbourne,Irl,2,2
+2003,Shelbourne,Irl,Hibernians FC,Mlt,0,1
+2003,Torpedo Kutaisi,Geo,B36 Torshavn,Far,5,2
+2003,B36 Torshavn,Far,Torpedo Kutaisi,Geo,0,1
+2003,Sheriff Tiraspol,Mol,FK Astana,Kaz,2,1
+2003,FK Astana,Kaz,Sheriff Tiraspol,Mol,3,2
+2003,Zalaegerszeg TE,Hun,NK Zagreb,Cro,1,0
+2003,NK Zagreb,Cro,Zalaegerszeg TE,Hun,2,1
+2003,Club Brugge,Bel,Dinamo Bucuresti,Rom,3,1
+2003,Dinamo Bucuresti,Rom,Club Brugge,Bel,0,1
+2003,MSK Zilina,Svk,FC Basel,Sui,1,1
+2003,FC Basel,Sui,MSK Zilina,Svk,3,0
+2003,Skonto Riga,Lat,Levski Sofia,Bul,0,0
+2003,Levski Sofia,Bul,Skonto Riga,Lat,2,0
+2003,Dinamo Kiev,Ukr,Pyunik Yerevan,Arm,4,0
+2003,Pyunik Yerevan,Arm,Dinamo Kiev,Ukr,2,2
+2003,Brøndby IF,Den,Dinamo Tirana,Alb,1,0
+2003,Dinamo Tirana,Alb,Brøndby IF,Den,0,4
+2003,NK Maribor,Slo,APOEL Nicosia,Cyp,2,1
+2003,APOEL Nicosia,Cyp,NK Maribor,Slo,4,2
+2003,Vardar Skopje,Mac,Legia Warsaw,Pol,1,3
+2003,Legia Warsaw,Pol,Vardar Skopje,Mac,1,1
+2003,Boavista,Por,Hibernians FC,Mlt,4,0
+2003,Hibernians FC,Mlt,Boavista,Por,3,3
+2003,Maccabi Haifa,Isr,Belshina Bobruisk,Bls,4,0
+2003,Belshina Bobruisk,Bls,Maccabi Haifa,Isr,0,1
+2003,Lillestrøm SK,Nor,Zeljeznicar Sarajevo,Bos,0,1
+2003,Zeljeznicar Sarajevo,Bos,Lillestrøm SK,Nor,1,0
+2003,Hammarby IF,Swe,Partizan Belgrade,Srb,1,1
+2003,Partizan Belgrade,Srb,Hammarby IF,Swe,4,0
+2003,Sparta Praha,Cze,Torpedo Kutaisi,Geo,3,0
+2003,Torpedo Kutaisi,Geo,Sparta Praha,Cze,1,2
+2003,Sheriff Tiraspol,Mol,Grazer AK,Aut,1,4
+2003,Grazer AK,Aut,Sheriff Tiraspol,Mol,2,0
+2003,Maccabi Haifa,Isr,Sturm Graz,Aut,2,0
+2003,Sturm Graz,Aut,Maccabi Haifa,Isr,3,3
+2003,Sporting CP Lisbon,Por,Internazionale,Ita,0,0
+2003,Internazionale,Ita,Sporting CP Lisbon,Por,2,0
+2003,Zalaegerszeg TE,Hun,Manchester United,Eng,1,0
+2003,Manchester United,Eng,Zalaegerszeg TE,Hun,5,0
+2003,Boavista,Por,AJ Auxerre,Fra,0,1
+2003,AJ Auxerre,Fra,Boavista,Por,0,0
+2003,FC Barcelona,Esp,Legia Warsaw,Pol,3,0
+2003,Legia Warsaw,Pol,FC Barcelona,Esp,0,1
+2003,Levski Sofia,Bul,Dinamo Kiev,Ukr,0,1
+2003,Dinamo Kiev,Ukr,Levski Sofia,Bul,1,0
+2003,Zeljeznicar Sarajevo,Bos,Newcastle United,Eng,0,1
+2003,Newcastle United,Eng,Zeljeznicar Sarajevo,Bos,4,0
+2003,Feyenoord,Ned,Fenerbahçe,Tur,1,0
+2003,Fenerbahçe,Tur,Feyenoord,Ned,0,2
+2003,AC Milan,Ita,Slovan Liberec,Cze,1,0
+2003,Slovan Liberec,Cze,AC Milan,Ita,2,1
+2003,Grazer AK,Aut,Lokomotiv Moscow,Rus,0,2
+2003,Lokomotiv Moscow,Rus,Grazer AK,Aut,3,3
+2003,APOEL Nicosia,Cyp,AEK Athens,Gre,2,3
+2003,AEK Athens,Gre,APOEL Nicosia,Cyp,1,0
+2003,Partizan Belgrade,Srb,Bayern München,Ger,0,3
+2003,Bayern München,Ger,Partizan Belgrade,Srb,3,1
+2003,Celtic,Sco,FC Basel,Sui,3,1
+2003,FC Basel,Sui,Celtic,Sco,2,0
+2003,Rosenborg BK,Nor,Brøndby IF,Den,1,0
+2003,Brøndby IF,Den,Rosenborg BK,Nor,2,3
+2003,Racing Genk,Bel,Sparta Praha,Cze,2,0
+2003,Sparta Praha,Cze,Racing Genk,Bel,4,2
+2003,Shakhtar Donetsk,Ukr,Club Brugge,Bel,1,1
+2003,Club Brugge,Bel,Shakhtar Donetsk,Ukr,1,1
+2003,AJ Auxerre,Fra,PSV Eindhoven,Ned,0,0
+2003,PSV Eindhoven,Ned,AJ Auxerre,Fra,3,0
+2003,Arsenal,Eng,Borussia Dortmund,Ger,2,0
+2003,Borussia Dortmund,Ger,Arsenal,Eng,2,1
+2003,Borussia Dortmund,Ger,AJ Auxerre,Fra,2,1
+2003,AJ Auxerre,Fra,Borussia Dortmund,Ger,1,0
+2003,PSV Eindhoven,Ned,Arsenal,Eng,0,4
+2003,Arsenal,Eng,PSV Eindhoven,Ned,0,0
+2003,PSV Eindhoven,Ned,Borussia Dortmund,Ger,1,3
+2003,Borussia Dortmund,Ger,PSV Eindhoven,Ned,1,1
+2003,AJ Auxerre,Fra,Arsenal,Eng,0,1
+2003,Arsenal,Eng,AJ Auxerre,Fra,1,2
+2003,Valencia,Esp,Liverpool,Eng,2,0
+2003,Liverpool,Eng,Valencia,Esp,0,1
+2003,FC Basel,Sui,Spartak Moscow,Rus,2,0
+2003,Spartak Moscow,Rus,FC Basel,Sui,0,2
+2003,Spartak Moscow,Rus,Valencia,Esp,0,3
+2003,Valencia,Esp,Spartak Moscow,Rus,3,0
+2003,Liverpool,Eng,FC Basel,Sui,1,1
+2003,FC Basel,Sui,Liverpool,Eng,3,3
+2003,Liverpool,Eng,Spartak Moscow,Rus,5,0
+2003,Spartak Moscow,Rus,Liverpool,Eng,1,3
+2003,Valencia,Esp,FC Basel,Sui,6,2
+2003,FC Basel,Sui,Valencia,Esp,2,2
+2003,Racing Genk,Bel,AEK Athens,Gre,0,0
+2003,AEK Athens,Gre,Racing Genk,Bel,1,1
+2003,AS Roma,Ita,Real Madrid,Esp,0,3
+2003,Real Madrid,Esp,AS Roma,Ita,0,1
+2003,Real Madrid,Esp,Racing Genk,Bel,6,0
+2003,Racing Genk,Bel,Real Madrid,Esp,1,1
+2003,AEK Athens,Gre,AS Roma,Ita,0,0
+2003,AS Roma,Ita,AEK Athens,Gre,1,1
+2003,AEK Athens,Gre,Real Madrid,Esp,3,3
+2003,Real Madrid,Esp,AEK Athens,Gre,2,2
+2003,Racing Genk,Bel,AS Roma,Ita,0,1
+2003,AS Roma,Ita,Racing Genk,Bel,0,0
+2003,Rosenborg BK,Nor,Internazionale,Ita,2,2
+2003,Internazionale,Ita,Rosenborg BK,Nor,3,0
+2003,Ajax,Ned,Olympique Lyon,Fra,2,1
+2003,Olympique Lyon,Fra,Ajax,Ned,0,2
+2003,Olympique Lyon,Fra,Rosenborg BK,Nor,5,0
+2003,Rosenborg BK,Nor,Olympique Lyon,Fra,1,1
+2003,Internazionale,Ita,Ajax,Ned,1,0
+2003,Ajax,Ned,Internazionale,Ita,1,2
+2003,Internazionale,Ita,Olympique Lyon,Fra,1,2
+2003,Olympique Lyon,Fra,Internazionale,Ita,3,3
+2003,Rosenborg BK,Nor,Ajax,Ned,0,0
+2003,Ajax,Ned,Rosenborg BK,Nor,1,1
+2003,Feyenoord,Ned,Juventus,Ita,1,1
+2003,Juventus,Ita,Feyenoord,Ned,2,0
+2003,Dinamo Kiev,Ukr,Newcastle United,Eng,2,0
+2003,Newcastle United,Eng,Dinamo Kiev,Ukr,2,1
+2003,Newcastle United,Eng,Feyenoord,Ned,0,1
+2003,Feyenoord,Ned,Newcastle United,Eng,2,3
+2003,Juventus,Ita,Dinamo Kiev,Ukr,5,0
+2003,Dinamo Kiev,Ukr,Juventus,Ita,1,2
+2003,Juventus,Ita,Newcastle United,Eng,2,0
+2003,Newcastle United,Eng,Juventus,Ita,1,0
+2003,Feyenoord,Ned,Dinamo Kiev,Ukr,0,0
+2003,Dinamo Kiev,Ukr,Feyenoord,Ned,2,0
+2003,Manchester United,Eng,Maccabi Haifa,Isr,5,2
+2003,Maccabi Haifa,Isr,Manchester United,Eng,3,0
+2003,Olympiakos Piraeus,Gre,Bayer Leverkusen,Ger,6,2
+2003,Bayer Leverkusen,Ger,Olympiakos Piraeus,Gre,2,0
+2003,Bayer Leverkusen,Ger,Manchester United,Eng,1,2
+2003,Manchester United,Eng,Bayer Leverkusen,Ger,2,0
+2003,Maccabi Haifa,Isr,Olympiakos Piraeus,Gre,3,0
+2003,Olympiakos Piraeus,Gre,Maccabi Haifa,Isr,3,3
+2003,Maccabi Haifa,Isr,Bayer Leverkusen,Ger,0,2
+2003,Bayer Leverkusen,Ger,Maccabi Haifa,Isr,2,1
+2003,Manchester United,Eng,Olympiakos Piraeus,Gre,4,0
+2003,Olympiakos Piraeus,Gre,Manchester United,Eng,2,3
+2003,Bayern München,Ger,Deportivo La Coruña,Esp,2,3
+2003,Deportivo La Coruña,Esp,Bayern München,Ger,2,1
+2003,AC Milan,Ita,RC Lens,Fra,2,1
+2003,RC Lens,Fra,AC Milan,Ita,2,1
+2003,RC Lens,Fra,Bayern München,Ger,1,1
+2003,Bayern München,Ger,RC Lens,Fra,3,3
+2003,Deportivo La Coruña,Esp,AC Milan,Ita,0,4
+2003,AC Milan,Ita,Deportivo La Coruña,Esp,1,2
+2003,Deportivo La Coruña,Esp,RC Lens,Fra,3,1
+2003,RC Lens,Fra,Deportivo La Coruña,Esp,3,1
+2003,Bayern München,Ger,AC Milan,Ita,1,2
+2003,AC Milan,Ita,Bayern München,Ger,2,1
+2003,Lokomotiv Moscow,Rus,Galatasaray,Tur,0,2
+2003,Galatasaray,Tur,Lokomotiv Moscow,Rus,1,2
+2003,FC Barcelona,Esp,Club Brugge,Bel,3,2
+2003,Club Brugge,Bel,FC Barcelona,Esp,0,1
+2003,Club Brugge,Bel,Lokomotiv Moscow,Rus,0,0
+2003,Lokomotiv Moscow,Rus,Club Brugge,Bel,2,0
+2003,Galatasaray,Tur,FC Barcelona,Esp,0,2
+2003,FC Barcelona,Esp,Galatasaray,Tur,3,1
+2003,Galatasaray,Tur,Club Brugge,Bel,0,0
+2003,Club Brugge,Bel,Galatasaray,Tur,3,1
+2003,Lokomotiv Moscow,Rus,FC Barcelona,Esp,1,3
+2003,FC Barcelona,Esp,Lokomotiv Moscow,Rus,1,0
+2003,Newcastle United,Eng,Internazionale,Ita,1,4
+2003,Internazionale,Ita,Newcastle United,Eng,2,2
+2003,Bayer Leverkusen,Ger,FC Barcelona,Esp,1,2
+2003,FC Barcelona,Esp,Bayer Leverkusen,Ger,2,0
+2003,Internazionale,Ita,Bayer Leverkusen,Ger,3,2
+2003,Bayer Leverkusen,Ger,Internazionale,Ita,0,2
+2003,FC Barcelona,Esp,Newcastle United,Eng,3,1
+2003,Newcastle United,Eng,FC Barcelona,Esp,0,2
+2003,FC Barcelona,Esp,Internazionale,Ita,3,0
+2003,Internazionale,Ita,FC Barcelona,Esp,0,0
+2003,Bayer Leverkusen,Ger,Newcastle United,Eng,1,3
+2003,Newcastle United,Eng,Bayer Leverkusen,Ger,3,1
+2003,Valencia,Esp,Ajax,Ned,1,1
+2003,Ajax,Ned,Valencia,Esp,1,1
+2003,AS Roma,Ita,Arsenal,Eng,1,3
+2003,Arsenal,Eng,AS Roma,Ita,1,1
+2003,Arsenal,Eng,Valencia,Esp,0,0
+2003,Valencia,Esp,Arsenal,Eng,2,1
+2003,Ajax,Ned,AS Roma,Ita,2,1
+2003,AS Roma,Ita,Ajax,Ned,1,1
+2003,Arsenal,Eng,Ajax,Ned,1,1
+2003,Ajax,Ned,Arsenal,Eng,0,0
+2003,AS Roma,Ita,Valencia,Esp,0,1
+2003,Valencia,Esp,AS Roma,Ita,0,3
+2003,Lokomotiv Moscow,Rus,Borussia Dortmund,Ger,1,2
+2003,Borussia Dortmund,Ger,Lokomotiv Moscow,Rus,3,0
+2003,AC Milan,Ita,Real Madrid,Esp,1,0
+2003,Real Madrid,Esp,AC Milan,Ita,3,1
+2003,Borussia Dortmund,Ger,AC Milan,Ita,0,1
+2003,AC Milan,Ita,Borussia Dortmund,Ger,0,1
+2003,Real Madrid,Esp,Lokomotiv Moscow,Rus,2,2
+2003,Lokomotiv Moscow,Rus,Real Madrid,Esp,0,1
+2003,Real Madrid,Esp,Borussia Dortmund,Ger,2,1
+2003,Borussia Dortmund,Ger,Real Madrid,Esp,1,1
+2003,AC Milan,Ita,Lokomotiv Moscow,Rus,1,0
+2003,Lokomotiv Moscow,Rus,AC Milan,Ita,0,1
+2003,Deportivo La Coruña,Esp,Juventus,Ita,2,2
+2003,Juventus,Ita,Deportivo La Coruña,Esp,3,2
+2003,FC Basel,Sui,Manchester United,Eng,1,3
+2003,Manchester United,Eng,FC Basel,Sui,1,1
+2003,Manchester United,Eng,Deportivo La Coruña,Esp,2,0
+2003,Deportivo La Coruña,Esp,Manchester United,Eng,2,0
+2003,Juventus,Ita,FC Basel,Sui,4,0
+2003,FC Basel,Sui,Juventus,Ita,2,1
+2003,Manchester United,Eng,Juventus,Ita,2,1
+2003,Juventus,Ita,Manchester United,Eng,0,3
+2003,FC Basel,Sui,Deportivo La Coruña,Esp,1,0
+2003,Deportivo La Coruña,Esp,FC Basel,Sui,1,0
+2003,Real Madrid,Esp,Manchester United,Eng,3,1
+2003,Manchester United,Eng,Real Madrid,Esp,4,3
+2003,Ajax,Ned,AC Milan,Ita,0,0
+2003,AC Milan,Ita,Ajax,Ned,3,2
+2003,Internazionale,Ita,Valencia,Esp,1,0
+2003,Valencia,Esp,Internazionale,Ita,2,1
+2003,Juventus,Ita,FC Barcelona,Esp,1,1
+2003,FC Barcelona,Esp,Juventus,Ita,1,2
+2003,Real Madrid,Esp,Juventus,Ita,2,1
+2003,Juventus,Ita,Real Madrid,Esp,3,1
+2003,AC Milan,Ita,Internazionale,Ita,0,0
+2003,Internazionale,Ita,AC Milan,Ita,1,1
+2003,AC Milan,Ita,Juventus,Ita,0,0
+2004,Pyunik Yerevan,Arm,KR Reykjavik,Isl,1,0
+2004,KR Reykjavik,Isl,Pyunik Yerevan,Arm,1,1
+2004,Sheriff Tiraspol,Mol,Flora Tallinn,Est,1,0
+2004,Flora Tallinn,Est,Sheriff Tiraspol,Mol,1,1
+2004,HB Torshavn,Far,FBK Kaunas,Lit,0,1
+2004,FBK Kaunas,Lit,HB Torshavn,Far,4,1
+2004,BATE Borisov,Bls,Bohemians Dublin,Irl,1,0
+2004,Bohemians Dublin,Irl,BATE Borisov,Bls,3,0
+2004,Vardar Skopje,Mac,Barry Town,Wal,3,0
+2004,Barry Town,Wal,Vardar Skopje,Mac,2,1
+2004,CS Grevenmacher,Lux,Leotar Trebinje,Bos,0,0
+2004,Leotar Trebinje,Bos,CS Grevenmacher,Lux,2,0
+2004,Glentoran,Nir,HJK Helsinki,Fin,0,0
+2004,HJK Helsinki,Fin,Glentoran,Nir,1,0
+2004,Sliema Wanderers,Mlt,Skonto Riga,Lat,2,0
+2004,Skonto Riga,Lat,Sliema Wanderers,Mlt,3,1
+2004,Omonia Nicosia,Cyp,Irtysh Pavlodar,Kaz,0,0
+2004,Irtysh Pavlodar,Kaz,Omonia Nicosia,Cyp,1,2
+2004,Dinamo Tbilisi,Geo,SK Tirana,Alb,3,0
+2004,SK Tirana,Alb,Dinamo Tbilisi,Geo,3,0
+2004,MTK Budapest,Hun,HJK Helsinki,Fin,3,1
+2004,HJK Helsinki,Fin,MTK Budapest,Hun,1,0
+2004,Pyunik Yerevan,Arm,CSKA Sofia,Bul,0,2
+2004,CSKA Sofia,Bul,Pyunik Yerevan,Arm,1,0
+2004,FBK Kaunas,Lit,Celtic,Sco,0,4
+2004,Celtic,Sco,FBK Kaunas,Lit,1,0
+2004,Leotar Trebinje,Bos,Slavia Praha,Cze,1,2
+2004,Slavia Praha,Cze,Leotar Trebinje,Bos,2,0
+2004,Sheriff Tiraspol,Mol,Shakhtar Donetsk,Ukr,0,0
+2004,Shakhtar Donetsk,Ukr,Sheriff Tiraspol,Mol,2,0
+2004,MSK Zilina,Svk,Maccabi Tel-Aviv,Isr,1,0
+2004,Maccabi Tel-Aviv,Isr,MSK Zilina,Svk,1,1
+2004,Bohemians Dublin,Irl,Rosenborg BK,Nor,0,1
+2004,Rosenborg BK,Nor,Bohemians Dublin,Irl,4,0
+2004,NK Maribor,Slo,Dinamo Zagreb,Cro,1,1
+2004,Dinamo Zagreb,Cro,NK Maribor,Slo,2,1
+2004,CSKA Moscow,Rus,Vardar Skopje,Mac,1,2
+2004,Vardar Skopje,Mac,CSKA Moscow,Rus,1,1
+2004,Rapid Bucuresti,Rom,Anderlecht,Bel,0,0
+2004,Anderlecht,Bel,Rapid Bucuresti,Rom,3,2
+2004,Partizan Belgrade,Srb,Djurgårdens IF,Swe,1,1
+2004,Djurgårdens IF,Swe,Partizan Belgrade,Srb,2,2
+2004,Wisla Kraków,Pol,Omonia Nicosia,Cyp,5,2
+2004,Omonia Nicosia,Cyp,Wisla Kraków,Pol,2,2
+2004,FC København,Den,Sliema Wanderers,Mlt,4,1
+2004,Sliema Wanderers,Mlt,FC København,Den,0,6
+2004,SK Tirana,Alb,Grazer AK,Aut,1,5
+2004,Grazer AK,Aut,SK Tirana,Alb,2,1
+2004,Vardar Skopje,Mac,Sparta Praha,Cze,2,3
+2004,Sparta Praha,Cze,Vardar Skopje,Mac,2,2
+2004,MTK Budapest,Hun,Celtic,Sco,0,4
+2004,Celtic,Sco,MTK Budapest,Hun,1,0
+2004,Glasgow Rangers,Sco,FC København,Den,1,1
+2004,FC København,Den,Glasgow Rangers,Sco,1,2
+2004,Austria Wien,Aut,Olympique Marseille,Fra,0,1
+2004,Olympique Marseille,Fra,Austria Wien,Aut,0,0
+2004,Club Brugge,Bel,Borussia Dortmund,Ger,2,1
+2004,Borussia Dortmund,Ger,Club Brugge,Bel,2,1
+2004,Shakhtar Donetsk,Ukr,Lokomotiv Moscow,Rus,1,0
+2004,Lokomotiv Moscow,Rus,Shakhtar Donetsk,Ukr,3,1
+2004,Lazio Roma,Ita,Benfica,Por,3,1
+2004,Benfica,Por,Lazio Roma,Ita,0,1
+2004,Dinamo Kiev,Ukr,Dinamo Zagreb,Cro,3,1
+2004,Dinamo Zagreb,Cro,Dinamo Kiev,Ukr,0,2
+2004,Rosenborg BK,Nor,Deportivo La Coruña,Esp,0,0
+2004,Deportivo La Coruña,Esp,Rosenborg BK,Nor,1,0
+2004,Grasshoppers Zürich,Sui,AEK Athens,Gre,1,0
+2004,AEK Athens,Gre,Grasshoppers Zürich,Sui,3,1
+2004,MSK Zilina,Svk,Chelsea,Eng,0,2
+2004,Chelsea,Eng,MSK Zilina,Svk,3,0
+2004,Celta de Vigo,Esp,Slavia Praha,Cze,3,0
+2004,Slavia Praha,Cze,Celta de Vigo,Esp,2,0
+2004,Partizan Belgrade,Srb,Newcastle United,Eng,0,1
+2004,Newcastle United,Eng,Partizan Belgrade,Srb,0,1
+2004,Galatasaray,Tur,CSKA Sofia,Bul,3,0
+2004,CSKA Sofia,Bul,Galatasaray,Tur,0,3
+2004,Anderlecht,Bel,Wisla Kraków,Pol,3,1
+2004,Wisla Kraków,Pol,Anderlecht,Bel,0,1
+2004,Grazer AK,Aut,Ajax,Ned,1,1
+2004,Ajax,Ned,Grazer AK,Aut,2,1
+2004,Olympique Lyon,Fra,Anderlecht,Bel,1,0
+2004,Anderlecht,Bel,Olympique Lyon,Fra,1,0
+2004,Bayern München,Ger,Celtic,Sco,2,1
+2004,Celtic,Sco,Bayern München,Ger,0,0
+2004,Celtic,Sco,Olympique Lyon,Fra,2,0
+2004,Olympique Lyon,Fra,Celtic,Sco,3,2
+2004,Anderlecht,Bel,Bayern München,Ger,1,1
+2004,Bayern München,Ger,Anderlecht,Bel,1,0
+2004,Anderlecht,Bel,Celtic,Sco,1,0
+2004,Celtic,Sco,Anderlecht,Bel,3,1
+2004,Olympique Lyon,Fra,Bayern München,Ger,1,1
+2004,Bayern München,Ger,Olympique Lyon,Fra,1,2
+2004,Dinamo Kiev,Ukr,Lokomotiv Moscow,Rus,2,0
+2004,Lokomotiv Moscow,Rus,Dinamo Kiev,Ukr,3,2
+2004,Arsenal,Eng,Internazionale,Ita,0,3
+2004,Internazionale,Ita,Arsenal,Eng,1,5
+2004,Internazionale,Ita,Dinamo Kiev,Ukr,2,1
+2004,Dinamo Kiev,Ukr,Internazionale,Ita,1,1
+2004,Lokomotiv Moscow,Rus,Arsenal,Eng,0,0
+2004,Arsenal,Eng,Lokomotiv Moscow,Rus,2,0
+2004,Lokomotiv Moscow,Rus,Internazionale,Ita,3,0
+2004,Internazionale,Ita,Lokomotiv Moscow,Rus,1,1
+2004,Dinamo Kiev,Ukr,Arsenal,Eng,2,1
+2004,Arsenal,Eng,Dinamo Kiev,Ukr,1,0
+2004,AEK Athens,Gre,Deportivo La Coruña,Esp,1,1
+2004,Deportivo La Coruña,Esp,AEK Athens,Gre,3,0
+2004,PSV Eindhoven,Ned,AS Monaco,Fra,1,2
+2004,AS Monaco,Fra,PSV Eindhoven,Ned,1,1
+2004,AS Monaco,Fra,AEK Athens,Gre,4,0
+2004,AEK Athens,Gre,AS Monaco,Fra,0,0
+2004,Deportivo La Coruña,Esp,PSV Eindhoven,Ned,2,0
+2004,PSV Eindhoven,Ned,Deportivo La Coruña,Esp,3,2
+2004,Deportivo La Coruña,Esp,AS Monaco,Fra,1,0
+2004,AS Monaco,Fra,Deportivo La Coruña,Esp,8,3
+2004,AEK Athens,Gre,PSV Eindhoven,Ned,0,1
+2004,PSV Eindhoven,Ned,AEK Athens,Gre,2,0
+2004,Juventus,Ita,Galatasaray,Tur,2,1
+2004,Galatasaray,Tur,Juventus,Ita,2,0
+2004,Real Sociedad,Esp,Olympiakos Piraeus,Gre,1,0
+2004,Olympiakos Piraeus,Gre,Real Sociedad,Esp,2,2
+2004,Olympiakos Piraeus,Gre,Juventus,Ita,1,2
+2004,Juventus,Ita,Olympiakos Piraeus,Gre,7,0
+2004,Galatasaray,Tur,Real Sociedad,Esp,1,2
+2004,Real Sociedad,Esp,Galatasaray,Tur,1,1
+2004,Galatasaray,Tur,Olympiakos Piraeus,Gre,1,0
+2004,Olympiakos Piraeus,Gre,Galatasaray,Tur,3,0
+2004,Juventus,Ita,Real Sociedad,Esp,4,2
+2004,Real Sociedad,Esp,Juventus,Ita,0,0
+2004,Glasgow Rangers,Sco,VfB Stuttgart,Ger,2,1
+2004,VfB Stuttgart,Ger,Glasgow Rangers,Sco,1,0
+2004,Manchester United,Eng,Panathinaikos,Gre,5,0
+2004,Panathinaikos,Gre,Manchester United,Eng,0,1
+2004,Panathinaikos,Gre,Glasgow Rangers,Sco,1,1
+2004,Glasgow Rangers,Sco,Panathinaikos,Gre,1,3
+2004,VfB Stuttgart,Ger,Manchester United,Eng,2,1
+2004,Manchester United,Eng,VfB Stuttgart,Ger,2,0
+2004,VfB Stuttgart,Ger,Panathinaikos,Gre,2,0
+2004,Panathinaikos,Gre,VfB Stuttgart,Ger,1,3
+2004,Glasgow Rangers,Sco,Manchester United,Eng,0,1
+2004,Manchester United,Eng,Glasgow Rangers,Sco,3,0
+2004,Real Madrid,Esp,Olympique Marseille,Fra,4,2
+2004,Olympique Marseille,Fra,Real Madrid,Esp,1,2
+2004,Partizan Belgrade,Srb,FC Porto,Por,1,1
+2004,FC Porto,Por,Partizan Belgrade,Srb,2,1
+2004,FC Porto,Por,Real Madrid,Esp,1,3
+2004,Real Madrid,Esp,FC Porto,Por,1,1
+2004,Olympique Marseille,Fra,Partizan Belgrade,Srb,3,0
+2004,Partizan Belgrade,Srb,Olympique Marseille,Fra,1,1
+2004,Olympique Marseille,Fra,FC Porto,Por,2,3
+2004,FC Porto,Por,Olympique Marseille,Fra,1,0
+2004,Real Madrid,Esp,Partizan Belgrade,Srb,1,0
+2004,Partizan Belgrade,Srb,Real Madrid,Esp,0,0
+2004,Sparta Praha,Cze,Chelsea,Eng,0,1
+2004,Chelsea,Eng,Sparta Praha,Cze,0,0
+2004,Besiktas,Tur,Lazio Roma,Ita,0,2
+2004,Lazio Roma,Ita,Besiktas,Tur,1,1
+2004,Lazio Roma,Ita,Sparta Praha,Cze,2,2
+2004,Sparta Praha,Cze,Lazio Roma,Ita,1,0
+2004,Chelsea,Eng,Besiktas,Tur,0,2
+2004,Besiktas,Tur,Chelsea,Eng,0,2
+2004,Chelsea,Eng,Lazio Roma,Ita,2,1
+2004,Lazio Roma,Ita,Chelsea,Eng,0,4
+2004,Sparta Praha,Cze,Besiktas,Tur,2,1
+2004,Besiktas,Tur,Sparta Praha,Cze,1,0
+2004,AC Milan,Ita,Ajax,Ned,1,0
+2004,Ajax,Ned,AC Milan,Ita,0,1
+2004,Club Brugge,Bel,Celta de Vigo,Esp,1,1
+2004,Celta de Vigo,Esp,Club Brugge,Bel,1,1
+2004,Celta de Vigo,Esp,AC Milan,Ita,0,0
+2004,AC Milan,Ita,Celta de Vigo,Esp,1,2
+2004,Ajax,Ned,Club Brugge,Bel,2,0
+2004,Club Brugge,Bel,Ajax,Ned,2,1
+2004,Ajax,Ned,Celta de Vigo,Esp,1,0
+2004,Celta de Vigo,Esp,Ajax,Ned,3,2
+2004,AC Milan,Ita,Club Brugge,Bel,0,1
+2004,Club Brugge,Bel,AC Milan,Ita,0,1
+2004,VfB Stuttgart,Ger,Chelsea,Eng,0,1
+2004,Chelsea,Eng,VfB Stuttgart,Ger,0,0
+2004,FC Porto,Por,Manchester United,Eng,2,1
+2004,Manchester United,Eng,FC Porto,Por,1,1
+2004,Real Sociedad,Esp,Olympique Lyon,Fra,0,1
+2004,Olympique Lyon,Fra,Real Sociedad,Esp,1,0
+2004,Deportivo La Coruña,Esp,Juventus,Ita,1,0
+2004,Juventus,Ita,Deportivo La Coruña,Esp,0,1
+2004,Celta de Vigo,Esp,Arsenal,Eng,2,3
+2004,Arsenal,Eng,Celta de Vigo,Esp,2,0
+2004,Bayern München,Ger,Real Madrid,Esp,1,1
+2004,Real Madrid,Esp,Bayern München,Ger,1,0
+2004,Sparta Praha,Cze,AC Milan,Ita,0,0
+2004,AC Milan,Ita,Sparta Praha,Cze,4,1
+2004,Lokomotiv Moscow,Rus,AS Monaco,Fra,2,1
+2004,AS Monaco,Fra,Lokomotiv Moscow,Rus,1,0
+2004,FC Porto,Por,Olympique Lyon,Fra,2,0
+2004,Olympique Lyon,Fra,FC Porto,Por,2,2
+2004,AC Milan,Ita,Deportivo La Coruña,Esp,4,1
+2004,Deportivo La Coruña,Esp,AC Milan,Ita,4,0
+2004,Real Madrid,Esp,AS Monaco,Fra,4,2
+2004,AS Monaco,Fra,Real Madrid,Esp,3,1
+2004,Chelsea,Eng,Arsenal,Eng,1,1
+2004,Arsenal,Eng,Chelsea,Eng,1,2
+2004,AS Monaco,Fra,Chelsea,Eng,3,1
+2004,Chelsea,Eng,AS Monaco,Fra,2,2
+2004,FC Porto,Por,Deportivo La Coruña,Esp,0,0
+2004,Deportivo La Coruña,Esp,FC Porto,Por,0,1
+2004,AS Monaco,Fra,FC Porto,Por,0,3
+2005,KR Reykjavik,Isl,Shelbourne,Irl,2,2
+2005,Shelbourne,Irl,KR Reykjavik,Isl,0,0
+2005,Skonto Riga,Lat,Rhyl FC,Wal,4,0
+2005,Rhyl FC,Wal,Skonto Riga,Lat,1,3
+2005,Flora Tallinn,Est,Nova Gorica,Slo,2,4
+2005,Nova Gorica,Slo,Flora Tallinn,Est,3,1
+2005,Linfield Belfast,Nir,HJK Helsinki,Fin,0,1
+2005,HJK Helsinki,Fin,Linfield Belfast,Nir,1,0
+2005,Pobeda Prilep,Mac,Pyunik Yerevan,Arm,1,3
+2005,Pyunik Yerevan,Arm,Pobeda Prilep,Mac,1,1
+2005,Sheriff Tiraspol,Mol,Jeunesse d'Esch,Lux,2,0
+2005,Jeunesse d'Esch,Lux,Sheriff Tiraspol,Mol,1,0
+2005,Georgia Tbilisi,Geo,HB Torshavn,Far,5,0
+2005,HB Torshavn,Far,Georgia Tbilisi,Geo,3,0
+2005,Sliema Wanderers,Mlt,FBK Kaunas,Lit,0,2
+2005,FBK Kaunas,Lit,Sliema Wanderers,Mlt,4,1
+2005,Siroki Brijeg,Bos,Neftchi Baku,Azb,2,1
+2005,Neftchi Baku,Azb,Siroki Brijeg,Bos,1,0
+2005,FC Gomel,Bls,SK Tirana,Alb,0,2
+2005,SK Tirana,Alb,FC Gomel,Bls,0,1
+2005,Pyunik Yerevan,Arm,Shakhtar Donetsk,Ukr,1,3
+2005,Shakhtar Donetsk,Ukr,Pyunik Yerevan,Arm,1,0
+2005,APOEL Nicosia,Cyp,Sparta Praha,Cze,2,2
+2005,Sparta Praha,Cze,APOEL Nicosia,Cyp,2,1
+2005,Rosenborg BK,Nor,Sheriff Tiraspol,Mol,2,1
+2005,Sheriff Tiraspol,Mol,Rosenborg BK,Nor,0,2
+2005,Young Boys,Sui,Red Star Belgrade,Srb,2,2
+2005,Red Star Belgrade,Srb,Young Boys,Sui,3,0
+2005,Nova Gorica,Slo,FC København,Den,1,2
+2005,FC København,Den,Nova Gorica,Slo,0,5
+2005,Neftchi Baku,Azb,CSKA Moscow,Rus,0,0
+2005,CSKA Moscow,Rus,Neftchi Baku,Azb,2,0
+2005,MSK Zilina,Svk,Dinamo Bucuresti,Rom,0,1
+2005,Dinamo Bucuresti,Rom,MSK Zilina,Svk,1,0
+2005,HJK Helsinki,Fin,Maccabi Tel-Aviv,Isr,0,0
+2005,Maccabi Tel-Aviv,Isr,HJK Helsinki,Fin,1,0
+2005,Skonto Riga,Lat,Trabzonspor,Tur,1,1
+2005,Trabzonspor,Tur,Skonto Riga,Lat,3,0
+2005,Club Brugge,Bel,Lokomotiv Plovdiv,Bul,2,0
+2005,Lokomotiv Plovdiv,Bul,Club Brugge,Bel,0,4
+2005,SK Tirana,Alb,Ferencváros,Hun,2,3
+2005,Ferencváros,Hun,SK Tirana,Alb,0,1
+2005,Hajduk Split,Cro,Shelbourne,Irl,3,2
+2005,Shelbourne,Irl,Hajduk Split,Cro,2,0
+2005,Djurgårdens IF,Swe,FBK Kaunas,Lit,0,0
+2005,FBK Kaunas,Lit,Djurgårdens IF,Swe,0,2
+2005,Georgia Tbilisi,Geo,Wisla Kraków,Pol,2,8
+2005,Wisla Kraków,Pol,Georgia Tbilisi,Geo,3,0
+2005,Grazer AK,Aut,Liverpool,Eng,0,2
+2005,Liverpool,Eng,Grazer AK,Aut,0,1
+2005,Juventus,Ita,Djurgårdens IF,Swe,2,2
+2005,Djurgårdens IF,Swe,Juventus,Ita,1,4
+2005,Ferencváros,Hun,Sparta Praha,Cze,1,0
+2005,Sparta Praha,Cze,Ferencváros,Hun,2,0
+2005,Rosenborg BK,Nor,Maccabi Haifa,Isr,2,1
+2005,Maccabi Haifa,Isr,Rosenborg BK,Nor,2,3
+2005,Bayer Leverkusen,Ger,Baník Ostrava,Cze,5,0
+2005,Baník Ostrava,Cze,Bayer Leverkusen,Ger,2,1
+2005,CSKA Moscow,Rus,Glasgow Rangers,Sco,2,1
+2005,Glasgow Rangers,Sco,CSKA Moscow,Rus,1,1
+2005,Shakhtar Donetsk,Ukr,Club Brugge,Bel,4,1
+2005,Club Brugge,Bel,Shakhtar Donetsk,Ukr,2,2
+2005,Dinamo Kiev,Ukr,Trabzonspor,Tur,1,2
+2005,Trabzonspor,Tur,Dinamo Kiev,Ukr,0,2
+2005,Red Star Belgrade,Srb,PSV Eindhoven,Ned,3,2
+2005,PSV Eindhoven,Ned,Red Star Belgrade,Srb,5,0
+2005,Dinamo Bucuresti,Rom,Manchester United,Eng,1,2
+2005,Manchester United,Eng,Dinamo Bucuresti,Rom,3,0
+2005,FC Basel,Sui,Internazionale,Ita,1,1
+2005,Internazionale,Ita,FC Basel,Sui,4,1
+2005,Benfica,Por,Anderlecht,Bel,1,0
+2005,Anderlecht,Bel,Benfica,Por,3,0
+2005,Shelbourne,Irl,Deportivo La Coruña,Esp,0,0
+2005,Deportivo La Coruña,Esp,Shelbourne,Irl,3,0
+2005,PAOK Thessaloniki,Gre,Maccabi Tel-Aviv,Isr,0,3
+2005,Maccabi Tel-Aviv,Isr,PAOK Thessaloniki,Gre,1,0
+2005,Nova Gorica,Slo,AS Monaco,Fra,0,3
+2005,AS Monaco,Fra,Nova Gorica,Slo,6,0
+2005,Wisla Kraków,Pol,Real Madrid,Esp,0,2
+2005,Real Madrid,Esp,Wisla Kraków,Pol,3,1
+2005,Liverpool,Eng,AS Monaco,Fra,2,0
+2005,AS Monaco,Fra,Liverpool,Eng,1,0
+2005,Deportivo La Coruña,Esp,Olympiakos Piraeus,Gre,0,0
+2005,Olympiakos Piraeus,Gre,Deportivo La Coruña,Esp,1,0
+2005,Olympiakos Piraeus,Gre,Liverpool,Eng,1,0
+2005,Liverpool,Eng,Olympiakos Piraeus,Gre,3,1
+2005,AS Monaco,Fra,Deportivo La Coruña,Esp,2,0
+2005,Deportivo La Coruña,Esp,AS Monaco,Fra,0,5
+2005,AS Monaco,Fra,Olympiakos Piraeus,Gre,2,1
+2005,Olympiakos Piraeus,Gre,AS Monaco,Fra,1,0
+2005,Liverpool,Eng,Deportivo La Coruña,Esp,0,0
+2005,Deportivo La Coruña,Esp,Liverpool,Eng,0,1
+2005,Bayer Leverkusen,Ger,Real Madrid,Esp,3,0
+2005,Real Madrid,Esp,Bayer Leverkusen,Ger,1,1
+2005,AS Roma,Ita,Dinamo Kiev,Ukr,0,3
+2005,Dinamo Kiev,Ukr,AS Roma,Ita,2,0
+2005,Dinamo Kiev,Ukr,Bayer Leverkusen,Ger,4,2
+2005,Bayer Leverkusen,Ger,Dinamo Kiev,Ukr,3,0
+2005,Real Madrid,Esp,AS Roma,Ita,4,2
+2005,AS Roma,Ita,Real Madrid,Esp,0,3
+2005,Real Madrid,Esp,Dinamo Kiev,Ukr,1,0
+2005,Dinamo Kiev,Ukr,Real Madrid,Esp,2,2
+2005,Bayer Leverkusen,Ger,AS Roma,Ita,3,1
+2005,AS Roma,Ita,Bayer Leverkusen,Ger,1,1
+2005,Ajax,Ned,Juventus,Ita,0,1
+2005,Juventus,Ita,Ajax,Ned,1,0
+2005,Maccabi Tel-Aviv,Isr,Bayern München,Ger,0,1
+2005,Bayern München,Ger,Maccabi Tel-Aviv,Isr,5,1
+2005,Bayern München,Ger,Ajax,Ned,4,0
+2005,Ajax,Ned,Bayern München,Ger,2,2
+2005,Juventus,Ita,Maccabi Tel-Aviv,Isr,1,0
+2005,Maccabi Tel-Aviv,Isr,Juventus,Ita,1,1
+2005,Juventus,Ita,Bayern München,Ger,1,0
+2005,Bayern München,Ger,Juventus,Ita,0,1
+2005,Ajax,Ned,Maccabi Tel-Aviv,Isr,3,0
+2005,Maccabi Tel-Aviv,Isr,Ajax,Ned,2,1
+2005,Fenerbahçe,Tur,Sparta Praha,Cze,1,0
+2005,Sparta Praha,Cze,Fenerbahçe,Tur,0,1
+2005,Olympique Lyon,Fra,Manchester United,Eng,2,2
+2005,Manchester United,Eng,Olympique Lyon,Fra,2,1
+2005,Manchester United,Eng,Fenerbahçe,Tur,6,2
+2005,Fenerbahçe,Tur,Manchester United,Eng,3,0
+2005,Sparta Praha,Cze,Olympique Lyon,Fra,1,2
+2005,Olympique Lyon,Fra,Sparta Praha,Cze,5,0
+2005,Sparta Praha,Cze,Manchester United,Eng,0,0
+2005,Manchester United,Eng,Sparta Praha,Cze,4,1
+2005,Fenerbahçe,Tur,Olympique Lyon,Fra,1,3
+2005,Olympique Lyon,Fra,Fenerbahçe,Tur,4,2
+2005,Panathinaikos,Gre,Rosenborg BK,Nor,2,1
+2005,Rosenborg BK,Nor,Panathinaikos,Gre,2,2
+2005,Arsenal,Eng,PSV Eindhoven,Ned,1,0
+2005,PSV Eindhoven,Ned,Arsenal,Eng,1,1
+2005,PSV Eindhoven,Ned,Panathinaikos,Gre,1,0
+2005,Panathinaikos,Gre,PSV Eindhoven,Ned,4,1
+2005,Rosenborg BK,Nor,Arsenal,Eng,1,1
+2005,Arsenal,Eng,Rosenborg BK,Nor,5,1
+2005,Rosenborg BK,Nor,PSV Eindhoven,Ned,1,2
+2005,PSV Eindhoven,Ned,Rosenborg BK,Nor,1,0
+2005,Panathinaikos,Gre,Arsenal,Eng,2,2
+2005,Arsenal,Eng,Panathinaikos,Gre,1,1
+2005,Shakhtar Donetsk,Ukr,AC Milan,Ita,0,1
+2005,AC Milan,Ita,Shakhtar Donetsk,Ukr,4,0
+2005,Celtic,Sco,FC Barcelona,Esp,1,3
+2005,FC Barcelona,Esp,Celtic,Sco,1,1
+2005,FC Barcelona,Esp,Shakhtar Donetsk,Ukr,3,0
+2005,Shakhtar Donetsk,Ukr,FC Barcelona,Esp,2,0
+2005,AC Milan,Ita,Celtic,Sco,3,1
+2005,Celtic,Sco,AC Milan,Ita,0,0
+2005,AC Milan,Ita,FC Barcelona,Esp,1,0
+2005,FC Barcelona,Esp,AC Milan,Ita,2,1
+2005,Shakhtar Donetsk,Ukr,Celtic,Sco,3,0
+2005,Celtic,Sco,Shakhtar Donetsk,Ukr,1,0
+2005,Valencia,Esp,Anderlecht,Bel,2,0
+2005,Anderlecht,Bel,Valencia,Esp,1,2
+2005,Internazionale,Ita,Werder Bremen,Ger,2,0
+2005,Werder Bremen,Ger,Internazionale,Ita,1,1
+2005,Werder Bremen,Ger,Valencia,Esp,2,1
+2005,Valencia,Esp,Werder Bremen,Ger,0,2
+2005,Anderlecht,Bel,Internazionale,Ita,1,3
+2005,Internazionale,Ita,Anderlecht,Bel,3,0
+2005,Anderlecht,Bel,Werder Bremen,Ger,1,2
+2005,Werder Bremen,Ger,Anderlecht,Bel,5,1
+2005,Valencia,Esp,Internazionale,Ita,1,5
+2005,Internazionale,Ita,Valencia,Esp,0,0
+2005,Paris Saint-Germain,Fra,Chelsea,Eng,0,3
+2005,Chelsea,Eng,Paris Saint-Germain,Fra,0,0
+2005,FC Porto,Por,CSKA Moscow,Rus,0,0
+2005,CSKA Moscow,Rus,FC Porto,Por,0,1
+2005,CSKA Moscow,Rus,Paris Saint-Germain,Fra,2,0
+2005,Paris Saint-Germain,Fra,CSKA Moscow,Rus,1,3
+2005,Chelsea,Eng,FC Porto,Por,3,1
+2005,FC Porto,Por,Chelsea,Eng,2,1
+2005,Chelsea,Eng,CSKA Moscow,Rus,2,0
+2005,CSKA Moscow,Rus,Chelsea,Eng,0,1
+2005,Paris Saint-Germain,Fra,FC Porto,Por,2,0
+2005,FC Porto,Por,Paris Saint-Germain,Fra,0,0
+2005,Real Madrid,Esp,Juventus,Ita,1,0
+2005,Juventus,Ita,Real Madrid,Esp,2,0
+2005,FC Porto,Por,Internazionale,Ita,1,1
+2005,Internazionale,Ita,FC Porto,Por,3,1
+2005,FC Barcelona,Esp,Chelsea,Eng,2,1
+2005,Chelsea,Eng,FC Barcelona,Esp,4,2
+2005,Werder Bremen,Ger,Olympique Lyon,Fra,0,3
+2005,Olympique Lyon,Fra,Werder Bremen,Ger,7,2
+2005,Liverpool,Eng,Bayer Leverkusen,Ger,3,1
+2005,Bayer Leverkusen,Ger,Liverpool,Eng,1,3
+2005,PSV Eindhoven,Ned,AS Monaco,Fra,1,0
+2005,AS Monaco,Fra,PSV Eindhoven,Ned,0,2
+2005,Manchester United,Eng,AC Milan,Ita,0,1
+2005,AC Milan,Ita,Manchester United,Eng,1,0
+2005,Bayern München,Ger,Arsenal,Eng,3,1
+2005,Arsenal,Eng,Bayern München,Ger,1,0
+2005,Liverpool,Eng,Juventus,Ita,2,1
+2005,Juventus,Ita,Liverpool,Eng,0,0
+2005,Olympique Lyon,Fra,PSV Eindhoven,Ned,1,1
+2005,PSV Eindhoven,Ned,Olympique Lyon,Fra,1,1
+2005,AC Milan,Ita,Internazionale,Ita,2,0
+2005,Internazionale,Ita,AC Milan,Ita,0,3
+2005,Chelsea,Eng,Bayern München,Ger,4,2
+2005,Bayern München,Ger,Chelsea,Eng,3,2
+2005,AC Milan,Ita,PSV Eindhoven,Ned,2,0
+2005,PSV Eindhoven,Ned,AC Milan,Ita,3,1
+2005,Chelsea,Eng,Liverpool,Eng,0,0
+2005,Liverpool,Eng,Chelsea,Eng,1,0
+2005,Liverpool,Eng,AC Milan,Ita,3,3
+2006,Liverpool,Eng,Llansantffraid,Wal,3,0
+2006,Llansantffraid,Wal,Liverpool,Eng,0,3
+2006,Haka Valkeakoski,Fin,Pyunik Yerevan,Arm,1,0
+2006,Pyunik Yerevan,Arm,Haka Valkeakoski,Fin,2,2
+2006,HB Torshavn,Far,FBK Kaunas,Lit,2,4
+2006,FBK Kaunas,Lit,HB Torshavn,Far,4,0
+2006,Levadia Tallinn,Est,Dinamo Tbilisi,Geo,1,0
+2006,Dinamo Tbilisi,Geo,Levadia Tallinn,Est,2,0
+2006,Nova Gorica,Slo,SK Tirana,Alb,2,0
+2006,SK Tirana,Alb,Nova Gorica,Slo,3,0
+2006,Kairat Almaty,Kaz,Petrzalka Bratislava,Svk,2,0
+2006,Petrzalka Bratislava,Svk,Kairat Almaty,Kaz,4,1
+2006,Neftchi Baku,Azb,FH Hafnarfjardar,Isl,2,0
+2006,FH Hafnarfjardar,Isl,Neftchi Baku,Azb,1,2
+2006,Rabotnicki Skopje,Mac,Skonto Riga,Lat,6,0
+2006,Skonto Riga,Lat,Rabotnicki Skopje,Mac,1,0
+2006,Glentoran,Nir,Shelbourne,Irl,1,2
+2006,Shelbourne,Irl,Glentoran,Nir,4,1
+2006,Dinamo Minsk,Bls,Anorthosis Famagusta,Cyp,1,1
+2006,Anorthosis Famagusta,Cyp,Dinamo Minsk,Bls,1,0
+2006,Sliema Wanderers,Mlt,Sheriff Tiraspol,Mol,1,4
+2006,Sheriff Tiraspol,Mol,Sliema Wanderers,Mlt,2,0
+2006,F91 Dudelange,Lux,Zrinjski Mostar,Bos,0,1
+2006,Zrinjski Mostar,Bos,F91 Dudelange,Lux,0,4
+2006,FBK Kaunas,Lit,Liverpool,Eng,1,3
+2006,Liverpool,Eng,FBK Kaunas,Lit,2,0
+2006,Dinamo Tbilisi,Geo,Brøndby IF,Den,0,2
+2006,Brøndby IF,Den,Dinamo Tbilisi,Geo,3,1
+2006,Partizan Belgrade,Srb,Sheriff Tiraspol,Mol,1,0
+2006,Sheriff Tiraspol,Mol,Partizan Belgrade,Srb,0,1
+2006,DVSC Debrecen,Hun,Hajduk Split,Cro,3,0
+2006,Hajduk Split,Cro,DVSC Debrecen,Hun,0,5
+2006,Petrzalka Bratislava,Svk,Celtic,Sco,5,0
+2006,Celtic,Sco,Petrzalka Bratislava,Svk,4,0
+2006,SK Tirana,Alb,CSKA Sofia,Bul,0,2
+2006,CSKA Sofia,Bul,SK Tirana,Alb,2,0
+2006,Anderlecht,Bel,Neftchi Baku,Azb,5,0
+2006,Neftchi Baku,Azb,Anderlecht,Bel,1,0
+2006,Vålerengen IF,Nor,Haka Valkeakoski,Fin,1,0
+2006,Haka Valkeakoski,Fin,Vålerengen IF,Nor,1,4
+2006,Rabotnicki Skopje,Mac,Lokomotiv Moscow,Rus,1,1
+2006,Lokomotiv Moscow,Rus,Rabotnicki Skopje,Mac,2,0
+2006,F91 Dudelange,Lux,Rapid Wien,Aut,1,6
+2006,Rapid Wien,Aut,F91 Dudelange,Lux,3,2
+2006,Dinamo Kiev,Ukr,FC Thun,Sui,2,2
+2006,FC Thun,Sui,Dinamo Kiev,Ukr,1,0
+2006,Malmö FF,Swe,Maccabi Haifa,Isr,3,2
+2006,Maccabi Haifa,Isr,Malmö FF,Swe,2,2
+2006,Shelbourne,Irl,Steaua Bucuresti,Rom,0,0
+2006,Steaua Bucuresti,Rom,Shelbourne,Irl,4,1
+2006,Anorthosis Famagusta,Cyp,Trabzonspor,Tur,3,1
+2006,Trabzonspor,Tur,Anorthosis Famagusta,Cyp,1,0
+2006,FC Basel,Sui,Werder Bremen,Ger,2,1
+2006,Werder Bremen,Ger,FC Basel,Sui,3,0
+2006,Petrzalka Bratislava,Svk,Partizan Belgrade,Srb,0,0
+2006,Partizan Belgrade,Srb,Petrzalka Bratislava,Svk,0,0
+2006,Shakhtar Donetsk,Ukr,Internazionale,Ita,0,2
+2006,Internazionale,Ita,Shakhtar Donetsk,Ukr,1,1
+2006,Steaua Bucuresti,Rom,Rosenborg BK,Nor,1,1
+2006,Rosenborg BK,Nor,Steaua Bucuresti,Rom,3,2
+2006,Manchester United,Eng,DVSC Debrecen,Hun,3,0
+2006,DVSC Debrecen,Hun,Manchester United,Eng,0,3
+2006,Malmö FF,Swe,FC Thun,Sui,0,1
+2006,FC Thun,Sui,Malmö FF,Swe,3,0
+2006,Everton,Eng,Villarreal,Esp,1,2
+2006,Villarreal,Esp,Everton,Eng,2,1
+2006,CSKA Sofia,Bul,Liverpool,Eng,1,3
+2006,Liverpool,Eng,CSKA Sofia,Bul,0,1
+2006,Sporting CP Lisbon,Por,Udinese,Ita,0,1
+2006,Udinese,Ita,Sporting CP Lisbon,Por,3,2
+2006,Vålerengen IF,Nor,Club Brugge,Bel,1,0
+2006,Club Brugge,Bel,Vålerengen IF,Nor,1,0
+2006,Rapid Wien,Aut,Lokomotiv Moscow,Rus,1,1
+2006,Lokomotiv Moscow,Rus,Rapid Wien,Aut,0,1
+2006,Anderlecht,Bel,Slavia Praha,Cze,2,1
+2006,Slavia Praha,Cze,Anderlecht,Bel,0,2
+2006,Anorthosis Famagusta,Cyp,Glasgow Rangers,Sco,1,2
+2006,Glasgow Rangers,Sco,Anorthosis Famagusta,Cyp,2,0
+2006,Brøndby IF,Den,Ajax,Ned,2,2
+2006,Ajax,Ned,Brøndby IF,Den,3,1
+2006,Real Betis,Esp,AS Monaco,Fra,1,0
+2006,AS Monaco,Fra,Real Betis,Esp,2,2
+2006,Wisla Kraków,Pol,Panathinaikos,Gre,3,1
+2006,Panathinaikos,Gre,Wisla Kraków,Pol,4,1
+2006,Rapid Wien,Aut,Bayern München,Ger,0,1
+2006,Bayern München,Ger,Rapid Wien,Aut,4,0
+2006,Club Brugge,Bel,Juventus,Ita,1,2
+2006,Juventus,Ita,Club Brugge,Bel,1,0
+2006,Juventus,Ita,Rapid Wien,Aut,3,0
+2006,Rapid Wien,Aut,Juventus,Ita,1,3
+2006,Bayern München,Ger,Club Brugge,Bel,1,0
+2006,Club Brugge,Bel,Bayern München,Ger,1,1
+2006,Bayern München,Ger,Juventus,Ita,2,1
+2006,Juventus,Ita,Bayern München,Ger,2,1
+2006,Rapid Wien,Aut,Club Brugge,Bel,0,1
+2006,Club Brugge,Bel,Rapid Wien,Aut,3,2
+2006,Sparta Praha,Cze,Ajax,Ned,1,1
+2006,Ajax,Ned,Sparta Praha,Cze,2,1
+2006,Arsenal,Eng,FC Thun,Sui,2,1
+2006,FC Thun,Sui,Arsenal,Eng,0,1
+2006,FC Thun,Sui,Sparta Praha,Cze,1,0
+2006,Sparta Praha,Cze,FC Thun,Sui,0,0
+2006,Ajax,Ned,Arsenal,Eng,1,2
+2006,Arsenal,Eng,Ajax,Ned,0,0
+2006,Ajax,Ned,FC Thun,Sui,2,0
+2006,FC Thun,Sui,Ajax,Ned,2,4
+2006,Sparta Praha,Cze,Arsenal,Eng,0,2
+2006,Arsenal,Eng,Sparta Praha,Cze,3,0
+2006,Udinese,Ita,Panathinaikos,Gre,3,0
+2006,Panathinaikos,Gre,Udinese,Ita,1,2
+2006,Werder Bremen,Ger,FC Barcelona,Esp,0,2
+2006,FC Barcelona,Esp,Werder Bremen,Ger,3,1
+2006,FC Barcelona,Esp,Udinese,Ita,4,1
+2006,Udinese,Ita,FC Barcelona,Esp,0,2
+2006,Panathinaikos,Gre,Werder Bremen,Ger,2,1
+2006,Werder Bremen,Ger,Panathinaikos,Gre,5,1
+2006,Panathinaikos,Gre,FC Barcelona,Esp,0,0
+2006,FC Barcelona,Esp,Panathinaikos,Gre,5,0
+2006,Udinese,Ita,Werder Bremen,Ger,1,1
+2006,Werder Bremen,Ger,Udinese,Ita,4,3
+2006,Villarreal,Esp,Manchester United,Eng,0,0
+2006,Manchester United,Eng,Villarreal,Esp,0,0
+2006,Benfica,Por,Lille OSC,Fra,1,0
+2006,Lille OSC,Fra,Benfica,Por,0,0
+2006,Lille OSC,Fra,Villarreal,Esp,0,0
+2006,Villarreal,Esp,Lille OSC,Fra,1,0
+2006,Manchester United,Eng,Benfica,Por,2,1
+2006,Benfica,Por,Manchester United,Eng,2,1
+2006,Manchester United,Eng,Lille OSC,Fra,0,0
+2006,Lille OSC,Fra,Manchester United,Eng,1,0
+2006,Villarreal,Esp,Benfica,Por,1,1
+2006,Benfica,Por,Villarreal,Esp,0,1
+2006,AC Milan,Ita,Fenerbahçe,Tur,3,1
+2006,Fenerbahçe,Tur,AC Milan,Ita,0,4
+2006,PSV Eindhoven,Ned,Schalke 04,Ger,1,0
+2006,Schalke 04,Ger,PSV Eindhoven,Ned,3,0
+2006,Schalke 04,Ger,AC Milan,Ita,2,2
+2006,AC Milan,Ita,Schalke 04,Ger,3,2
+2006,Fenerbahçe,Tur,PSV Eindhoven,Ned,3,0
+2006,PSV Eindhoven,Ned,Fenerbahçe,Tur,2,0
+2006,Fenerbahçe,Tur,Schalke 04,Ger,3,3
+2006,Schalke 04,Ger,Fenerbahçe,Tur,2,0
+2006,AC Milan,Ita,PSV Eindhoven,Ned,0,0
+2006,PSV Eindhoven,Ned,AC Milan,Ita,1,0
+2006,Olympique Lyon,Fra,Real Madrid,Esp,3,0
+2006,Real Madrid,Esp,Olympique Lyon,Fra,1,1
+2006,Olympiakos Piraeus,Gre,Rosenborg BK,Nor,1,3
+2006,Rosenborg BK,Nor,Olympiakos Piraeus,Gre,1,1
+2006,Rosenborg BK,Nor,Olympique Lyon,Fra,0,1
+2006,Olympique Lyon,Fra,Rosenborg BK,Nor,2,1
+2006,Real Madrid,Esp,Olympiakos Piraeus,Gre,2,1
+2006,Olympiakos Piraeus,Gre,Real Madrid,Esp,2,1
+2006,Real Madrid,Esp,Rosenborg BK,Nor,4,1
+2006,Rosenborg BK,Nor,Real Madrid,Esp,0,2
+2006,Olympique Lyon,Fra,Olympiakos Piraeus,Gre,2,1
+2006,Olympiakos Piraeus,Gre,Olympique Lyon,Fra,1,4
+2006,Chelsea,Eng,Anderlecht,Bel,1,0
+2006,Anderlecht,Bel,Chelsea,Eng,0,2
+2006,Real Betis,Esp,Liverpool,Eng,1,2
+2006,Liverpool,Eng,Real Betis,Esp,0,0
+2006,Liverpool,Eng,Chelsea,Eng,0,0
+2006,Chelsea,Eng,Liverpool,Eng,0,0
+2006,Anderlecht,Bel,Real Betis,Esp,0,1
+2006,Real Betis,Esp,Anderlecht,Bel,0,1
+2006,Anderlecht,Bel,Liverpool,Eng,0,1
+2006,Liverpool,Eng,Anderlecht,Bel,3,0
+2006,Chelsea,Eng,Real Betis,Esp,4,0
+2006,Real Betis,Esp,Chelsea,Eng,1,0
+2006,Glasgow Rangers,Sco,FC Porto,Por,3,2
+2006,FC Porto,Por,Glasgow Rangers,Sco,1,1
+2006,Petrzalka Bratislava,Svk,Internazionale,Ita,0,1
+2006,Internazionale,Ita,Petrzalka Bratislava,Svk,4,0
+2006,Internazionale,Ita,Glasgow Rangers,Sco,1,0
+2006,Glasgow Rangers,Sco,Internazionale,Ita,1,1
+2006,FC Porto,Por,Petrzalka Bratislava,Svk,2,3
+2006,Petrzalka Bratislava,Svk,FC Porto,Por,0,0
+2006,FC Porto,Por,Internazionale,Ita,2,0
+2006,Internazionale,Ita,FC Porto,Por,2,1
+2006,Glasgow Rangers,Sco,Petrzalka Bratislava,Svk,0,0
+2006,Petrzalka Bratislava,Svk,Glasgow Rangers,Sco,2,2
+2006,Chelsea,Eng,FC Barcelona,Esp,1,2
+2006,FC Barcelona,Esp,Chelsea,Eng,1,1
+2006,Real Madrid,Esp,Arsenal,Eng,0,1
+2006,Arsenal,Eng,Real Madrid,Esp,0,0
+2006,Werder Bremen,Ger,Juventus,Ita,3,2
+2006,Juventus,Ita,Werder Bremen,Ger,2,1
+2006,Bayern München,Ger,AC Milan,Ita,1,1
+2006,AC Milan,Ita,Bayern München,Ger,4,1
+2006,PSV Eindhoven,Ned,Olympique Lyon,Fra,0,1
+2006,Olympique Lyon,Fra,PSV Eindhoven,Ned,4,0
+2006,Ajax,Ned,Internazionale,Ita,2,2
+2006,Internazionale,Ita,Ajax,Ned,1,0
+2006,Benfica,Por,Liverpool,Eng,1,0
+2006,Liverpool,Eng,Benfica,Por,0,2
+2006,Glasgow Rangers,Sco,Villarreal,Esp,2,2
+2006,Villarreal,Esp,Glasgow Rangers,Sco,1,1
+2006,Arsenal,Eng,Juventus,Ita,2,0
+2006,Juventus,Ita,Arsenal,Eng,0,0
+2006,Olympique Lyon,Fra,AC Milan,Ita,0,0
+2006,AC Milan,Ita,Olympique Lyon,Fra,3,1
+2006,Internazionale,Ita,Villarreal,Esp,2,1
+2006,Villarreal,Esp,Internazionale,Ita,1,0
+2006,Benfica,Por,FC Barcelona,Esp,0,0
+2006,FC Barcelona,Esp,Benfica,Por,2,0
+2006,Arsenal,Eng,Villarreal,Esp,1,0
+2006,Villarreal,Esp,Arsenal,Eng,0,0
+2006,AC Milan,Ita,FC Barcelona,Esp,0,1
+2006,FC Barcelona,Esp,AC Milan,Ita,0,0
+2006,FC Barcelona,Esp,Arsenal,Eng,2,1
+2007,KS Elbasani,Alb,Ekranas Panevezys,Lit,1,0
+2007,Ekranas Panevezys,Lit,KS Elbasani,Alb,3,0
+2007,TVMK Tallinn,Est,FH Hafnarfjardar,Isl,2,3
+2007,FH Hafnarfjardar,Isl,TVMK Tallinn,Est,1,1
+2007,Metalurgs Liepaja,Lat,FK Aktobe,Kaz,1,0
+2007,FK Aktobe,Kaz,Metalurgs Liepaja,Lat,1,1
+2007,MyPa-47,Fin,The New Saints,Wal,1,0
+2007,The New Saints,Wal,MyPa-47,Fin,0,1
+2007,Cork City,Irl,Apollon Limassol,Cyp,1,0
+2007,Apollon Limassol,Cyp,Cork City,Irl,1,1
+2007,Sioni Bolnisi,Geo,FK Baku,Azb,2,0
+2007,FK Baku,Azb,Sioni Bolnisi,Geo,1,0
+2007,F91 Dudelange,Lux,Rabotnicki Skopje,Mac,0,1
+2007,Rabotnicki Skopje,Mac,F91 Dudelange,Lux,0,0
+2007,Shakhtior Saligorsk,Bls,Siroki Brijeg,Bos,0,1
+2007,Siroki Brijeg,Bos,Shakhtior Saligorsk,Bls,1,0
+2007,Birkirkara,Mlt,B36 Torshavn,Far,0,3
+2007,B36 Torshavn,Far,Birkirkara,Mlt,2,2
+2007,Linfield Belfast,Nir,Nova Gorica,Slo,1,3
+2007,Nova Gorica,Slo,Linfield Belfast,Nir,2,2
+2007,Pyunik Yerevan,Arm,Sheriff Tiraspol,Mol,0,0
+2007,Sheriff Tiraspol,Mol,Pyunik Yerevan,Arm,2,0
+2007,Nova Gorica,Slo,Steaua Bucuresti,Rom,0,2
+2007,Steaua Bucuresti,Rom,Nova Gorica,Slo,3,0
+2007,Levski Sofia,Bul,Sioni Bolnisi,Geo,2,0
+2007,Sioni Bolnisi,Geo,Levski Sofia,Bul,0,2
+2007,FC Zürich,Sui,FC Salzburg,Aut,2,1
+2007,FC Salzburg,Aut,FC Zürich,Sui,2,0
+2007,Djurgårdens IF,Swe,SCP Ruzomberok,Svk,1,0
+2007,SCP Ruzomberok,Svk,Djurgårdens IF,Swe,3,1
+2007,DVSC Debrecen,Hun,Rabotnicki Skopje,Mac,1,1
+2007,Rabotnicki Skopje,Mac,DVSC Debrecen,Hun,4,1
+2007,Cork City,Irl,Red Star Belgrade,Srb,0,1
+2007,Red Star Belgrade,Srb,Cork City,Irl,3,0
+2007,Fenerbahçe,Tur,B36 Torshavn,Far,4,0
+2007,B36 Torshavn,Far,Fenerbahçe,Tur,0,5
+2007,Mladá Boleslav,Cze,Vålerengen IF,Nor,3,1
+2007,Vålerengen IF,Nor,Mladá Boleslav,Cze,2,2
+2007,Sheriff Tiraspol,Mol,Spartak Moscow,Rus,1,1
+2007,Spartak Moscow,Rus,Sheriff Tiraspol,Mol,0,0
+2007,Metalurgs Liepaja,Lat,Dinamo Kiev,Ukr,1,4
+2007,Dinamo Kiev,Ukr,Metalurgs Liepaja,Lat,4,0
+2007,FH Hafnarfjardar,Isl,Legia Warsaw,Pol,0,1
+2007,Legia Warsaw,Pol,FH Hafnarfjardar,Isl,2,0
+2007,FC København,Den,MyPa-47,Fin,2,0
+2007,MyPa-47,Fin,FC København,Den,2,2
+2007,Ekranas Panevezys,Lit,Dinamo Zagreb,Cro,1,4
+2007,Dinamo Zagreb,Cro,Ekranas Panevezys,Lit,5,2
+2007,Hearts FC,Sco,Siroki Brijeg,Bos,3,0
+2007,Siroki Brijeg,Bos,Hearts FC,Sco,0,0
+2007,Slovan Liberec,Cze,Spartak Moscow,Rus,0,0
+2007,Spartak Moscow,Rus,Slovan Liberec,Cze,2,1
+2007,Shakhtar Donetsk,Ukr,Legia Warsaw,Pol,1,0
+2007,Legia Warsaw,Pol,Shakhtar Donetsk,Ukr,2,3
+2007,FC Salzburg,Aut,Valencia,Esp,1,0
+2007,Valencia,Esp,FC Salzburg,Aut,3,0
+2007,Levski Sofia,Bul,Chievo Verona,Ita,2,0
+2007,Chievo Verona,Ita,Levski Sofia,Bul,2,2
+2007,Hearts FC,Sco,AEK Athens,Gre,1,2
+2007,AEK Athens,Gre,Hearts FC,Sco,3,0
+2007,CSKA Moscow,Rus,SCP Ruzomberok,Svk,3,0
+2007,SCP Ruzomberok,Svk,CSKA Moscow,Rus,0,2
+2007,AC Milan,Ita,Red Star Belgrade,Srb,1,0
+2007,Red Star Belgrade,Srb,AC Milan,Ita,1,2
+2007,Galatasaray,Tur,Mladá Boleslav,Cze,5,2
+2007,Mladá Boleslav,Cze,Galatasaray,Tur,1,1
+2007,Standard Liège,Bel,Steaua Bucuresti,Rom,2,2
+2007,Steaua Bucuresti,Rom,Standard Liège,Bel,2,1
+2007,Austria Wien,Aut,Benfica,Por,1,1
+2007,Benfica,Por,Austria Wien,Aut,3,0
+2007,Dinamo Zagreb,Cro,Arsenal,Eng,0,3
+2007,Arsenal,Eng,Dinamo Zagreb,Cro,2,1
+2007,FC København,Den,Ajax,Ned,1,2
+2007,Ajax,Ned,FC København,Den,0,2
+2007,Hamburger SV,Ger,Osasuna,Esp,0,0
+2007,Osasuna,Esp,Hamburger SV,Ger,1,1
+2007,Dinamo Kiev,Ukr,Fenerbahçe,Tur,3,1
+2007,Fenerbahçe,Tur,Dinamo Kiev,Ukr,2,2
+2007,Liverpool,Eng,Maccabi Haifa,Isr,2,1
+2007,Maccabi Haifa,Isr,Liverpool,Eng,1,1
+2007,Lille OSC,Fra,Rabotnicki Skopje,Mac,3,0
+2007,Rabotnicki Skopje,Mac,Lille OSC,Fra,0,1
+2007,Chelsea,Eng,Werder Bremen,Ger,2,0
+2007,Werder Bremen,Ger,Chelsea,Eng,1,0
+2007,FC Barcelona,Esp,Levski Sofia,Bul,5,0
+2007,Levski Sofia,Bul,FC Barcelona,Esp,0,2
+2007,Levski Sofia,Bul,Chelsea,Eng,1,3
+2007,Chelsea,Eng,Levski Sofia,Bul,2,0
+2007,Werder Bremen,Ger,FC Barcelona,Esp,1,1
+2007,FC Barcelona,Esp,Werder Bremen,Ger,2,0
+2007,Werder Bremen,Ger,Levski Sofia,Bul,2,0
+2007,Levski Sofia,Bul,Werder Bremen,Ger,0,3
+2007,Chelsea,Eng,FC Barcelona,Esp,1,0
+2007,FC Barcelona,Esp,Chelsea,Eng,2,2
+2007,Sporting CP Lisbon,Por,Internazionale,Ita,1,0
+2007,Internazionale,Ita,Sporting CP Lisbon,Por,1,0
+2007,Bayern München,Ger,Spartak Moscow,Rus,4,0
+2007,Spartak Moscow,Rus,Bayern München,Ger,2,2
+2007,Spartak Moscow,Rus,Sporting CP Lisbon,Por,1,1
+2007,Sporting CP Lisbon,Por,Spartak Moscow,Rus,1,3
+2007,Internazionale,Ita,Bayern München,Ger,0,2
+2007,Bayern München,Ger,Internazionale,Ita,1,1
+2007,Internazionale,Ita,Spartak Moscow,Rus,2,1
+2007,Spartak Moscow,Rus,Internazionale,Ita,0,1
+2007,Sporting CP Lisbon,Por,Bayern München,Ger,0,1
+2007,Bayern München,Ger,Sporting CP Lisbon,Por,0,0
+2007,Galatasaray,Tur,Girondins Bordeaux,Fra,0,0
+2007,Girondins Bordeaux,Fra,Galatasaray,Tur,3,1
+2007,PSV Eindhoven,Ned,Liverpool,Eng,0,0
+2007,Liverpool,Eng,PSV Eindhoven,Ned,2,0
+2007,Liverpool,Eng,Galatasaray,Tur,3,2
+2007,Galatasaray,Tur,Liverpool,Eng,3,2
+2007,Girondins Bordeaux,Fra,PSV Eindhoven,Ned,0,1
+2007,PSV Eindhoven,Ned,Girondins Bordeaux,Fra,1,3
+2007,Girondins Bordeaux,Fra,Liverpool,Eng,0,1
+2007,Liverpool,Eng,Girondins Bordeaux,Fra,3,0
+2007,Galatasaray,Tur,PSV Eindhoven,Ned,1,2
+2007,PSV Eindhoven,Ned,Galatasaray,Tur,2,0
+2007,Olympiakos Piraeus,Gre,Valencia,Esp,2,4
+2007,Valencia,Esp,Olympiakos Piraeus,Gre,2,0
+2007,AS Roma,Ita,Shakhtar Donetsk,Ukr,4,0
+2007,Shakhtar Donetsk,Ukr,AS Roma,Ita,1,0
+2007,Shakhtar Donetsk,Ukr,Olympiakos Piraeus,Gre,2,2
+2007,Olympiakos Piraeus,Gre,Shakhtar Donetsk,Ukr,1,1
+2007,Valencia,Esp,AS Roma,Ita,2,1
+2007,AS Roma,Ita,Valencia,Esp,1,0
+2007,Valencia,Esp,Shakhtar Donetsk,Ukr,2,0
+2007,Shakhtar Donetsk,Ukr,Valencia,Esp,2,2
+2007,Olympiakos Piraeus,Gre,AS Roma,Ita,0,1
+2007,AS Roma,Ita,Olympiakos Piraeus,Gre,1,1
+2007,Dinamo Kiev,Ukr,Steaua Bucuresti,Rom,1,4
+2007,Steaua Bucuresti,Rom,Dinamo Kiev,Ukr,1,1
+2007,Olympique Lyon,Fra,Real Madrid,Esp,2,0
+2007,Real Madrid,Esp,Olympique Lyon,Fra,2,2
+2007,Real Madrid,Esp,Dinamo Kiev,Ukr,5,1
+2007,Dinamo Kiev,Ukr,Real Madrid,Esp,2,2
+2007,Steaua Bucuresti,Rom,Olympique Lyon,Fra,0,3
+2007,Olympique Lyon,Fra,Steaua Bucuresti,Rom,1,1
+2007,Steaua Bucuresti,Rom,Real Madrid,Esp,1,4
+2007,Real Madrid,Esp,Steaua Bucuresti,Rom,1,0
+2007,Dinamo Kiev,Ukr,Olympique Lyon,Fra,0,3
+2007,Olympique Lyon,Fra,Dinamo Kiev,Ukr,1,0
+2007,Manchester United,Eng,Celtic,Sco,3,2
+2007,Celtic,Sco,Manchester United,Eng,1,0
+2007,FC København,Den,Benfica,Por,0,0
+2007,Benfica,Por,FC København,Den,3,1
+2007,Benfica,Por,Manchester United,Eng,0,1
+2007,Manchester United,Eng,Benfica,Por,3,1
+2007,Celtic,Sco,FC København,Den,1,0
+2007,FC København,Den,Celtic,Sco,3,1
+2007,Celtic,Sco,Benfica,Por,3,0
+2007,Benfica,Por,Celtic,Sco,3,0
+2007,Manchester United,Eng,FC København,Den,3,0
+2007,FC København,Den,Manchester United,Eng,1,0
+2007,FC Porto,Por,CSKA Moscow,Rus,0,0
+2007,CSKA Moscow,Rus,FC Porto,Por,0,2
+2007,Hamburger SV,Ger,Arsenal,Eng,1,2
+2007,Arsenal,Eng,Hamburger SV,Ger,3,1
+2007,Arsenal,Eng,FC Porto,Por,2,0
+2007,FC Porto,Por,Arsenal,Eng,0,0
+2007,CSKA Moscow,Rus,Hamburger SV,Ger,1,0
+2007,Hamburger SV,Ger,CSKA Moscow,Rus,3,2
+2007,CSKA Moscow,Rus,Arsenal,Eng,1,0
+2007,Arsenal,Eng,CSKA Moscow,Rus,0,0
+2007,FC Porto,Por,Hamburger SV,Ger,4,1
+2007,Hamburger SV,Ger,FC Porto,Por,1,3
+2007,Anderlecht,Bel,Lille OSC,Fra,1,1
+2007,Lille OSC,Fra,Anderlecht,Bel,2,2
+2007,AC Milan,Ita,AEK Athens,Gre,3,0
+2007,AEK Athens,Gre,AC Milan,Ita,1,0
+2007,AEK Athens,Gre,Anderlecht,Bel,1,1
+2007,Anderlecht,Bel,AEK Athens,Gre,2,2
+2007,Lille OSC,Fra,AC Milan,Ita,0,0
+2007,AC Milan,Ita,Lille OSC,Fra,0,2
+2007,Lille OSC,Fra,AEK Athens,Gre,3,1
+2007,AEK Athens,Gre,Lille OSC,Fra,1,0
+2007,Anderlecht,Bel,AC Milan,Ita,0,1
+2007,AC Milan,Ita,Anderlecht,Bel,4,1
+2007,Celtic,Sco,AC Milan,Ita,0,0
+2007,AC Milan,Ita,Celtic,Sco,1,0
+2007,Lille OSC,Fra,Manchester United,Eng,0,1
+2007,Manchester United,Eng,Lille OSC,Fra,1,0
+2007,PSV Eindhoven,Ned,Arsenal,Eng,1,0
+2007,Arsenal,Eng,PSV Eindhoven,Ned,1,1
+2007,Real Madrid,Esp,Bayern München,Ger,3,2
+2007,Bayern München,Ger,Real Madrid,Esp,2,1
+2007,AS Roma,Ita,Olympique Lyon,Fra,0,0
+2007,Olympique Lyon,Fra,AS Roma,Ita,0,2
+2007,FC Barcelona,Esp,Liverpool,Eng,1,2
+2007,Liverpool,Eng,FC Barcelona,Esp,0,1
+2007,FC Porto,Por,Chelsea,Eng,1,1
+2007,Chelsea,Eng,FC Porto,Por,2,1
+2007,Internazionale,Ita,Valencia,Esp,2,2
+2007,Valencia,Esp,Internazionale,Ita,0,0
+2007,AC Milan,Ita,Bayern München,Ger,2,2
+2007,Bayern München,Ger,AC Milan,Ita,0,2
+2007,PSV Eindhoven,Ned,Liverpool,Eng,0,3
+2007,Liverpool,Eng,PSV Eindhoven,Ned,1,0
+2007,AS Roma,Ita,Manchester United,Eng,2,1
+2007,Manchester United,Eng,AS Roma,Ita,7,1
+2007,Chelsea,Eng,Valencia,Esp,1,1
+2007,Valencia,Esp,Chelsea,Eng,1,2
+2007,Chelsea,Eng,Liverpool,Eng,1,0
+2007,Liverpool,Eng,Chelsea,Eng,1,0
+2007,Manchester United,Eng,AC Milan,Ita,3,2
+2007,AC Milan,Ita,Manchester United,Eng,3,0
+2007,Liverpool,Eng,AC Milan,Ita,1,2
+2008,Khazar Lenkoran,Azb,Dinamo Zagreb,Cro,1,1
+2008,Dinamo Zagreb,Cro,Khazar Lenkoran,Azb,3,1
+2008,APOEL Nicosia,Cyp,BATE Borisov,Bls,2,0
+2008,BATE Borisov,Bls,APOEL Nicosia,Cyp,3,0
+2008,Sheriff Tiraspol,Mol,Ràngers FC,And,2,0
+2008,Ràngers FC,And,Sheriff Tiraspol,Mol,0,3
+2008,FH Hafnarfjardar,Isl,HB Torshavn,Far,4,1
+2008,HB Torshavn,Far,FH Hafnarfjardar,Isl,0,0
+2008,The New Saints,Wal,FK Ventspils,Lat,3,2
+2008,FK Ventspils,Lat,The New Saints,Wal,2,1
+2008,Pobeda Prilep,Mac,Levadia Tallinn,Est,0,1
+2008,Levadia Tallinn,Est,Pobeda Prilep,Mac,0,0
+2008,Olimpi Rustavi,Geo,FK Astana,Kaz,0,0
+2008,FK Astana,Kaz,Olimpi Rustavi,Geo,3,0
+2008,Zeta Golubovci,Mon,FBK Kaunas,Lit,3,1
+2008,FBK Kaunas,Lit,Zeta Golubovci,Mon,3,2
+2008,Murata,Sma,Tampere United,Fin,1,2
+2008,Tampere United,Fin,Murata,Sma,2,0
+2008,F91 Dudelange,Lux,MSK Zilina,Svk,1,2
+2008,MSK Zilina,Svk,F91 Dudelange,Lux,5,4
+2008,Linfield Belfast,Nir,IF Elfsborg,Swe,0,0
+2008,IF Elfsborg,Swe,Linfield Belfast,Nir,1,0
+2008,Derry City,Irl,Pyunik Yerevan,Arm,0,0
+2008,Pyunik Yerevan,Arm,Derry City,Irl,2,0
+2008,Marsaxlokk,Mlt,FK Sarajevo,Bos,0,6
+2008,FK Sarajevo,Bos,Marsaxlokk,Mlt,3,1
+2008,NK Domzale,Slo,SK Tirana,Alb,1,0
+2008,SK Tirana,Alb,NK Domzale,Slo,1,2
+2008,Pyunik Yerevan,Arm,Shakhtar Donetsk,Ukr,0,2
+2008,Shakhtar Donetsk,Ukr,Pyunik Yerevan,Arm,2,1
+2008,Red Star Belgrade,Srb,Levadia Tallinn,Est,1,0
+2008,Levadia Tallinn,Est,Red Star Belgrade,Srb,2,1
+2008,Glasgow Rangers,Sco,Zeta Golubovci,Mon,2,0
+2008,Zeta Golubovci,Mon,Glasgow Rangers,Sco,0,1
+2008,DVSC Debrecen,Hun,IF Elfsborg,Swe,0,1
+2008,IF Elfsborg,Swe,DVSC Debrecen,Hun,0,0
+2008,Zaglebie Lubin,Pol,Steaua Bucuresti,Rom,0,1
+2008,Steaua Bucuresti,Rom,Zaglebie Lubin,Pol,2,1
+2008,Racing Genk,Bel,FK Sarajevo,Bos,1,2
+2008,FK Sarajevo,Bos,Racing Genk,Bel,0,1
+2008,FK Ventspils,Lat,FC Salzburg,Aut,0,3
+2008,FC Salzburg,Aut,FK Ventspils,Lat,4,0
+2008,FK Astana,Kaz,Rosenborg BK,Nor,1,3
+2008,Rosenborg BK,Nor,FK Astana,Kaz,7,1
+2008,FH Hafnarfjardar,Isl,BATE Borisov,Bls,1,3
+2008,BATE Borisov,Bls,FH Hafnarfjardar,Isl,1,1
+2008,FC København,Den,Beitar Jerusalem,Isr,1,0
+2008,Beitar Jerusalem,Isr,FC København,Den,1,1
+2008,MSK Zilina,Svk,Slavia Praha,Cze,0,0
+2008,Slavia Praha,Cze,MSK Zilina,Svk,0,0
+2008,Tampere United,Fin,Levski Sofia,Bul,1,0
+2008,Levski Sofia,Bul,Tampere United,Fin,0,1
+2008,NK Domzale,Slo,Dinamo Zagreb,Cro,1,2
+2008,Dinamo Zagreb,Cro,NK Domzale,Slo,3,1
+2008,Besiktas,Tur,Sheriff Tiraspol,Mol,1,0
+2008,Sheriff Tiraspol,Mol,Besiktas,Tur,0,3
+2008,BATE Borisov,Bls,Steaua Bucuresti,Rom,2,2
+2008,Steaua Bucuresti,Rom,BATE Borisov,Bls,2,0
+2008,Tampere United,Fin,Rosenborg BK,Nor,0,3
+2008,Rosenborg BK,Nor,Tampere United,Fin,2,0
+2008,Spartak Moscow,Rus,Celtic,Sco,1,1
+2008,Celtic,Sco,Spartak Moscow,Rus,1,1
+2008,Werder Bremen,Ger,Dinamo Zagreb,Cro,2,1
+2008,Dinamo Zagreb,Cro,Werder Bremen,Ger,2,3
+2008,FC Salzburg,Aut,Shakhtar Donetsk,Ukr,1,0
+2008,Shakhtar Donetsk,Ukr,FC Salzburg,Aut,3,1
+2008,Ajax,Ned,Slavia Praha,Cze,0,1
+2008,Slavia Praha,Cze,Ajax,Ned,2,1
+2008,Valencia,Esp,IF Elfsborg,Swe,3,0
+2008,IF Elfsborg,Swe,Valencia,Esp,1,2
+2008,FK Sarajevo,Bos,Dinamo Kiev,Ukr,0,1
+2008,Dinamo Kiev,Ukr,FK Sarajevo,Bos,3,0
+2008,Fenerbahçe,Tur,Anderlecht,Bel,1,0
+2008,Anderlecht,Bel,Fenerbahçe,Tur,0,2
+2008,Glasgow Rangers,Sco,Red Star Belgrade,Srb,1,0
+2008,Red Star Belgrade,Srb,Glasgow Rangers,Sco,0,0
+2008,Toulouse FC,Fra,Liverpool,Eng,0,1
+2008,Liverpool,Eng,Toulouse FC,Fra,4,0
+2008,Benfica,Por,FC København,Den,2,1
+2008,FC København,Den,Benfica,Por,0,1
+2008,Lazio Roma,Ita,Dinamo Bucuresti,Rom,1,1
+2008,Dinamo Bucuresti,Rom,Lazio Roma,Ita,1,3
+2008,Sparta Praha,Cze,Arsenal,Eng,0,2
+2008,Arsenal,Eng,Sparta Praha,Cze,3,0
+2008,FC Zürich,Sui,Besiktas,Tur,1,1
+2008,Besiktas,Tur,FC Zürich,Sui,2,0
+2008,Sevilla,Esp,AEK Athens,Gre,2,0
+2008,AEK Athens,Gre,Sevilla,Esp,1,4
+2008,Olympique Marseille,Fra,Besiktas,Tur,2,0
+2008,Besiktas,Tur,Olympique Marseille,Fra,2,1
+2008,FC Porto,Por,Liverpool,Eng,1,1
+2008,Liverpool,Eng,FC Porto,Por,4,1
+2008,Liverpool,Eng,Olympique Marseille,Fra,0,1
+2008,Olympique Marseille,Fra,Liverpool,Eng,0,4
+2008,Besiktas,Tur,FC Porto,Por,0,1
+2008,FC Porto,Por,Besiktas,Tur,2,0
+2008,Besiktas,Tur,Liverpool,Eng,2,1
+2008,Liverpool,Eng,Besiktas,Tur,8,0
+2008,Olympique Marseille,Fra,FC Porto,Por,1,1
+2008,FC Porto,Por,Olympique Marseille,Fra,2,1
+2008,Chelsea,Eng,Rosenborg BK,Nor,1,1
+2008,Rosenborg BK,Nor,Chelsea,Eng,0,4
+2008,Schalke 04,Ger,Valencia,Esp,0,1
+2008,Valencia,Esp,Schalke 04,Ger,0,0
+2008,Valencia,Esp,Chelsea,Eng,1,2
+2008,Chelsea,Eng,Valencia,Esp,0,0
+2008,Rosenborg BK,Nor,Schalke 04,Ger,0,2
+2008,Schalke 04,Ger,Rosenborg BK,Nor,3,1
+2008,Rosenborg BK,Nor,Valencia,Esp,2,0
+2008,Valencia,Esp,Rosenborg BK,Nor,0,2
+2008,Chelsea,Eng,Schalke 04,Ger,2,0
+2008,Schalke 04,Ger,Chelsea,Eng,0,0
+2008,Real Madrid,Esp,Werder Bremen,Ger,2,1
+2008,Werder Bremen,Ger,Real Madrid,Esp,3,2
+2008,Olympiakos Piraeus,Gre,Lazio Roma,Ita,1,1
+2008,Lazio Roma,Ita,Olympiakos Piraeus,Gre,1,2
+2008,Lazio Roma,Ita,Real Madrid,Esp,2,2
+2008,Real Madrid,Esp,Lazio Roma,Ita,3,1
+2008,Werder Bremen,Ger,Olympiakos Piraeus,Gre,1,3
+2008,Olympiakos Piraeus,Gre,Werder Bremen,Ger,3,0
+2008,Werder Bremen,Ger,Lazio Roma,Ita,2,1
+2008,Lazio Roma,Ita,Werder Bremen,Ger,2,1
+2008,Real Madrid,Esp,Olympiakos Piraeus,Gre,4,2
+2008,Olympiakos Piraeus,Gre,Real Madrid,Esp,0,0
+2008,AC Milan,Ita,Benfica,Por,2,1
+2008,Benfica,Por,AC Milan,Ita,1,1
+2008,Shakhtar Donetsk,Ukr,Celtic,Sco,2,0
+2008,Celtic,Sco,Shakhtar Donetsk,Ukr,2,1
+2008,Celtic,Sco,AC Milan,Ita,2,1
+2008,AC Milan,Ita,Celtic,Sco,1,0
+2008,Benfica,Por,Shakhtar Donetsk,Ukr,0,1
+2008,Shakhtar Donetsk,Ukr,Benfica,Por,1,2
+2008,Benfica,Por,Celtic,Sco,1,0
+2008,Celtic,Sco,Benfica,Por,1,0
+2008,AC Milan,Ita,Shakhtar Donetsk,Ukr,4,1
+2008,Shakhtar Donetsk,Ukr,AC Milan,Ita,0,3
+2008,Glasgow Rangers,Sco,VfB Stuttgart,Ger,2,1
+2008,VfB Stuttgart,Ger,Glasgow Rangers,Sco,3,2
+2008,FC Barcelona,Esp,Olympique Lyon,Fra,3,0
+2008,Olympique Lyon,Fra,FC Barcelona,Esp,2,2
+2008,Olympique Lyon,Fra,Glasgow Rangers,Sco,0,3
+2008,Glasgow Rangers,Sco,Olympique Lyon,Fra,0,3
+2008,VfB Stuttgart,Ger,FC Barcelona,Esp,0,2
+2008,FC Barcelona,Esp,VfB Stuttgart,Ger,3,1
+2008,VfB Stuttgart,Ger,Olympique Lyon,Fra,0,2
+2008,Olympique Lyon,Fra,VfB Stuttgart,Ger,4,2
+2008,Glasgow Rangers,Sco,FC Barcelona,Esp,0,0
+2008,FC Barcelona,Esp,Glasgow Rangers,Sco,2,0
+2008,AS Roma,Ita,Dinamo Kiev,Ukr,2,0
+2008,Dinamo Kiev,Ukr,AS Roma,Ita,1,4
+2008,Sporting CP Lisbon,Por,Manchester United,Eng,0,1
+2008,Manchester United,Eng,Sporting CP Lisbon,Por,2,1
+2008,Manchester United,Eng,AS Roma,Ita,1,0
+2008,AS Roma,Ita,Manchester United,Eng,1,1
+2008,Dinamo Kiev,Ukr,Sporting CP Lisbon,Por,1,2
+2008,Sporting CP Lisbon,Por,Dinamo Kiev,Ukr,3,0
+2008,Dinamo Kiev,Ukr,Manchester United,Eng,2,4
+2008,Manchester United,Eng,Dinamo Kiev,Ukr,4,0
+2008,AS Roma,Ita,Sporting CP Lisbon,Por,2,1
+2008,Sporting CP Lisbon,Por,AS Roma,Ita,2,2
+2008,PSV Eindhoven,Ned,CSKA Moscow,Rus,2,1
+2008,CSKA Moscow,Rus,PSV Eindhoven,Ned,0,1
+2008,Fenerbahçe,Tur,Internazionale,Ita,1,0
+2008,Internazionale,Ita,Fenerbahçe,Tur,3,0
+2008,Internazionale,Ita,PSV Eindhoven,Ned,2,0
+2008,PSV Eindhoven,Ned,Internazionale,Ita,0,1
+2008,CSKA Moscow,Rus,Fenerbahçe,Tur,2,2
+2008,Fenerbahçe,Tur,CSKA Moscow,Rus,3,1
+2008,CSKA Moscow,Rus,Internazionale,Ita,1,2
+2008,Internazionale,Ita,CSKA Moscow,Rus,4,2
+2008,PSV Eindhoven,Ned,Fenerbahçe,Tur,0,0
+2008,Fenerbahçe,Tur,PSV Eindhoven,Ned,2,0
+2008,Arsenal,Eng,Sevilla,Esp,3,0
+2008,Sevilla,Esp,Arsenal,Eng,3,1
+2008,Slavia Praha,Cze,Steaua Bucuresti,Rom,2,1
+2008,Steaua Bucuresti,Rom,Slavia Praha,Cze,1,1
+2008,Steaua Bucuresti,Rom,Arsenal,Eng,0,1
+2008,Arsenal,Eng,Steaua Bucuresti,Rom,2,1
+2008,Sevilla,Esp,Slavia Praha,Cze,4,2
+2008,Slavia Praha,Cze,Sevilla,Esp,0,3
+2008,Sevilla,Esp,Steaua Bucuresti,Rom,2,1
+2008,Steaua Bucuresti,Rom,Sevilla,Esp,0,2
+2008,Arsenal,Eng,Slavia Praha,Cze,7,0
+2008,Slavia Praha,Cze,Arsenal,Eng,0,0
+2008,Celtic,Sco,FC Barcelona,Esp,2,3
+2008,FC Barcelona,Esp,Celtic,Sco,1,0
+2008,Olympique Lyon,Fra,Manchester United,Eng,1,1
+2008,Manchester United,Eng,Olympique Lyon,Fra,1,0
+2008,Schalke 04,Ger,FC Porto,Por,1,0
+2008,FC Porto,Por,Schalke 04,Ger,1,0
+2008,Liverpool,Eng,Internazionale,Ita,2,0
+2008,Internazionale,Ita,Liverpool,Eng,0,1
+2008,AS Roma,Ita,Real Madrid,Esp,2,1
+2008,Real Madrid,Esp,AS Roma,Ita,1,2
+2008,Arsenal,Eng,AC Milan,Ita,0,0
+2008,AC Milan,Ita,Arsenal,Eng,0,2
+2008,Olympiakos Piraeus,Gre,Chelsea,Eng,0,0
+2008,Chelsea,Eng,Olympiakos Piraeus,Gre,3,0
+2008,Fenerbahçe,Tur,Sevilla,Esp,3,2
+2008,Sevilla,Esp,Fenerbahçe,Tur,3,2
+2008,Arsenal,Eng,Liverpool,Eng,1,1
+2008,Liverpool,Eng,Arsenal,Eng,4,2
+2008,AS Roma,Ita,Manchester United,Eng,0,2
+2008,Manchester United,Eng,AS Roma,Ita,1,0
+2008,Schalke 04,Ger,FC Barcelona,Esp,0,1
+2008,FC Barcelona,Esp,Schalke 04,Ger,1,0
+2008,Fenerbahçe,Tur,Chelsea,Eng,2,1
+2008,Chelsea,Eng,Fenerbahçe,Tur,2,0
+2008,Liverpool,Eng,Chelsea,Eng,1,1
+2008,Chelsea,Eng,Liverpool,Eng,3,2
+2008,FC Barcelona,Esp,Manchester United,Eng,0,0
+2008,Manchester United,Eng,FC Barcelona,Esp,1,0
+2008,Manchester United,Eng,Chelsea,Eng,1,1
+2009,Linfield Belfast,Nir,Dinamo Zagreb,Cro,0,2
+2009,Dinamo Zagreb,Cro,Linfield Belfast,Nir,1,1
+2009,Valletta FC,Mlt,Petrzalka Bratislava,Svk,0,2
+2009,Petrzalka Bratislava,Svk,Valletta FC,Mlt,1,0
+2009,Dinamo Tbilisi,Geo,NSI Runavik,Far,3,0
+2009,NSI Runavik,Far,Dinamo Tbilisi,Geo,1,0
+2009,FC Santa Coloma,And,FBK Kaunas,Lit,1,4
+2009,FBK Kaunas,Lit,FC Santa Coloma,And,3,1
+2009,Murata,Sma,IFK Göteborg,Swe,0,5
+2009,IFK Göteborg,Swe,Murata,Sma,4,0
+2009,Llanelli FC,Wal,FK Ventspils,Lat,1,0
+2009,FK Ventspils,Lat,Llanelli FC,Wal,4,0
+2009,Anorthosis Famagusta,Cyp,Pyunik Yerevan,Arm,1,0
+2009,Pyunik Yerevan,Arm,Anorthosis Famagusta,Cyp,0,2
+2009,Inter Baku,Azb,Rabotnicki Skopje,Mac,0,0
+2009,Rabotnicki Skopje,Mac,Inter Baku,Azb,1,1
+2009,Tampere United,Fin,Buducnost Podgorica,Mon,2,1
+2009,Buducnost Podgorica,Mon,Tampere United,Fin,1,1
+2009,F91 Dudelange,Lux,NK Domzale,Slo,0,1
+2009,NK Domzale,Slo,F91 Dudelange,Lux,2,0
+2009,Dinamo Tirana,Alb,FK Modrica,Bos,0,2
+2009,FK Modrica,Bos,Dinamo Tirana,Alb,2,1
+2009,FK Aktobe,Kaz,Sheriff Tiraspol,Mol,1,0
+2009,Sheriff Tiraspol,Mol,FK Aktobe,Kaz,4,0
+2009,Drogheda United,Irl,Levadia Tallinn,Est,2,1
+2009,Levadia Tallinn,Est,Drogheda United,Irl,0,1
+2009,BATE Borisov,Bls,Valur Reykjavik,Isl,2,0
+2009,Valur Reykjavik,Isl,BATE Borisov,Bls,0,1
+2009,Glasgow Rangers,Sco,FBK Kaunas,Lit,0,0
+2009,FBK Kaunas,Lit,Glasgow Rangers,Sco,2,1
+2009,SK Brann Bergen,Nor,FK Ventspils,Lat,1,0
+2009,FK Ventspils,Lat,SK Brann Bergen,Nor,2,1
+2009,Inter Baku,Azb,Partizan Belgrade,Srb,1,1
+2009,Partizan Belgrade,Srb,Inter Baku,Azb,2,0
+2009,Tampere United,Fin,Petrzalka Bratislava,Svk,1,3
+2009,Petrzalka Bratislava,Svk,Tampere United,Fin,4,2
+2009,Anorthosis Famagusta,Cyp,Rapid Wien,Aut,3,0
+2009,Rapid Wien,Aut,Anorthosis Famagusta,Cyp,3,1
+2009,NK Domzale,Slo,Dinamo Zagreb,Cro,0,3
+2009,Dinamo Zagreb,Cro,NK Domzale,Slo,3,2
+2009,Panathinaikos,Gre,Dinamo Tbilisi,Geo,3,0
+2009,Dinamo Tbilisi,Geo,Panathinaikos,Gre,0,0
+2009,IFK Göteborg,Swe,FC Basel,Sui,1,1
+2009,FC Basel,Sui,IFK Göteborg,Swe,4,2
+2009,Sheriff Tiraspol,Mol,Sparta Praha,Cze,0,1
+2009,Sparta Praha,Cze,Sheriff Tiraspol,Mol,2,0
+2009,Drogheda United,Irl,Dinamo Kiev,Ukr,1,2
+2009,Dinamo Kiev,Ukr,Drogheda United,Irl,2,2
+2009,Anderlecht,Bel,BATE Borisov,Bls,1,2
+2009,BATE Borisov,Bls,Anderlecht,Bel,2,2
+2009,Beitar Jerusalem,Isr,Wisla Kraków,Pol,2,1
+2009,Wisla Kraków,Pol,Beitar Jerusalem,Isr,5,0
+2009,Fenerbahçe,Tur,MTK Budapest,Hun,2,0
+2009,MTK Budapest,Hun,Fenerbahçe,Tur,0,5
+2009,AaB Aalborg,Den,FK Modrica,Bos,5,0
+2009,FK Modrica,Bos,AaB Aalborg,Den,1,2
+2009,Anorthosis Famagusta,Cyp,Olympiakos Piraeus,Gre,3,0
+2009,Olympiakos Piraeus,Gre,Anorthosis Famagusta,Cyp,1,0
+2009,Vitória Guimarães,Por,FC Basel,Sui,0,0
+2009,FC Basel,Sui,Vitória Guimarães,Por,2,1
+2009,Shakhtar Donetsk,Ukr,Dinamo Zagreb,Cro,2,0
+2009,Dinamo Zagreb,Cro,Shakhtar Donetsk,Ukr,1,3
+2009,Schalke 04,Ger,Atlético Madrid,Esp,1,0
+2009,Atlético Madrid,Esp,Schalke 04,Ger,4,0
+2009,AaB Aalborg,Den,FBK Kaunas,Lit,2,0
+2009,FBK Kaunas,Lit,AaB Aalborg,Den,0,2
+2009,FC Barcelona,Esp,Wisla Kraków,Pol,4,0
+2009,Wisla Kraków,Pol,FC Barcelona,Esp,1,0
+2009,Levski Sofia,Bul,BATE Borisov,Bls,0,1
+2009,BATE Borisov,Bls,Levski Sofia,Bul,1,1
+2009,Standard Liège,Bel,Liverpool,Eng,0,0
+2009,Liverpool,Eng,Standard Liège,Bel,1,0
+2009,Partizan Belgrade,Srb,Fenerbahçe,Tur,2,2
+2009,Fenerbahçe,Tur,Partizan Belgrade,Srb,2,1
+2009,FC Twente Enschede,Ned,Arsenal,Eng,0,2
+2009,Arsenal,Eng,FC Twente Enschede,Ned,4,0
+2009,Spartak Moscow,Rus,Dinamo Kiev,Ukr,1,4
+2009,Dinamo Kiev,Ukr,Spartak Moscow,Rus,4,1
+2009,Juventus,Ita,Petrzalka Bratislava,Svk,4,0
+2009,Petrzalka Bratislava,Svk,Juventus,Ita,1,1
+2009,SK Brann Bergen,Nor,Olympique Marseille,Fra,0,1
+2009,Olympique Marseille,Fra,SK Brann Bergen,Nor,2,1
+2009,Fiorentina,Ita,Slavia Praha,Cze,2,0
+2009,Slavia Praha,Cze,Fiorentina,Ita,0,0
+2009,Galatasaray,Tur,Steaua Bucuresti,Rom,2,2
+2009,Steaua Bucuresti,Rom,Galatasaray,Tur,1,0
+2009,Sparta Praha,Cze,Panathinaikos,Gre,1,2
+2009,Panathinaikos,Gre,Sparta Praha,Cze,1,0
+2009,Chelsea,Eng,Girondins Bordeaux,Fra,4,0
+2009,Girondins Bordeaux,Fra,Chelsea,Eng,1,1
+2009,AS Roma,Ita,CFR Cluj,Rom,1,2
+2009,CFR Cluj,Rom,AS Roma,Ita,1,3
+2009,CFR Cluj,Rom,Chelsea,Eng,0,0
+2009,Chelsea,Eng,CFR Cluj,Rom,2,1
+2009,Girondins Bordeaux,Fra,AS Roma,Ita,1,3
+2009,AS Roma,Ita,Girondins Bordeaux,Fra,2,0
+2009,Girondins Bordeaux,Fra,CFR Cluj,Rom,1,0
+2009,CFR Cluj,Rom,Girondins Bordeaux,Fra,1,2
+2009,Chelsea,Eng,AS Roma,Ita,1,0
+2009,AS Roma,Ita,Chelsea,Eng,3,1
+2009,Panathinaikos,Gre,Internazionale,Ita,0,2
+2009,Internazionale,Ita,Panathinaikos,Gre,0,1
+2009,Werder Bremen,Ger,Anorthosis Famagusta,Cyp,0,0
+2009,Anorthosis Famagusta,Cyp,Werder Bremen,Ger,2,2
+2009,Anorthosis Famagusta,Cyp,Panathinaikos,Gre,3,1
+2009,Panathinaikos,Gre,Anorthosis Famagusta,Cyp,1,0
+2009,Internazionale,Ita,Werder Bremen,Ger,1,1
+2009,Werder Bremen,Ger,Internazionale,Ita,2,1
+2009,Internazionale,Ita,Anorthosis Famagusta,Cyp,1,0
+2009,Anorthosis Famagusta,Cyp,Internazionale,Ita,3,3
+2009,Panathinaikos,Gre,Werder Bremen,Ger,2,2
+2009,Werder Bremen,Ger,Panathinaikos,Gre,0,3
+2009,FC Basel,Sui,Shakhtar Donetsk,Ukr,1,2
+2009,Shakhtar Donetsk,Ukr,FC Basel,Sui,5,0
+2009,FC Barcelona,Esp,Sporting CP Lisbon,Por,3,1
+2009,Sporting CP Lisbon,Por,FC Barcelona,Esp,2,5
+2009,Sporting CP Lisbon,Por,FC Basel,Sui,2,0
+2009,FC Basel,Sui,Sporting CP Lisbon,Por,0,1
+2009,Shakhtar Donetsk,Ukr,FC Barcelona,Esp,1,2
+2009,FC Barcelona,Esp,Shakhtar Donetsk,Ukr,2,3
+2009,Shakhtar Donetsk,Ukr,Sporting CP Lisbon,Por,0,1
+2009,Sporting CP Lisbon,Por,Shakhtar Donetsk,Ukr,1,0
+2009,FC Basel,Sui,FC Barcelona,Esp,0,5
+2009,FC Barcelona,Esp,FC Basel,Sui,1,1
+2009,PSV Eindhoven,Ned,Atlético Madrid,Esp,0,3
+2009,Atlético Madrid,Esp,PSV Eindhoven,Ned,2,1
+2009,Olympique Marseille,Fra,Liverpool,Eng,1,2
+2009,Liverpool,Eng,Olympique Marseille,Fra,1,0
+2009,Liverpool,Eng,PSV Eindhoven,Ned,3,1
+2009,PSV Eindhoven,Ned,Liverpool,Eng,1,3
+2009,Atlético Madrid,Esp,Olympique Marseille,Fra,2,1
+2009,Olympique Marseille,Fra,Atlético Madrid,Esp,0,0
+2009,Atlético Madrid,Esp,Liverpool,Eng,1,1
+2009,Liverpool,Eng,Atlético Madrid,Esp,1,1
+2009,PSV Eindhoven,Ned,Olympique Marseille,Fra,2,0
+2009,Olympique Marseille,Fra,PSV Eindhoven,Ned,3,0
+2009,Manchester United,Eng,Villarreal,Esp,0,0
+2009,Villarreal,Esp,Manchester United,Eng,0,0
+2009,Celtic,Sco,AaB Aalborg,Den,0,0
+2009,AaB Aalborg,Den,Celtic,Sco,2,1
+2009,AaB Aalborg,Den,Manchester United,Eng,0,3
+2009,Manchester United,Eng,AaB Aalborg,Den,2,2
+2009,Villarreal,Esp,Celtic,Sco,1,0
+2009,Celtic,Sco,Villarreal,Esp,2,0
+2009,Villarreal,Esp,AaB Aalborg,Den,6,3
+2009,AaB Aalborg,Den,Villarreal,Esp,2,2
+2009,Manchester United,Eng,Celtic,Sco,3,0
+2009,Celtic,Sco,Manchester United,Eng,1,1
+2009,Steaua Bucuresti,Rom,Bayern München,Ger,0,1
+2009,Bayern München,Ger,Steaua Bucuresti,Rom,3,0
+2009,Olympique Lyon,Fra,Fiorentina,Ita,2,2
+2009,Fiorentina,Ita,Olympique Lyon,Fra,1,2
+2009,Fiorentina,Ita,Steaua Bucuresti,Rom,0,0
+2009,Steaua Bucuresti,Rom,Fiorentina,Ita,0,1
+2009,Bayern München,Ger,Olympique Lyon,Fra,1,1
+2009,Olympique Lyon,Fra,Bayern München,Ger,2,3
+2009,Bayern München,Ger,Fiorentina,Ita,3,0
+2009,Fiorentina,Ita,Bayern München,Ger,1,1
+2009,Steaua Bucuresti,Rom,Olympique Lyon,Fra,3,5
+2009,Olympique Lyon,Fra,Steaua Bucuresti,Rom,2,0
+2009,FC Porto,Por,Fenerbahçe,Tur,3,1
+2009,Fenerbahçe,Tur,FC Porto,Por,1,2
+2009,Dinamo Kiev,Ukr,Arsenal,Eng,1,1
+2009,Arsenal,Eng,Dinamo Kiev,Ukr,1,0
+2009,Arsenal,Eng,FC Porto,Por,4,0
+2009,FC Porto,Por,Arsenal,Eng,2,0
+2009,Fenerbahçe,Tur,Dinamo Kiev,Ukr,0,0
+2009,Dinamo Kiev,Ukr,Fenerbahçe,Tur,1,0
+2009,Fenerbahçe,Tur,Arsenal,Eng,2,5
+2009,Arsenal,Eng,Fenerbahçe,Tur,0,0
+2009,FC Porto,Por,Dinamo Kiev,Ukr,0,1
+2009,Dinamo Kiev,Ukr,FC Porto,Por,1,2
+2009,Juventus,Ita,Zenit St. Petersburg,Rus,1,0
+2009,Zenit St. Petersburg,Rus,Juventus,Ita,0,0
+2009,Real Madrid,Esp,BATE Borisov,Bls,2,0
+2009,BATE Borisov,Bls,Real Madrid,Esp,0,1
+2009,BATE Borisov,Bls,Juventus,Ita,2,2
+2009,Juventus,Ita,BATE Borisov,Bls,0,0
+2009,Zenit St. Petersburg,Rus,Real Madrid,Esp,1,2
+2009,Real Madrid,Esp,Zenit St. Petersburg,Rus,3,0
+2009,Zenit St. Petersburg,Rus,BATE Borisov,Bls,1,1
+2009,BATE Borisov,Bls,Zenit St. Petersburg,Rus,0,2
+2009,Juventus,Ita,Real Madrid,Esp,2,1
+2009,Real Madrid,Esp,Juventus,Ita,0,2
+2009,Atlético Madrid,Esp,FC Porto,Por,2,2
+2009,FC Porto,Por,Atlético Madrid,Esp,0,0
+2009,Olympique Lyon,Fra,FC Barcelona,Esp,1,1
+2009,FC Barcelona,Esp,Olympique Lyon,Fra,5,2
+2009,Arsenal,Eng,AS Roma,Ita,1,0
+2009,AS Roma,Ita,Arsenal,Eng,1,0
+2009,Internazionale,Ita,Manchester United,Eng,0,0
+2009,Manchester United,Eng,Internazionale,Ita,2,0
+2009,Real Madrid,Esp,Liverpool,Eng,0,1
+2009,Liverpool,Eng,Real Madrid,Esp,4,0
+2009,Chelsea,Eng,Juventus,Ita,1,0
+2009,Juventus,Ita,Chelsea,Eng,2,2
+2009,Villarreal,Esp,Panathinaikos,Gre,1,1
+2009,Panathinaikos,Gre,Villarreal,Esp,1,2
+2009,Sporting CP Lisbon,Por,Bayern München,Ger,0,5
+2009,Bayern München,Ger,Sporting CP Lisbon,Por,7,1
+2009,Villarreal,Esp,Arsenal,Eng,1,1
+2009,Arsenal,Eng,Villarreal,Esp,3,0
+2009,Manchester United,Eng,FC Porto,Por,2,2
+2009,FC Porto,Por,Manchester United,Eng,0,1
+2009,Liverpool,Eng,Chelsea,Eng,1,3
+2009,Chelsea,Eng,Liverpool,Eng,4,4
+2009,FC Barcelona,Esp,Bayern München,Ger,4,0
+2009,Bayern München,Ger,FC Barcelona,Esp,1,1
+2009,Manchester United,Eng,Arsenal,Eng,1,0
+2009,Arsenal,Eng,Manchester United,Eng,1,3
+2009,FC Barcelona,Esp,Chelsea,Eng,0,0
+2009,Chelsea,Eng,FC Barcelona,Esp,1,1
+2009,FC Barcelona,Esp,Manchester United,Eng,2,0
+2010,Tre Fiori,Sma,Sant Julià,And,1,1
+2010,Sant Julià,And,Tre Fiori,Sma,1,1
+2010,Hibernians FC,Mlt,Mogren Budva,Mon,0,2
+2010,Mogren Budva,Mon,Hibernians FC,Mlt,4,0
+2010,SK Tirana,Alb,Stabæk IF,Nor,1,1
+2010,Stabæk IF,Nor,SK Tirana,Alb,4,0
+2010,Georgia Tbilisi,Geo,NK Maribor,Slo,0,0
+2010,NK Maribor,Slo,Georgia Tbilisi,Geo,3,1
+2010,EB Streymur,Far,APOEL Nicosia,Cyp,0,2
+2010,APOEL Nicosia,Cyp,EB Streymur,Far,3,0
+2010,FC København,Den,Mogren Budva,Mon,6,0
+2010,Mogren Budva,Mon,FC København,Den,0,6
+2010,DVSC Debrecen,Hun,Kalmar FF,Swe,2,0
+2010,Kalmar FF,Swe,DVSC Debrecen,Hun,3,1
+2010,Makedonija Skopje,Mac,BATE Borisov,Bls,0,2
+2010,BATE Borisov,Bls,Makedonija Skopje,Mac,2,0
+2010,FH Hafnarfjardar,Isl,FK Aktobe,Kaz,0,4
+2010,FK Aktobe,Kaz,FH Hafnarfjardar,Isl,2,0
+2010,Pyunik Yerevan,Arm,Dinamo Zagreb,Cro,0,0
+2010,Dinamo Zagreb,Cro,Pyunik Yerevan,Arm,3,0
+2010,FK Ventspils,Lat,F91 Dudelange,Lux,3,0
+2010,F91 Dudelange,Lux,FK Ventspils,Lat,1,3
+2010,Ekranas Panevezys,Lit,FK Baku,Azb,2,2
+2010,FK Baku,Azb,Ekranas Panevezys,Lit,4,2
+2010,FC Salzburg,Aut,Bohemians Dublin,Irl,1,1
+2010,Bohemians Dublin,Irl,FC Salzburg,Aut,0,1
+2010,Zrinjski Mostar,Bos,Slovan Bratislava,Svk,1,0
+2010,Slovan Bratislava,Svk,Zrinjski Mostar,Bos,4,0
+2010,Inter Turku,Fin,Sheriff Tiraspol,Mol,0,1
+2010,Sheriff Tiraspol,Mol,Inter Turku,Fin,1,0
+2010,Rhyl FC,Wal,Partizan Belgrade,Srb,0,4
+2010,Partizan Belgrade,Srb,Rhyl FC,Wal,8,0
+2010,Wisla Kraków,Pol,Levadia Tallinn,Est,1,1
+2010,Levadia Tallinn,Est,Wisla Kraków,Pol,1,0
+2010,Levski Sofia,Bul,Sant Julià,And,4,0
+2010,Sant Julià,And,Levski Sofia,Bul,0,5
+2010,Maccabi Haifa,Isr,Glentoran,Nir,6,0
+2010,Glentoran,Nir,Maccabi Haifa,Isr,0,4
+2010,FC Salzburg,Aut,Dinamo Zagreb,Cro,1,1
+2010,Dinamo Zagreb,Cro,FC Salzburg,Aut,1,2
+2010,Slovan Bratislava,Svk,Olympiakos Piraeus,Gre,0,2
+2010,Olympiakos Piraeus,Gre,Slovan Bratislava,Svk,2,0
+2010,FC Zürich,Sui,NK Maribor,Slo,2,3
+2010,NK Maribor,Slo,FC Zürich,Sui,0,3
+2010,APOEL Nicosia,Cyp,Partizan Belgrade,Srb,2,0
+2010,Partizan Belgrade,Srb,APOEL Nicosia,Cyp,1,0
+2010,Sheriff Tiraspol,Mol,Slavia Praha,Cze,0,0
+2010,Slavia Praha,Cze,Sheriff Tiraspol,Mol,1,1
+2010,FK Aktobe,Kaz,Maccabi Haifa,Isr,0,0
+2010,Maccabi Haifa,Isr,FK Aktobe,Kaz,4,3
+2010,FK Baku,Azb,Levski Sofia,Bul,0,0
+2010,Levski Sofia,Bul,FK Baku,Azb,2,0
+2010,FK Ventspils,Lat,BATE Borisov,Bls,1,0
+2010,BATE Borisov,Bls,FK Ventspils,Lat,2,1
+2010,Levadia Tallinn,Est,DVSC Debrecen,Hun,0,1
+2010,DVSC Debrecen,Hun,Levadia Tallinn,Est,1,0
+2010,FC København,Den,Stabæk IF,Nor,3,1
+2010,Stabæk IF,Nor,FC København,Den,0,0
+2010,Sparta Praha,Cze,Panathinaikos,Gre,3,1
+2010,Panathinaikos,Gre,Sparta Praha,Cze,3,0
+2010,Shakhtar Donetsk,Ukr,FC Timisoara,Rom,2,2
+2010,FC Timisoara,Rom,Shakhtar Donetsk,Ukr,0,0
+2010,Sporting CP Lisbon,Por,FC Twente Enschede,Ned,0,0
+2010,FC Twente Enschede,Ned,Sporting CP Lisbon,Por,1,1
+2010,Celtic,Sco,Dinamo Moscow,Rus,0,1
+2010,Dinamo Moscow,Rus,Celtic,Sco,0,2
+2010,Anderlecht,Bel,Sivasspor,Tur,5,0
+2010,Sivasspor,Tur,Anderlecht,Bel,3,1
+2010,Sheriff Tiraspol,Mol,Olympiakos Piraeus,Gre,0,2
+2010,Olympiakos Piraeus,Gre,Sheriff Tiraspol,Mol,1,0
+2010,FC Salzburg,Aut,Maccabi Haifa,Isr,1,2
+2010,Maccabi Haifa,Isr,FC Salzburg,Aut,3,0
+2010,FK Ventspils,Lat,FC Zürich,Sui,0,3
+2010,FC Zürich,Sui,FK Ventspils,Lat,2,1
+2010,FC København,Den,APOEL Nicosia,Cyp,1,0
+2010,APOEL Nicosia,Cyp,FC København,Den,3,1
+2010,Levski Sofia,Bul,DVSC Debrecen,Hun,1,2
+2010,DVSC Debrecen,Hun,Levski Sofia,Bul,2,0
+2010,Olympique Lyon,Fra,Anderlecht,Bel,5,1
+2010,Anderlecht,Bel,Olympique Lyon,Fra,1,3
+2010,Celtic,Sco,Arsenal,Eng,0,2
+2010,Arsenal,Eng,Celtic,Sco,3,1
+2010,FC Timisoara,Rom,VfB Stuttgart,Ger,0,2
+2010,VfB Stuttgart,Ger,FC Timisoara,Rom,0,0
+2010,Sporting CP Lisbon,Por,Fiorentina,Ita,2,2
+2010,Fiorentina,Ita,Sporting CP Lisbon,Por,1,1
+2010,Panathinaikos,Gre,Atlético Madrid,Esp,2,3
+2010,Atlético Madrid,Esp,Panathinaikos,Gre,2,0
+2010,Juventus,Ita,Girondins Bordeaux,Fra,1,1
+2010,Girondins Bordeaux,Fra,Juventus,Ita,2,0
+2010,Maccabi Haifa,Isr,Bayern München,Ger,0,3
+2010,Bayern München,Ger,Maccabi Haifa,Isr,1,0
+2010,Bayern München,Ger,Juventus,Ita,0,0
+2010,Juventus,Ita,Bayern München,Ger,1,4
+2010,Girondins Bordeaux,Fra,Maccabi Haifa,Isr,1,0
+2010,Maccabi Haifa,Isr,Girondins Bordeaux,Fra,0,1
+2010,Girondins Bordeaux,Fra,Bayern München,Ger,2,1
+2010,Bayern München,Ger,Girondins Bordeaux,Fra,0,2
+2010,Juventus,Ita,Maccabi Haifa,Isr,1,0
+2010,Maccabi Haifa,Isr,Juventus,Ita,0,1
+2010,VfL Wolfsburg,Ger,CSKA Moscow,Rus,3,1
+2010,CSKA Moscow,Rus,VfL Wolfsburg,Ger,2,1
+2010,Besiktas,Tur,Manchester United,Eng,0,1
+2010,Manchester United,Eng,Besiktas,Tur,0,1
+2010,Manchester United,Eng,VfL Wolfsburg,Ger,2,1
+2010,VfL Wolfsburg,Ger,Manchester United,Eng,1,3
+2010,CSKA Moscow,Rus,Besiktas,Tur,2,1
+2010,Besiktas,Tur,CSKA Moscow,Rus,1,2
+2010,CSKA Moscow,Rus,Manchester United,Eng,0,1
+2010,Manchester United,Eng,CSKA Moscow,Rus,3,3
+2010,VfL Wolfsburg,Ger,Besiktas,Tur,0,0
+2010,Besiktas,Tur,VfL Wolfsburg,Ger,0,3
+2010,FC Zürich,Sui,Real Madrid,Esp,2,5
+2010,Real Madrid,Esp,FC Zürich,Sui,1,0
+2010,Olympique Marseille,Fra,AC Milan,Ita,1,2
+2010,AC Milan,Ita,Olympique Marseille,Fra,1,1
+2010,AC Milan,Ita,FC Zürich,Sui,0,1
+2010,FC Zürich,Sui,AC Milan,Ita,1,1
+2010,Real Madrid,Esp,Olympique Marseille,Fra,3,0
+2010,Olympique Marseille,Fra,Real Madrid,Esp,1,3
+2010,Real Madrid,Esp,AC Milan,Ita,2,3
+2010,AC Milan,Ita,Real Madrid,Esp,1,1
+2010,FC Zürich,Sui,Olympique Marseille,Fra,0,1
+2010,Olympique Marseille,Fra,FC Zürich,Sui,6,1
+2010,Chelsea,Eng,FC Porto,Por,1,0
+2010,FC Porto,Por,Chelsea,Eng,0,1
+2010,Atlético Madrid,Esp,APOEL Nicosia,Cyp,0,0
+2010,APOEL Nicosia,Cyp,Atlético Madrid,Esp,1,1
+2010,APOEL Nicosia,Cyp,Chelsea,Eng,0,1
+2010,Chelsea,Eng,APOEL Nicosia,Cyp,2,2
+2010,FC Porto,Por,Atlético Madrid,Esp,2,0
+2010,Atlético Madrid,Esp,FC Porto,Por,0,3
+2010,FC Porto,Por,APOEL Nicosia,Cyp,2,1
+2010,APOEL Nicosia,Cyp,FC Porto,Por,0,1
+2010,Chelsea,Eng,Atlético Madrid,Esp,4,0
+2010,Atlético Madrid,Esp,Chelsea,Eng,2,2
+2010,Liverpool,Eng,DVSC Debrecen,Hun,1,0
+2010,DVSC Debrecen,Hun,Liverpool,Eng,0,1
+2010,Olympique Lyon,Fra,Fiorentina,Ita,1,0
+2010,Fiorentina,Ita,Olympique Lyon,Fra,1,0
+2010,Fiorentina,Ita,Liverpool,Eng,2,0
+2010,Liverpool,Eng,Fiorentina,Ita,1,2
+2010,DVSC Debrecen,Hun,Olympique Lyon,Fra,0,4
+2010,Olympique Lyon,Fra,DVSC Debrecen,Hun,4,0
+2010,DVSC Debrecen,Hun,Fiorentina,Ita,3,4
+2010,Fiorentina,Ita,DVSC Debrecen,Hun,5,2
+2010,Liverpool,Eng,Olympique Lyon,Fra,1,2
+2010,Olympique Lyon,Fra,Liverpool,Eng,1,1
+2010,Internazionale,Ita,FC Barcelona,Esp,0,0
+2010,FC Barcelona,Esp,Internazionale,Ita,2,0
+2010,Dinamo Kiev,Ukr,Rubin Kazan,Rus,3,1
+2010,Rubin Kazan,Rus,Dinamo Kiev,Ukr,0,0
+2010,Rubin Kazan,Rus,Internazionale,Ita,1,1
+2010,Internazionale,Ita,Rubin Kazan,Rus,2,0
+2010,FC Barcelona,Esp,Dinamo Kiev,Ukr,2,0
+2010,Dinamo Kiev,Ukr,FC Barcelona,Esp,1,2
+2010,FC Barcelona,Esp,Rubin Kazan,Rus,1,2
+2010,Rubin Kazan,Rus,FC Barcelona,Esp,0,0
+2010,Internazionale,Ita,Dinamo Kiev,Ukr,2,2
+2010,Dinamo Kiev,Ukr,Internazionale,Ita,1,2
+2010,VfB Stuttgart,Ger,Glasgow Rangers,Sco,1,1
+2010,Glasgow Rangers,Sco,VfB Stuttgart,Ger,0,2
+2010,Sevilla,Esp,Unirea Urziceni,Rom,2,0
+2010,Unirea Urziceni,Rom,Sevilla,Esp,1,0
+2010,Unirea Urziceni,Rom,VfB Stuttgart,Ger,1,1
+2010,VfB Stuttgart,Ger,Unirea Urziceni,Rom,3,1
+2010,Glasgow Rangers,Sco,Sevilla,Esp,1,4
+2010,Sevilla,Esp,Glasgow Rangers,Sco,1,0
+2010,Glasgow Rangers,Sco,Unirea Urziceni,Rom,1,4
+2010,Unirea Urziceni,Rom,Glasgow Rangers,Sco,1,1
+2010,VfB Stuttgart,Ger,Sevilla,Esp,1,3
+2010,Sevilla,Esp,VfB Stuttgart,Ger,1,1
+2010,Olympiakos Piraeus,Gre,AZ Alkmaar,Ned,1,0
+2010,AZ Alkmaar,Ned,Olympiakos Piraeus,Gre,0,0
+2010,Standard Liège,Bel,Arsenal,Eng,2,3
+2010,Arsenal,Eng,Standard Liège,Bel,2,0
+2010,Arsenal,Eng,Olympiakos Piraeus,Gre,2,0
+2010,Olympiakos Piraeus,Gre,Arsenal,Eng,1,0
+2010,AZ Alkmaar,Ned,Standard Liège,Bel,1,1
+2010,Standard Liège,Bel,AZ Alkmaar,Ned,1,1
+2010,AZ Alkmaar,Ned,Arsenal,Eng,1,1
+2010,Arsenal,Eng,AZ Alkmaar,Ned,4,1
+2010,Olympiakos Piraeus,Gre,Standard Liège,Bel,2,1
+2010,Standard Liège,Bel,Olympiakos Piraeus,Gre,2,0
+2010,VfB Stuttgart,Ger,FC Barcelona,Esp,1,1
+2010,FC Barcelona,Esp,VfB Stuttgart,Ger,4,0
+2010,Olympiakos Piraeus,Gre,Girondins Bordeaux,Fra,0,1
+2010,Girondins Bordeaux,Fra,Olympiakos Piraeus,Gre,2,1
+2010,Internazionale,Ita,Chelsea,Eng,2,1
+2010,Chelsea,Eng,Internazionale,Ita,0,1
+2010,Bayern München,Ger,Fiorentina,Ita,2,1
+2010,Fiorentina,Ita,Bayern München,Ger,3,2
+2010,CSKA Moscow,Rus,Sevilla,Esp,1,1
+2010,Sevilla,Esp,CSKA Moscow,Rus,1,2
+2010,Olympique Lyon,Fra,Real Madrid,Esp,1,0
+2010,Real Madrid,Esp,Olympique Lyon,Fra,1,1
+2010,FC Porto,Por,Arsenal,Eng,2,1
+2010,Arsenal,Eng,FC Porto,Por,5,0
+2010,AC Milan,Ita,Manchester United,Eng,2,3
+2010,Manchester United,Eng,AC Milan,Ita,4,0
+2010,Olympique Lyon,Fra,Girondins Bordeaux,Fra,3,1
+2010,Girondins Bordeaux,Fra,Olympique Lyon,Fra,1,0
+2010,Bayern München,Ger,Manchester United,Eng,2,1
+2010,Manchester United,Eng,Bayern München,Ger,3,2
+2010,Arsenal,Eng,FC Barcelona,Esp,2,2
+2010,FC Barcelona,Esp,Arsenal,Eng,4,1
+2010,Internazionale,Ita,CSKA Moscow,Rus,1,0
+2010,CSKA Moscow,Rus,Internazionale,Ita,0,1
+2010,Bayern München,Ger,Olympique Lyon,Fra,1,0
+2010,Olympique Lyon,Fra,Bayern München,Ger,0,3
+2010,Internazionale,Ita,FC Barcelona,Esp,3,1
+2010,FC Barcelona,Esp,Internazionale,Ita,1,0
+2010,Internazionale,Ita,Bayern München,Ger,2,0
+2011,Tre Fiori,Sma,Rudar Pljevlja,Mon,0,3
+2011,Rudar Pljevlja,Mon,Tre Fiori,Sma,4,1
+2011,FC Santa Coloma,And,Birkirkara,Mlt,0,3
+2011,Birkirkara,Mlt,FC Santa Coloma,And,4,3
+2011,Metalurgs Liepaja,Lat,Sparta Praha,Cze,0,3
+2011,Sparta Praha,Cze,Metalurgs Liepaja,Lat,2,0
+2011,FK Aktobe,Kaz,Olimpi Rustavi,Geo,2,0
+2011,Olimpi Rustavi,Geo,FK Aktobe,Kaz,1,1
+2011,Levadia Tallinn,Est,DVSC Debrecen,Hun,1,1
+2011,DVSC Debrecen,Hun,Levadia Tallinn,Est,3,2
+2011,Partizan Belgrade,Srb,Pyunik Yerevan,Arm,3,1
+2011,Pyunik Yerevan,Arm,Partizan Belgrade,Srb,0,1
+2011,Inter Baku,Azb,Lech Poznan,Pol,0,1
+2011,Lech Poznan,Pol,Inter Baku,Azb,0,1
+2011,Dinamo Zagreb,Cro,NK Koper,Slo,5,1
+2011,NK Koper,Slo,Dinamo Zagreb,Cro,3,0
+2011,Litex Lovech,Bul,Rudar Pljevlja,Mon,1,0
+2011,Rudar Pljevlja,Mon,Litex Lovech,Bul,0,4
+2011,Birkirkara,Mlt,MSK Zilina,Svk,1,0
+2011,MSK Zilina,Svk,Birkirkara,Mlt,3,0
+2011,Sheriff Tiraspol,Mol,Dinamo Tirana,Alb,3,1
+2011,Dinamo Tirana,Alb,Sheriff Tiraspol,Mol,1,0
+2011,Hapoel Tel-Aviv,Isr,Zeljeznicar Sarajevo,Bos,5,0
+2011,Zeljeznicar Sarajevo,Bos,Hapoel Tel-Aviv,Isr,0,1
+2011,Omonia Nicosia,Cyp,Renova Dzepciste,Mac,3,0
+2011,Renova Dzepciste,Mac,Omonia Nicosia,Cyp,0,2
+2011,FC Salzburg,Aut,HB Torshavn,Far,5,0
+2011,HB Torshavn,Far,FC Salzburg,Aut,1,0
+2011,Bohemians Dublin,Irl,The New Saints,Wal,1,0
+2011,The New Saints,Wal,Bohemians Dublin,Irl,4,0
+2011,BATE Borisov,Bls,FH Hafnarfjardar,Isl,5,1
+2011,FH Hafnarfjardar,Isl,BATE Borisov,Bls,0,1
+2011,AIK Stockholm,Swe,Jeunesse d'Esch,Lux,1,0
+2011,Jeunesse d'Esch,Lux,AIK Stockholm,Swe,0,0
+2011,Linfield Belfast,Nir,Rosenborg BK,Nor,0,0
+2011,Rosenborg BK,Nor,Linfield Belfast,Nir,2,0
+2011,Ekranas Panevezys,Lit,HJK Helsinki,Fin,1,0
+2011,HJK Helsinki,Fin,Ekranas Panevezys,Lit,2,0
+2011,Sparta Praha,Cze,Lech Poznan,Pol,1,0
+2011,Lech Poznan,Pol,Sparta Praha,Cze,0,1
+2011,FK Aktobe,Kaz,Hapoel Tel-Aviv,Isr,1,0
+2011,Hapoel Tel-Aviv,Isr,FK Aktobe,Kaz,3,1
+2011,Sheriff Tiraspol,Mol,Dinamo Zagreb,Cro,1,1
+2011,Dinamo Zagreb,Cro,Sheriff Tiraspol,Mol,1,1
+2011,Litex Lovech,Bul,MSK Zilina,Svk,1,1
+2011,MSK Zilina,Svk,Litex Lovech,Bul,3,1
+2011,DVSC Debrecen,Hun,FC Basel,Sui,0,2
+2011,FC Basel,Sui,DVSC Debrecen,Hun,3,1
+2011,AIK Stockholm,Swe,Rosenborg BK,Nor,0,1
+2011,Rosenborg BK,Nor,AIK Stockholm,Swe,3,0
+2011,Partizan Belgrade,Srb,HJK Helsinki,Fin,3,0
+2011,HJK Helsinki,Fin,Partizan Belgrade,Srb,1,2
+2011,BATE Borisov,Bls,FC København,Den,0,0
+2011,FC København,Den,BATE Borisov,Bls,3,2
+2011,The New Saints,Wal,Anderlecht,Bel,1,3
+2011,Anderlecht,Bel,The New Saints,Wal,3,0
+2011,Omonia Nicosia,Cyp,FC Salzburg,Aut,1,1
+2011,FC Salzburg,Aut,Omonia Nicosia,Cyp,4,1
+2011,Ajax,Ned,PAOK Thessaloniki,Gre,1,1
+2011,PAOK Thessaloniki,Gre,Ajax,Ned,3,3
+2011,Dinamo Kiev,Ukr,AA Gent,Bel,3,0
+2011,AA Gent,Bel,Dinamo Kiev,Ukr,1,3
+2011,Young Boys,Sui,Fenerbahçe,Tur,2,2
+2011,Fenerbahçe,Tur,Young Boys,Sui,0,1
+2011,Sporting Braga,Por,Celtic,Sco,3,0
+2011,Celtic,Sco,Sporting Braga,Por,2,1
+2011,Unirea Urziceni,Rom,Zenit St. Petersburg,Rus,0,0
+2011,Zenit St. Petersburg,Rus,Unirea Urziceni,Rom,1,0
+2011,FC Salzburg,Aut,Hapoel Tel-Aviv,Isr,2,3
+2011,Hapoel Tel-Aviv,Isr,FC Salzburg,Aut,1,1
+2011,Rosenborg BK,Nor,FC København,Den,2,1
+2011,FC København,Den,Rosenborg BK,Nor,1,0
+2011,FC Basel,Sui,Sheriff Tiraspol,Mol,1,0
+2011,Sheriff Tiraspol,Mol,FC Basel,Sui,0,3
+2011,Sparta Praha,Cze,MSK Zilina,Svk,0,2
+2011,MSK Zilina,Svk,Sparta Praha,Cze,1,0
+2011,Partizan Belgrade,Srb,Anderlecht,Bel,2,2
+2011,Anderlecht,Bel,Partizan Belgrade,Srb,2,2
+2011,Young Boys,Sui,Tottenham Hotspur,Eng,3,2
+2011,Tottenham Hotspur,Eng,Young Boys,Sui,4,0
+2011,Sporting Braga,Por,Sevilla,Esp,1,0
+2011,Sevilla,Esp,Sporting Braga,Por,3,4
+2011,Werder Bremen,Ger,Sampdoria,Ita,3,1
+2011,Sampdoria,Ita,Werder Bremen,Ger,3,2
+2011,Zenit St. Petersburg,Rus,AJ Auxerre,Fra,1,0
+2011,AJ Auxerre,Fra,Zenit St. Petersburg,Rus,2,0
+2011,Dinamo Kiev,Ukr,Ajax,Ned,1,1
+2011,Ajax,Ned,Dinamo Kiev,Ukr,2,1
+2011,FC Twente Enschede,Ned,Internazionale,Ita,2,2
+2011,Internazionale,Ita,FC Twente Enschede,Ned,1,0
+2011,Werder Bremen,Ger,Tottenham Hotspur,Eng,2,2
+2011,Tottenham Hotspur,Eng,Werder Bremen,Ger,3,0
+2011,Tottenham Hotspur,Eng,FC Twente Enschede,Ned,4,1
+2011,FC Twente Enschede,Ned,Tottenham Hotspur,Eng,3,3
+2011,Internazionale,Ita,Werder Bremen,Ger,4,0
+2011,Werder Bremen,Ger,Internazionale,Ita,3,0
+2011,Internazionale,Ita,Tottenham Hotspur,Eng,4,3
+2011,Tottenham Hotspur,Eng,Internazionale,Ita,3,1
+2011,FC Twente Enschede,Ned,Werder Bremen,Ger,1,1
+2011,Werder Bremen,Ger,FC Twente Enschede,Ned,0,2
+2011,Olympique Lyon,Fra,Schalke 04,Ger,1,0
+2011,Schalke 04,Ger,Olympique Lyon,Fra,3,0
+2011,Benfica,Por,Hapoel Tel-Aviv,Isr,2,0
+2011,Hapoel Tel-Aviv,Isr,Benfica,Por,3,0
+2011,Hapoel Tel-Aviv,Isr,Olympique Lyon,Fra,1,3
+2011,Olympique Lyon,Fra,Hapoel Tel-Aviv,Isr,2,2
+2011,Schalke 04,Ger,Benfica,Por,2,0
+2011,Benfica,Por,Schalke 04,Ger,1,2
+2011,Schalke 04,Ger,Hapoel Tel-Aviv,Isr,3,1
+2011,Hapoel Tel-Aviv,Isr,Schalke 04,Ger,0,0
+2011,Olympique Lyon,Fra,Benfica,Por,2,0
+2011,Benfica,Por,Olympique Lyon,Fra,4,3
+2011,Manchester United,Eng,Glasgow Rangers,Sco,0,0
+2011,Glasgow Rangers,Sco,Manchester United,Eng,0,1
+2011,Bursaspor,Tur,Valencia,Esp,0,4
+2011,Valencia,Esp,Bursaspor,Tur,6,1
+2011,Valencia,Esp,Manchester United,Eng,0,1
+2011,Manchester United,Eng,Valencia,Esp,1,1
+2011,Glasgow Rangers,Sco,Bursaspor,Tur,1,0
+2011,Bursaspor,Tur,Glasgow Rangers,Sco,1,1
+2011,Glasgow Rangers,Sco,Valencia,Esp,1,1
+2011,Valencia,Esp,Glasgow Rangers,Sco,3,0
+2011,Manchester United,Eng,Bursaspor,Tur,1,0
+2011,Bursaspor,Tur,Manchester United,Eng,0,3
+2011,FC Barcelona,Esp,Panathinaikos,Gre,5,1
+2011,Panathinaikos,Gre,FC Barcelona,Esp,0,3
+2011,FC København,Den,Rubin Kazan,Rus,1,0
+2011,Rubin Kazan,Rus,FC København,Den,1,0
+2011,Rubin Kazan,Rus,FC Barcelona,Esp,1,1
+2011,FC Barcelona,Esp,Rubin Kazan,Rus,2,0
+2011,Panathinaikos,Gre,FC København,Den,0,2
+2011,FC København,Den,Panathinaikos,Gre,3,1
+2011,Panathinaikos,Gre,Rubin Kazan,Rus,0,0
+2011,Rubin Kazan,Rus,Panathinaikos,Gre,0,0
+2011,FC Barcelona,Esp,FC København,Den,2,0
+2011,FC København,Den,FC Barcelona,Esp,1,1
+2011,Bayern München,Ger,AS Roma,Ita,2,0
+2011,AS Roma,Ita,Bayern München,Ger,3,2
+2011,CFR Cluj,Rom,FC Basel,Sui,2,1
+2011,FC Basel,Sui,CFR Cluj,Rom,1,0
+2011,FC Basel,Sui,Bayern München,Ger,1,2
+2011,Bayern München,Ger,FC Basel,Sui,3,0
+2011,AS Roma,Ita,CFR Cluj,Rom,2,1
+2011,CFR Cluj,Rom,AS Roma,Ita,1,1
+2011,AS Roma,Ita,FC Basel,Sui,1,3
+2011,FC Basel,Sui,AS Roma,Ita,2,3
+2011,Bayern München,Ger,CFR Cluj,Rom,3,2
+2011,CFR Cluj,Rom,Bayern München,Ger,0,4
+2011,Olympique Marseille,Fra,Spartak Moscow,Rus,0,1
+2011,Spartak Moscow,Rus,Olympique Marseille,Fra,0,3
+2011,MSK Zilina,Svk,Chelsea,Eng,1,4
+2011,Chelsea,Eng,MSK Zilina,Svk,2,1
+2011,Chelsea,Eng,Olympique Marseille,Fra,2,0
+2011,Olympique Marseille,Fra,Chelsea,Eng,1,0
+2011,Spartak Moscow,Rus,MSK Zilina,Svk,3,0
+2011,MSK Zilina,Svk,Spartak Moscow,Rus,1,2
+2011,Spartak Moscow,Rus,Chelsea,Eng,0,2
+2011,Chelsea,Eng,Spartak Moscow,Rus,4,1
+2011,Olympique Marseille,Fra,MSK Zilina,Svk,1,0
+2011,MSK Zilina,Svk,Olympique Marseille,Fra,0,7
+2011,Real Madrid,Esp,Ajax,Ned,2,0
+2011,Ajax,Ned,Real Madrid,Esp,0,4
+2011,AC Milan,Ita,AJ Auxerre,Fra,2,0
+2011,AJ Auxerre,Fra,AC Milan,Ita,0,2
+2011,AJ Auxerre,Fra,Real Madrid,Esp,0,1
+2011,Real Madrid,Esp,AJ Auxerre,Fra,4,0
+2011,Ajax,Ned,AC Milan,Ita,1,1
+2011,AC Milan,Ita,Ajax,Ned,0,2
+2011,Ajax,Ned,AJ Auxerre,Fra,2,1
+2011,AJ Auxerre,Fra,Ajax,Ned,2,1
+2011,Real Madrid,Esp,AC Milan,Ita,2,0
+2011,AC Milan,Ita,Real Madrid,Esp,2,2
+2011,Arsenal,Eng,Sporting Braga,Por,6,0
+2011,Sporting Braga,Por,Arsenal,Eng,2,0
+2011,Shakhtar Donetsk,Ukr,Partizan Belgrade,Srb,1,0
+2011,Partizan Belgrade,Srb,Shakhtar Donetsk,Ukr,0,3
+2011,Partizan Belgrade,Srb,Arsenal,Eng,1,3
+2011,Arsenal,Eng,Partizan Belgrade,Srb,3,1
+2011,Sporting Braga,Por,Shakhtar Donetsk,Ukr,0,3
+2011,Shakhtar Donetsk,Ukr,Sporting Braga,Por,2,0
+2011,Sporting Braga,Por,Partizan Belgrade,Srb,2,0
+2011,Partizan Belgrade,Srb,Sporting Braga,Por,0,1
+2011,Arsenal,Eng,Shakhtar Donetsk,Ukr,5,1
+2011,Shakhtar Donetsk,Ukr,Arsenal,Eng,2,1
+2011,AS Roma,Ita,Shakhtar Donetsk,Ukr,2,3
+2011,Shakhtar Donetsk,Ukr,AS Roma,Ita,3,0
+2011,AC Milan,Ita,Tottenham Hotspur,Eng,0,1
+2011,Tottenham Hotspur,Eng,AC Milan,Ita,0,0
+2011,Valencia,Esp,Schalke 04,Ger,1,1
+2011,Schalke 04,Ger,Valencia,Esp,3,1
+2011,Internazionale,Ita,Bayern München,Ger,0,1
+2011,Bayern München,Ger,Internazionale,Ita,2,3
+2011,Olympique Lyon,Fra,Real Madrid,Esp,1,1
+2011,Real Madrid,Esp,Olympique Lyon,Fra,3,0
+2011,Arsenal,Eng,FC Barcelona,Esp,2,1
+2011,FC Barcelona,Esp,Arsenal,Eng,3,1
+2011,Olympique Marseille,Fra,Manchester United,Eng,0,0
+2011,Manchester United,Eng,Olympique Marseille,Fra,2,1
+2011,FC København,Den,Chelsea,Eng,0,2
+2011,Chelsea,Eng,FC København,Den,0,0
+2011,Real Madrid,Esp,Tottenham Hotspur,Eng,4,0
+2011,Tottenham Hotspur,Eng,Real Madrid,Esp,0,1
+2011,Internazionale,Ita,Schalke 04,Ger,2,5
+2011,Schalke 04,Ger,Internazionale,Ita,2,1
+2011,Chelsea,Eng,Manchester United,Eng,0,1
+2011,Manchester United,Eng,Chelsea,Eng,2,1
+2011,FC Barcelona,Esp,Shakhtar Donetsk,Ukr,5,1
+2011,Shakhtar Donetsk,Ukr,FC Barcelona,Esp,0,1
+2011,Schalke 04,Ger,Manchester United,Eng,0,2
+2011,Manchester United,Eng,Schalke 04,Ger,4,1
+2011,Real Madrid,Esp,FC Barcelona,Esp,0,2
+2011,FC Barcelona,Esp,Real Madrid,Esp,1,1
+2011,FC Barcelona,Esp,Manchester United,Eng,3,1
+2012,FC Santa Coloma,And,F91 Dudelange,Lux,0,2
+2012,F91 Dudelange,Lux,FC Santa Coloma,And,2,0
+2012,Tre Fiori,Sma,Valletta FC,Mlt,0,3
+2012,Valletta FC,Mlt,Tre Fiori,Sma,2,1
+2012,Maccabi Haifa,Isr,FK Borac Banja Luka,Bos,5,1
+2012,FK Borac Banja Luka,Bos,Maccabi Haifa,Isr,3,2
+2012,Mogren Budva,Mon,Litex Lovech,Bul,1,2
+2012,Litex Lovech,Bul,Mogren Budva,Mon,3,0
+2012,NK Maribor,Slo,F91 Dudelange,Lux,2,0
+2012,F91 Dudelange,Lux,NK Maribor,Slo,1,3
+2012,Skënderbeu Korçë,Alb,APOEL Nicosia,Cyp,0,2
+2012,APOEL Nicosia,Cyp,Skënderbeu Korçë,Alb,4,0
+2012,Slovan Bratislava,Svk,Tobol Kustanai,Kaz,2,0
+2012,Tobol Kustanai,Kaz,Slovan Bratislava,Svk,1,1
+2012,Sturm Graz,Aut,Videoton Fehérvár,Hun,2,0
+2012,Videoton Fehérvár,Hun,Sturm Graz,Aut,3,2
+2012,FC Zestafoni,Geo,Dacia Chisinau,Mol,3,0
+2012,Dacia Chisinau,Mol,FC Zestafoni,Geo,2,0
+2012,Dinamo Zagreb,Cro,Neftchi Baku,Azb,3,0
+2012,Neftchi Baku,Azb,Dinamo Zagreb,Cro,0,0
+2012,Pyunik Yerevan,Arm,Viktoria Plzen,Cze,0,4
+2012,Viktoria Plzen,Cze,Pyunik Yerevan,Arm,5,1
+2012,Partizan Belgrade,Srb,Shkendija Tetovo,Mac,4,0
+2012,Shkendija Tetovo,Mac,Partizan Belgrade,Srb,0,1
+2012,Valletta FC,Mlt,Ekranas Panevezys,Lit,2,3
+2012,Ekranas Panevezys,Lit,Valletta FC,Mlt,1,0
+2012,Malmö FF,Swe,HB Torshavn,Far,2,0
+2012,HB Torshavn,Far,Malmö FF,Swe,1,1
+2012,Shamrock Rovers,Irl,Flora Tallinn,Est,1,0
+2012,Flora Tallinn,Est,Shamrock Rovers,Irl,0,0
+2012,Rosenborg BK,Nor,Breidablik,Isl,5,0
+2012,Breidablik,Isl,Rosenborg BK,Nor,2,0
+2012,Bangor City,Wal,HJK Helsinki,Fin,0,3
+2012,HJK Helsinki,Fin,Bangor City,Wal,10,0
+2012,Skonto Riga,Lat,Wisla Kraków,Pol,0,1
+2012,Wisla Kraków,Pol,Skonto Riga,Lat,2,0
+2012,Linfield Belfast,Nir,BATE Borisov,Bls,1,1
+2012,BATE Borisov,Bls,Linfield Belfast,Nir,2,0
+2012,Litex Lovech,Bul,Wisla Kraków,Pol,1,2
+2012,Wisla Kraków,Pol,Litex Lovech,Bul,3,1
+2012,Maccabi Haifa,Isr,NK Maribor,Slo,2,1
+2012,NK Maribor,Slo,Maccabi Haifa,Isr,1,1
+2012,HJK Helsinki,Fin,Dinamo Zagreb,Cro,1,2
+2012,Dinamo Zagreb,Cro,HJK Helsinki,Fin,1,0
+2012,APOEL Nicosia,Cyp,Slovan Bratislava,Svk,0,0
+2012,Slovan Bratislava,Svk,APOEL Nicosia,Cyp,0,2
+2012,FC København,Den,Shamrock Rovers,Irl,1,0
+2012,Shamrock Rovers,Irl,FC København,Den,0,2
+2012,Racing Genk,Bel,Partizan Belgrade,Srb,2,1
+2012,Partizan Belgrade,Srb,Racing Genk,Bel,1,1
+2012,Rosenborg BK,Nor,Viktoria Plzen,Cze,0,1
+2012,Viktoria Plzen,Cze,Rosenborg BK,Nor,3,2
+2012,FC Zestafoni,Geo,Sturm Graz,Aut,1,1
+2012,Sturm Graz,Aut,FC Zestafoni,Geo,1,0
+2012,Ekranas Panevezys,Lit,BATE Borisov,Bls,0,0
+2012,BATE Borisov,Bls,Ekranas Panevezys,Lit,3,1
+2012,Glasgow Rangers,Sco,Malmö FF,Swe,0,1
+2012,Malmö FF,Swe,Glasgow Rangers,Sco,1,1
+2012,Standard Liège,Bel,FC Zürich,Sui,1,1
+2012,FC Zürich,Sui,Standard Liège,Bel,1,0
+2012,FC Twente Enschede,Ned,FC Vaslui,Rom,2,0
+2012,FC Vaslui,Rom,FC Twente Enschede,Ned,0,0
+2012,Benfica,Por,Trabzonspor,Tur,2,0
+2012,Trabzonspor,Tur,Benfica,Por,1,1
+2012,Dinamo Kiev,Ukr,Rubin Kazan,Rus,0,2
+2012,Rubin Kazan,Rus,Dinamo Kiev,Ukr,2,1
+2012,OB Odense,Den,Panathinaikos,Gre,1,1
+2012,Panathinaikos,Gre,OB Odense,Den,3,4
+2012,Wisla Kraków,Pol,APOEL Nicosia,Cyp,1,0
+2012,APOEL Nicosia,Cyp,Wisla Kraków,Pol,3,1
+2012,Maccabi Haifa,Isr,Racing Genk,Bel,2,1
+2012,Racing Genk,Bel,Maccabi Haifa,Isr,2,1
+2012,Dinamo Zagreb,Cro,Malmö FF,Swe,4,1
+2012,Malmö FF,Swe,Dinamo Zagreb,Cro,2,0
+2012,FC København,Den,Viktoria Plzen,Cze,1,3
+2012,Viktoria Plzen,Cze,FC København,Den,2,1
+2012,BATE Borisov,Bls,Sturm Graz,Aut,1,1
+2012,Sturm Graz,Aut,BATE Borisov,Bls,0,2
+2012,OB Odense,Den,Villarreal,Esp,1,0
+2012,Villarreal,Esp,OB Odense,Den,3,0
+2012,FC Twente Enschede,Ned,Benfica,Por,2,2
+2012,Benfica,Por,FC Twente Enschede,Ned,3,1
+2012,Arsenal,Eng,Udinese,Ita,1,0
+2012,Udinese,Ita,Arsenal,Eng,1,2
+2012,Bayern München,Ger,FC Zürich,Sui,2,0
+2012,FC Zürich,Sui,Bayern München,Ger,0,1
+2012,Olympique Lyon,Fra,Rubin Kazan,Rus,3,1
+2012,Rubin Kazan,Rus,Olympique Lyon,Fra,1,1
+2012,Manchester City,Eng,Napoli,Ita,1,1
+2012,Napoli,Ita,Manchester City,Eng,2,1
+2012,Villarreal,Esp,Bayern München,Ger,0,2
+2012,Bayern München,Ger,Villarreal,Esp,3,1
+2012,Bayern München,Ger,Manchester City,Eng,2,0
+2012,Manchester City,Eng,Bayern München,Ger,2,0
+2012,Napoli,Ita,Villarreal,Esp,2,0
+2012,Villarreal,Esp,Napoli,Ita,0,2
+2012,Napoli,Ita,Bayern München,Ger,1,1
+2012,Bayern München,Ger,Napoli,Ita,3,2
+2012,Manchester City,Eng,Villarreal,Esp,2,1
+2012,Villarreal,Esp,Manchester City,Eng,0,3
+2012,Lille OSC,Fra,CSKA Moscow,Rus,2,2
+2012,CSKA Moscow,Rus,Lille OSC,Fra,0,2
+2012,Internazionale,Ita,Trabzonspor,Tur,0,1
+2012,Trabzonspor,Tur,Internazionale,Ita,1,1
+2012,Trabzonspor,Tur,Lille OSC,Fra,1,1
+2012,Lille OSC,Fra,Trabzonspor,Tur,0,0
+2012,CSKA Moscow,Rus,Internazionale,Ita,2,3
+2012,Internazionale,Ita,CSKA Moscow,Rus,1,2
+2012,CSKA Moscow,Rus,Trabzonspor,Tur,3,0
+2012,Trabzonspor,Tur,CSKA Moscow,Rus,0,0
+2012,Lille OSC,Fra,Internazionale,Ita,0,1
+2012,Internazionale,Ita,Lille OSC,Fra,2,1
+2012,FC Basel,Sui,Otelul Galati,Rom,2,1
+2012,Otelul Galati,Rom,FC Basel,Sui,2,3
+2012,Benfica,Por,Manchester United,Eng,1,1
+2012,Manchester United,Eng,Benfica,Por,2,2
+2012,Manchester United,Eng,FC Basel,Sui,3,3
+2012,FC Basel,Sui,Manchester United,Eng,2,1
+2012,Otelul Galati,Rom,Benfica,Por,0,1
+2012,Benfica,Por,Otelul Galati,Rom,1,0
+2012,Otelul Galati,Rom,Manchester United,Eng,0,2
+2012,Manchester United,Eng,Otelul Galati,Rom,2,0
+2012,FC Basel,Sui,Benfica,Por,0,2
+2012,Benfica,Por,FC Basel,Sui,1,1
+2012,Dinamo Zagreb,Cro,Real Madrid,Esp,0,1
+2012,Real Madrid,Esp,Dinamo Zagreb,Cro,6,2
+2012,Ajax,Ned,Olympique Lyon,Fra,0,0
+2012,Olympique Lyon,Fra,Ajax,Ned,0,0
+2012,Olympique Lyon,Fra,Dinamo Zagreb,Cro,2,0
+2012,Dinamo Zagreb,Cro,Olympique Lyon,Fra,1,7
+2012,Real Madrid,Esp,Ajax,Ned,3,0
+2012,Ajax,Ned,Real Madrid,Esp,0,3
+2012,Real Madrid,Esp,Olympique Lyon,Fra,4,0
+2012,Olympique Lyon,Fra,Real Madrid,Esp,0,2
+2012,Dinamo Zagreb,Cro,Ajax,Ned,0,2
+2012,Ajax,Ned,Dinamo Zagreb,Cro,4,0
+2012,Chelsea,Eng,Bayer Leverkusen,Ger,2,0
+2012,Bayer Leverkusen,Ger,Chelsea,Eng,2,1
+2012,Racing Genk,Bel,Valencia,Esp,0,0
+2012,Valencia,Esp,Racing Genk,Bel,7,0
+2012,Valencia,Esp,Chelsea,Eng,1,1
+2012,Chelsea,Eng,Valencia,Esp,3,0
+2012,Bayer Leverkusen,Ger,Racing Genk,Bel,2,0
+2012,Racing Genk,Bel,Bayer Leverkusen,Ger,1,1
+2012,Bayer Leverkusen,Ger,Valencia,Esp,2,1
+2012,Valencia,Esp,Bayer Leverkusen,Ger,3,1
+2012,Chelsea,Eng,Racing Genk,Bel,5,0
+2012,Racing Genk,Bel,Chelsea,Eng,1,1
+2012,Olympiakos Piraeus,Gre,Olympique Marseille,Fra,0,1
+2012,Olympique Marseille,Fra,Olympiakos Piraeus,Gre,0,1
+2012,Borussia Dortmund,Ger,Arsenal,Eng,1,1
+2012,Arsenal,Eng,Borussia Dortmund,Ger,2,1
+2012,Arsenal,Eng,Olympiakos Piraeus,Gre,2,1
+2012,Olympiakos Piraeus,Gre,Arsenal,Eng,3,1
+2012,Olympique Marseille,Fra,Borussia Dortmund,Ger,3,0
+2012,Borussia Dortmund,Ger,Olympique Marseille,Fra,2,3
+2012,Olympique Marseille,Fra,Arsenal,Eng,0,1
+2012,Arsenal,Eng,Olympique Marseille,Fra,0,0
+2012,Olympiakos Piraeus,Gre,Borussia Dortmund,Ger,3,1
+2012,Borussia Dortmund,Ger,Olympiakos Piraeus,Gre,1,0
+2012,FC Porto,Por,Shakhtar Donetsk,Ukr,2,1
+2012,Shakhtar Donetsk,Ukr,FC Porto,Por,0,2
+2012,APOEL Nicosia,Cyp,Zenit St. Petersburg,Rus,2,1
+2012,Zenit St. Petersburg,Rus,APOEL Nicosia,Cyp,0,0
+2012,Zenit St. Petersburg,Rus,FC Porto,Por,3,1
+2012,FC Porto,Por,Zenit St. Petersburg,Rus,0,0
+2012,Shakhtar Donetsk,Ukr,APOEL Nicosia,Cyp,1,1
+2012,APOEL Nicosia,Cyp,Shakhtar Donetsk,Ukr,0,2
+2012,Shakhtar Donetsk,Ukr,Zenit St. Petersburg,Rus,2,2
+2012,Zenit St. Petersburg,Rus,Shakhtar Donetsk,Ukr,1,0
+2012,FC Porto,Por,APOEL Nicosia,Cyp,1,1
+2012,APOEL Nicosia,Cyp,FC Porto,Por,2,1
+2012,FC Barcelona,Esp,AC Milan,Ita,2,2
+2012,AC Milan,Ita,FC Barcelona,Esp,2,3
+2012,Viktoria Plzen,Cze,BATE Borisov,Bls,1,1
+2012,BATE Borisov,Bls,Viktoria Plzen,Cze,0,1
+2012,BATE Borisov,Bls,FC Barcelona,Esp,0,5
+2012,FC Barcelona,Esp,BATE Borisov,Bls,4,0
+2012,AC Milan,Ita,Viktoria Plzen,Cze,2,0
+2012,Viktoria Plzen,Cze,AC Milan,Ita,2,2
+2012,AC Milan,Ita,BATE Borisov,Bls,2,0
+2012,BATE Borisov,Bls,AC Milan,Ita,1,1
+2012,FC Barcelona,Esp,Viktoria Plzen,Cze,2,0
+2012,Viktoria Plzen,Cze,FC Barcelona,Esp,0,4
+2012,Olympique Lyon,Fra,APOEL Nicosia,Cyp,1,0
+2012,APOEL Nicosia,Cyp,Olympique Lyon,Fra,1,0
+2012,Napoli,Ita,Chelsea,Eng,3,1
+2012,Chelsea,Eng,Napoli,Ita,4,1
+2012,AC Milan,Ita,Arsenal,Eng,4,0
+2012,Arsenal,Eng,AC Milan,Ita,3,0
+2012,FC Basel,Sui,Bayern München,Ger,1,0
+2012,Bayern München,Ger,FC Basel,Sui,7,0
+2012,Bayer Leverkusen,Ger,FC Barcelona,Esp,1,3
+2012,FC Barcelona,Esp,Bayer Leverkusen,Ger,7,1
+2012,CSKA Moscow,Rus,Real Madrid,Esp,1,1
+2012,Real Madrid,Esp,CSKA Moscow,Rus,4,1
+2012,Zenit St. Petersburg,Rus,Benfica,Por,3,2
+2012,Benfica,Por,Zenit St. Petersburg,Rus,2,0
+2012,Olympique Marseille,Fra,Internazionale,Ita,1,0
+2012,Internazionale,Ita,Olympique Marseille,Fra,2,1
+2012,APOEL Nicosia,Cyp,Real Madrid,Esp,0,3
+2012,Real Madrid,Esp,APOEL Nicosia,Cyp,5,2
+2012,Olympique Marseille,Fra,Bayern München,Ger,0,2
+2012,Bayern München,Ger,Olympique Marseille,Fra,2,0
+2012,Benfica,Por,Chelsea,Eng,0,1
+2012,Chelsea,Eng,Benfica,Por,2,1
+2012,AC Milan,Ita,FC Barcelona,Esp,0,0
+2012,FC Barcelona,Esp,AC Milan,Ita,3,1
+2012,Bayern München,Ger,Real Madrid,Esp,2,1
+2012,Real Madrid,Esp,Bayern München,Ger,2,1
+2012,Chelsea,Eng,FC Barcelona,Esp,1,0
+2012,FC Barcelona,Esp,Chelsea,Eng,2,2
+2012,Bayern München,Ger,Chelsea,Eng,1,1
+2013,F91 Dudelange,Lux,Tre Penne,Sma,7,0
+2013,Tre Penne,Sma,F91 Dudelange,Lux,0,4
+2013,Valletta FC,Mlt,FC Lusitanos,And,8,0
+2013,FC Lusitanos,And,Valletta FC,Mlt,0,1
+2013,Linfield Belfast,Nir,B36 Torshavn,Far,0,0
+2013,B36 Torshavn,Far,Linfield Belfast,Nir,0,0
+2013,Skënderbeu Korçë,Alb,DVSC Debrecen,Hun,1,0
+2013,DVSC Debrecen,Hun,Skënderbeu Korçë,Alb,3,0
+2013,NK Maribor,Slo,Zeljeznicar Sarajevo,Bos,4,1
+2013,Zeljeznicar Sarajevo,Bos,NK Maribor,Slo,1,2
+2013,MSK Zilina,Svk,Hapoel Kiryat Shmona,Isr,1,0
+2013,Hapoel Kiryat Shmona,Isr,MSK Zilina,Svk,2,0
+2013,BATE Borisov,Bls,Vardar Skopje,Mac,3,2
+2013,Vardar Skopje,Mac,BATE Borisov,Bls,0,0
+2013,AEL Limassol,Cyp,Linfield Belfast,Nir,3,0
+2013,Linfield Belfast,Nir,AEL Limassol,Cyp,0,0
+2013,Shamrock Rovers,Irl,Ekranas Panevezys,Lit,0,0
+2013,Ekranas Panevezys,Lit,Shamrock Rovers,Irl,2,1
+2013,Flora Tallinn,Est,FC Basel,Sui,0,2
+2013,FC Basel,Sui,Flora Tallinn,Est,3,0
+2013,The New Saints,Wal,Helsingborg IF,Swe,0,0
+2013,Helsingborg IF,Swe,The New Saints,Wal,3,0
+2013,HJK Helsinki,Fin,KR Reykjavik,Isl,7,0
+2013,KR Reykjavik,Isl,HJK Helsinki,Fin,1,2
+2013,Molde FK,Nor,FK Ventspils,Lat,3,0
+2013,FK Ventspils,Lat,Molde FK,Nor,1,1
+2013,F91 Dudelange,Lux,FC Salzburg,Aut,1,0
+2013,FC Salzburg,Aut,F91 Dudelange,Lux,4,3
+2013,Slovan Liberec,Cze,Shakhtyor Karaganda,Kaz,1,0
+2013,Shakhtyor Karaganda,Kaz,Slovan Liberec,Cze,1,1
+2013,Ludogorets Razgrad,Bul,Dinamo Zagreb,Cro,1,1
+2013,Dinamo Zagreb,Cro,Ludogorets Razgrad,Bul,3,2
+2013,Neftchi Baku,Azb,FC Zestafoni,Geo,3,0
+2013,FC Zestafoni,Geo,Neftchi Baku,Azb,2,2
+2013,Ulisses Yerevan,Arm,Sheriff Tiraspol,Mol,0,1
+2013,Sheriff Tiraspol,Mol,Ulisses Yerevan,Arm,1,0
+2013,Valletta FC,Mlt,Partizan Belgrade,Srb,1,4
+2013,Partizan Belgrade,Srb,Valletta FC,Mlt,3,1
+2013,Buducnost Podgorica,Mon,Slask Wroclaw,Pol,0,2
+2013,Slask Wroclaw,Pol,Buducnost Podgorica,Mon,0,1
+2013,NK Maribor,Slo,F91 Dudelange,Lux,4,1
+2013,F91 Dudelange,Lux,NK Maribor,Slo,0,1
+2013,BATE Borisov,Bls,DVSC Debrecen,Hun,1,1
+2013,DVSC Debrecen,Hun,BATE Borisov,Bls,0,2
+2013,CFR Cluj,Rom,Slovan Liberec,Cze,1,0
+2013,Slovan Liberec,Cze,CFR Cluj,Rom,1,2
+2013,Anderlecht,Bel,Ekranas Panevezys,Lit,5,0
+2013,Ekranas Panevezys,Lit,Anderlecht,Bel,0,6
+2013,Slask Wroclaw,Pol,Helsingborg IF,Swe,0,3
+2013,Helsingborg IF,Swe,Slask Wroclaw,Pol,3,1
+2013,Sheriff Tiraspol,Mol,Dinamo Zagreb,Cro,0,1
+2013,Dinamo Zagreb,Cro,Sheriff Tiraspol,Mol,4,0
+2013,Celtic,Sco,HJK Helsinki,Fin,2,1
+2013,HJK Helsinki,Fin,Celtic,Sco,0,2
+2013,Molde FK,Nor,FC Basel,Sui,0,1
+2013,FC Basel,Sui,Molde FK,Nor,1,1
+2013,Hapoel Kiryat Shmona,Isr,Neftchi Baku,Azb,4,0
+2013,Neftchi Baku,Azb,Hapoel Kiryat Shmona,Isr,2,2
+2013,AEL Limassol,Cyp,Partizan Belgrade,Srb,1,0
+2013,Partizan Belgrade,Srb,AEL Limassol,Cyp,0,1
+2013,Fenerbahçe,Tur,FC Vaslui,Rom,1,1
+2013,FC Vaslui,Rom,Fenerbahçe,Tur,1,4
+2013,Motherwell,Sco,Panathinaikos,Gre,0,2
+2013,Panathinaikos,Gre,Motherwell,Sco,3,0
+2013,FC København,Den,Club Brugge,Bel,0,0
+2013,Club Brugge,Bel,FC København,Den,2,3
+2013,Dinamo Kiev,Ukr,Feyenoord,Ned,2,1
+2013,Feyenoord,Ned,Dinamo Kiev,Ukr,0,1
+2013,FC Basel,Sui,CFR Cluj,Rom,1,2
+2013,CFR Cluj,Rom,FC Basel,Sui,1,0
+2013,Helsingborg IF,Swe,Celtic,Sco,0,2
+2013,Celtic,Sco,Helsingborg IF,Swe,2,0
+2013,BATE Borisov,Bls,Hapoel Kiryat Shmona,Isr,2,0
+2013,Hapoel Kiryat Shmona,Isr,BATE Borisov,Bls,1,1
+2013,AEL Limassol,Cyp,Anderlecht,Bel,2,1
+2013,Anderlecht,Bel,AEL Limassol,Cyp,2,0
+2013,Dinamo Zagreb,Cro,NK Maribor,Slo,2,1
+2013,NK Maribor,Slo,Dinamo Zagreb,Cro,0,1
+2013,Sporting Braga,Por,Udinese,Ita,1,1
+2013,Udinese,Ita,Sporting Braga,Por,1,1
+2013,Spartak Moscow,Rus,Fenerbahçe,Tur,2,1
+2013,Fenerbahçe,Tur,Spartak Moscow,Rus,1,1
+2013,Málaga CF,Esp,Panathinaikos,Gre,2,0
+2013,Panathinaikos,Gre,Málaga CF,Esp,0,0
+2013,Borussia Mönchengladbach,Ger,Dinamo Kiev,Ukr,1,3
+2013,Dinamo Kiev,Ukr,Borussia Mönchengladbach,Ger,1,2
+2013,FC København,Den,Lille OSC,Fra,1,0
+2013,Lille OSC,Fra,FC København,Den,2,0
+2013,Dinamo Zagreb,Cro,FC Porto,Por,0,2
+2013,FC Porto,Por,Dinamo Zagreb,Cro,3,0
+2013,Paris Saint-Germain,Fra,Dinamo Kiev,Ukr,4,1
+2013,Dinamo Kiev,Ukr,Paris Saint-Germain,Fra,0,2
+2013,Dinamo Kiev,Ukr,Dinamo Zagreb,Cro,2,0
+2013,Dinamo Zagreb,Cro,Dinamo Kiev,Ukr,1,1
+2013,FC Porto,Por,Paris Saint-Germain,Fra,1,0
+2013,Paris Saint-Germain,Fra,FC Porto,Por,2,1
+2013,FC Porto,Por,Dinamo Kiev,Ukr,3,2
+2013,Dinamo Kiev,Ukr,FC Porto,Por,0,0
+2013,Dinamo Zagreb,Cro,Paris Saint-Germain,Fra,0,2
+2013,Paris Saint-Germain,Fra,Dinamo Zagreb,Cro,4,0
+2013,Montpellier,Fra,Arsenal,Eng,1,2
+2013,Arsenal,Eng,Montpellier,Fra,2,0
+2013,Olympiakos Piraeus,Gre,Schalke 04,Ger,1,2
+2013,Schalke 04,Ger,Olympiakos Piraeus,Gre,1,0
+2013,Schalke 04,Ger,Montpellier,Fra,2,2
+2013,Montpellier,Fra,Schalke 04,Ger,1,1
+2013,Arsenal,Eng,Olympiakos Piraeus,Gre,3,1
+2013,Olympiakos Piraeus,Gre,Arsenal,Eng,2,1
+2013,Arsenal,Eng,Schalke 04,Ger,0,2
+2013,Schalke 04,Ger,Arsenal,Eng,2,2
+2013,Montpellier,Fra,Olympiakos Piraeus,Gre,1,2
+2013,Olympiakos Piraeus,Gre,Montpellier,Fra,3,1
+2013,Málaga CF,Esp,Zenit St. Petersburg,Rus,3,0
+2013,Zenit St. Petersburg,Rus,Málaga CF,Esp,2,2
+2013,AC Milan,Ita,Anderlecht,Bel,0,0
+2013,Anderlecht,Bel,AC Milan,Ita,1,3
+2013,Anderlecht,Bel,Málaga CF,Esp,0,3
+2013,Málaga CF,Esp,Anderlecht,Bel,2,2
+2013,Zenit St. Petersburg,Rus,AC Milan,Ita,2,3
+2013,AC Milan,Ita,Zenit St. Petersburg,Rus,0,1
+2013,Zenit St. Petersburg,Rus,Anderlecht,Bel,1,0
+2013,Anderlecht,Bel,Zenit St. Petersburg,Rus,1,0
+2013,Málaga CF,Esp,AC Milan,Ita,1,0
+2013,AC Milan,Ita,Málaga CF,Esp,1,1
+2013,Borussia Dortmund,Ger,Ajax,Ned,1,0
+2013,Ajax,Ned,Borussia Dortmund,Ger,1,4
+2013,Real Madrid,Esp,Manchester City,Eng,3,2
+2013,Manchester City,Eng,Real Madrid,Esp,1,1
+2013,Manchester City,Eng,Borussia Dortmund,Ger,1,1
+2013,Borussia Dortmund,Ger,Manchester City,Eng,1,0
+2013,Ajax,Ned,Real Madrid,Esp,1,4
+2013,Real Madrid,Esp,Ajax,Ned,4,1
+2013,Ajax,Ned,Manchester City,Eng,3,1
+2013,Manchester City,Eng,Ajax,Ned,2,2
+2013,Borussia Dortmund,Ger,Real Madrid,Esp,2,1
+2013,Real Madrid,Esp,Borussia Dortmund,Ger,2,2
+2013,Shakhtar Donetsk,Ukr,FC Nordsjælland,Den,2,0
+2013,FC Nordsjælland,Den,Shakhtar Donetsk,Ukr,2,5
+2013,Chelsea,Eng,Juventus,Ita,2,2
+2013,Juventus,Ita,Chelsea,Eng,3,0
+2013,Juventus,Ita,Shakhtar Donetsk,Ukr,1,1
+2013,Shakhtar Donetsk,Ukr,Juventus,Ita,0,1
+2013,FC Nordsjælland,Den,Chelsea,Eng,0,4
+2013,Chelsea,Eng,FC Nordsjælland,Den,6,1
+2013,FC Nordsjælland,Den,Juventus,Ita,1,1
+2013,Juventus,Ita,FC Nordsjælland,Den,4,0
+2013,Shakhtar Donetsk,Ukr,Chelsea,Eng,2,1
+2013,Chelsea,Eng,Shakhtar Donetsk,Ukr,3,2
+2013,Lille OSC,Fra,BATE Borisov,Bls,1,3
+2013,BATE Borisov,Bls,Lille OSC,Fra,0,2
+2013,Bayern München,Ger,Valencia,Esp,2,1
+2013,Valencia,Esp,Bayern München,Ger,1,1
+2013,Valencia,Esp,Lille OSC,Fra,2,0
+2013,Lille OSC,Fra,Valencia,Esp,0,1
+2013,BATE Borisov,Bls,Bayern München,Ger,3,1
+2013,Bayern München,Ger,BATE Borisov,Bls,4,1
+2013,BATE Borisov,Bls,Valencia,Esp,0,3
+2013,Valencia,Esp,BATE Borisov,Bls,4,2
+2013,Lille OSC,Fra,Bayern München,Ger,0,1
+2013,Bayern München,Ger,Lille OSC,Fra,6,1
+2013,FC Barcelona,Esp,Spartak Moscow,Rus,3,2
+2013,Spartak Moscow,Rus,FC Barcelona,Esp,0,3
+2013,Celtic,Sco,Benfica,Por,0,0
+2013,Benfica,Por,Celtic,Sco,2,1
+2013,Benfica,Por,FC Barcelona,Esp,0,2
+2013,FC Barcelona,Esp,Benfica,Por,0,0
+2013,Spartak Moscow,Rus,Celtic,Sco,2,3
+2013,Celtic,Sco,Spartak Moscow,Rus,2,1
+2013,Spartak Moscow,Rus,Benfica,Por,2,1
+2013,Benfica,Por,Spartak Moscow,Rus,2,0
+2013,FC Barcelona,Esp,Celtic,Sco,2,1
+2013,Celtic,Sco,FC Barcelona,Esp,2,1
+2013,Manchester United,Eng,Galatasaray,Tur,1,0
+2013,Galatasaray,Tur,Manchester United,Eng,1,0
+2013,Sporting Braga,Por,CFR Cluj,Rom,0,2
+2013,CFR Cluj,Rom,Sporting Braga,Por,3,1
+2013,CFR Cluj,Rom,Manchester United,Eng,1,2
+2013,Manchester United,Eng,CFR Cluj,Rom,0,1
+2013,Galatasaray,Tur,Sporting Braga,Por,0,2
+2013,Sporting Braga,Por,Galatasaray,Tur,1,2
+2013,Galatasaray,Tur,CFR Cluj,Rom,1,1
+2013,CFR Cluj,Rom,Galatasaray,Tur,1,3
+2013,Manchester United,Eng,Sporting Braga,Por,3,2
+2013,Sporting Braga,Por,Manchester United,Eng,1,3
+2013,Galatasaray,Tur,Schalke 04,Ger,1,1
+2013,Schalke 04,Ger,Galatasaray,Tur,2,3
+2013,Celtic,Sco,Juventus,Ita,0,3
+2013,Juventus,Ita,Celtic,Sco,2,0
+2013,Arsenal,Eng,Bayern München,Ger,1,3
+2013,Bayern München,Ger,Arsenal,Eng,0,2
+2013,Shakhtar Donetsk,Ukr,Borussia Dortmund,Ger,2,2
+2013,Borussia Dortmund,Ger,Shakhtar Donetsk,Ukr,3,0
+2013,AC Milan,Ita,FC Barcelona,Esp,2,0
+2013,FC Barcelona,Esp,AC Milan,Ita,4,0
+2013,Real Madrid,Esp,Manchester United,Eng,1,1
+2013,Manchester United,Eng,Real Madrid,Esp,1,2
+2013,Valencia,Esp,Paris Saint-Germain,Fra,1,2
+2013,Paris Saint-Germain,Fra,Valencia,Esp,1,1
+2013,FC Porto,Por,Málaga CF,Esp,1,0
+2013,Málaga CF,Esp,FC Porto,Por,2,0
+2013,Málaga CF,Esp,Borussia Dortmund,Ger,0,0
+2013,Borussia Dortmund,Ger,Málaga CF,Esp,3,2
+2013,Real Madrid,Esp,Galatasaray,Tur,3,0
+2013,Galatasaray,Tur,Real Madrid,Esp,3,2
+2013,Paris Saint-Germain,Fra,FC Barcelona,Esp,2,2
+2013,FC Barcelona,Esp,Paris Saint-Germain,Fra,1,1
+2013,Bayern München,Ger,Juventus,Ita,2,0
+2013,Juventus,Ita,Bayern München,Ger,0,2
+2013,Bayern München,Ger,FC Barcelona,Esp,4,0
+2013,FC Barcelona,Esp,Bayern München,Ger,0,3
+2013,Borussia Dortmund,Ger,Real Madrid,Esp,4,1
+2013,Real Madrid,Esp,Borussia Dortmund,Ger,2,0
+2013,Borussia Dortmund,Ger,Bayern München,Ger,1,2
+2014,Shirak Gyumri,Arm,Tre Penne,Sma,3,0
+2014,Tre Penne,Sma,Shirak Gyumri,Arm,1,0
+2014,FC Lusitanos,And,EB Streymur,Far,2,2
+2014,EB Streymur,Far,FC Lusitanos,And,5,1
+2014,Neftchi Baku,Azb,Skënderbeu Korçë,Alb,0,0
+2014,Skënderbeu Korçë,Alb,Neftchi Baku,Azb,1,0
+2014,Steaua Bucuresti,Rom,Vardar Skopje,Mac,3,0
+2014,Vardar Skopje,Mac,Steaua Bucuresti,Rom,1,2
+2014,Viktoria Plzen,Cze,Zeljeznicar Sarajevo,Bos,4,3
+2014,Zeljeznicar Sarajevo,Bos,Viktoria Plzen,Cze,1,2
+2014,Sheriff Tiraspol,Mol,Sutjeska Niksic,Mon,1,1
+2014,Sutjeska Niksic,Mon,Sheriff Tiraspol,Mol,0,5
+2014,Birkirkara,Mlt,NK Maribor,Slo,0,0
+2014,NK Maribor,Slo,Birkirkara,Mlt,2,0
+2014,Sligo Rovers,Irl,Molde FK,Nor,0,1
+2014,Molde FK,Nor,Sligo Rovers,Irl,2,0
+2014,IF Elfsborg,Swe,Daugava Daugavpils,Lat,7,1
+2014,Daugava Daugavpils,Lat,IF Elfsborg,Swe,0,4
+2014,HJK Helsinki,Fin,Kalju Nomme,Est,0,0
+2014,Kalju Nomme,Est,HJK Helsinki,Fin,2,1
+2014,Ekranas Panevezys,Lit,FH Hafnarfjardar,Isl,0,1
+2014,FH Hafnarfjardar,Isl,Ekranas Panevezys,Lit,2,1
+2014,The New Saints,Wal,Legia Warsaw,Pol,1,3
+2014,Legia Warsaw,Pol,The New Saints,Wal,1,0
+2014,Cliftonville,Nir,Celtic,Sco,0,3
+2014,Celtic,Sco,Cliftonville,Nir,2,0
+2014,CS Fola Esch,Lux,Dinamo Zagreb,Cro,0,5
+2014,Dinamo Zagreb,Cro,CS Fola Esch,Lux,1,0
+2014,ETO Györ,Hun,Maccabi Tel-Aviv,Isr,0,2
+2014,Maccabi Tel-Aviv,Isr,ETO Györ,Hun,2,1
+2014,BATE Borisov,Bls,Shakhtyor Karaganda,Kaz,0,1
+2014,Shakhtyor Karaganda,Kaz,BATE Borisov,Bls,1,0
+2014,Shirak Gyumri,Arm,Partizan Belgrade,Srb,1,1
+2014,Partizan Belgrade,Srb,Shirak Gyumri,Arm,0,0
+2014,Slovan Bratislava,Svk,Ludogorets Razgrad,Bul,2,1
+2014,Ludogorets Razgrad,Bul,Slovan Bratislava,Svk,3,0
+2014,Dinamo Tbilisi,Geo,EB Streymur,Far,6,1
+2014,EB Streymur,Far,Dinamo Tbilisi,Geo,1,3
+2014,FC Basel,Sui,Maccabi Tel-Aviv,Isr,1,0
+2014,Maccabi Tel-Aviv,Isr,FC Basel,Sui,3,3
+2014,Molde FK,Nor,Legia Warsaw,Pol,1,1
+2014,Legia Warsaw,Pol,Molde FK,Nor,0,0
+2014,Ludogorets Razgrad,Bul,Partizan Belgrade,Srb,2,1
+2014,Partizan Belgrade,Srb,Ludogorets Razgrad,Bul,0,1
+2014,Dinamo Tbilisi,Geo,Steaua Bucuresti,Rom,0,2
+2014,Steaua Bucuresti,Rom,Dinamo Tbilisi,Geo,1,1
+2014,APOEL Nicosia,Cyp,NK Maribor,Slo,1,1
+2014,NK Maribor,Slo,APOEL Nicosia,Cyp,0,0
+2014,Celtic,Sco,IF Elfsborg,Swe,1,0
+2014,IF Elfsborg,Swe,Celtic,Sco,0,0
+2014,Shakhtyor Karaganda,Kaz,Skënderbeu Korçë,Alb,3,0
+2014,Skënderbeu Korçë,Alb,Shakhtyor Karaganda,Kaz,3,2
+2014,Austria Wien,Aut,FH Hafnarfjardar,Isl,1,0
+2014,FH Hafnarfjardar,Isl,Austria Wien,Aut,0,0
+2014,Kalju Nomme,Est,Viktoria Plzen,Cze,0,4
+2014,Viktoria Plzen,Cze,Kalju Nomme,Est,6,2
+2014,Dinamo Zagreb,Cro,Sheriff Tiraspol,Mol,1,0
+2014,Sheriff Tiraspol,Mol,Dinamo Zagreb,Cro,0,3
+2014,FC Nordsjælland,Den,Zenit St. Petersburg,Rus,0,1
+2014,Zenit St. Petersburg,Rus,FC Nordsjælland,Den,5,0
+2014,FC Salzburg,Aut,Fenerbahçe,Tur,1,1
+2014,Fenerbahçe,Tur,FC Salzburg,Aut,3,1
+2014,PAOK Thessaloniki,Gre,Metalist Kharkiv,Ukr,0,2
+2014,Metalist Kharkiv,Ukr,PAOK Thessaloniki,Gre,1,1
+2014,PSV Eindhoven,Ned,Zulte Waregem,Bel,2,0
+2014,Zulte Waregem,Bel,PSV Eindhoven,Ned,0,3
+2014,Olympique Lyon,Fra,Grasshoppers Zürich,Sui,1,0
+2014,Grasshoppers Zürich,Sui,Olympique Lyon,Fra,0,1
+2014,Dinamo Zagreb,Cro,Austria Wien,Aut,0,2
+2014,Austria Wien,Aut,Dinamo Zagreb,Cro,2,3
+2014,Ludogorets Razgrad,Bul,FC Basel,Sui,2,4
+2014,FC Basel,Sui,Ludogorets Razgrad,Bul,2,0
+2014,Viktoria Plzen,Cze,NK Maribor,Slo,3,1
+2014,NK Maribor,Slo,Viktoria Plzen,Cze,0,1
+2014,Shakhtyor Karaganda,Kaz,Celtic,Sco,2,0
+2014,Celtic,Sco,Shakhtyor Karaganda,Kaz,3,0
+2014,Steaua Bucuresti,Rom,Legia Warsaw,Pol,1,1
+2014,Legia Warsaw,Pol,Steaua Bucuresti,Rom,2,2
+2014,Olympique Lyon,Fra,Real Sociedad,Esp,0,2
+2014,Real Sociedad,Esp,Olympique Lyon,Fra,2,0
+2014,Schalke 04,Ger,PAOK Thessaloniki,Gre,1,1
+2014,PAOK Thessaloniki,Gre,Schalke 04,Ger,2,3
+2014,Paços de Ferreira,Por,Zenit St. Petersburg,Rus,1,4
+2014,Zenit St. Petersburg,Rus,Paços de Ferreira,Por,4,2
+2014,PSV Eindhoven,Ned,AC Milan,Ita,1,1
+2014,AC Milan,Ita,PSV Eindhoven,Ned,3,0
+2014,Fenerbahçe,Tur,Arsenal,Eng,0,3
+2014,Arsenal,Eng,Fenerbahçe,Tur,2,0
+2014,Manchester United,Eng,Bayer Leverkusen,Ger,4,2
+2014,Bayer Leverkusen,Ger,Manchester United,Eng,0,5
+2014,Real Sociedad,Esp,Shakhtar Donetsk,Ukr,0,2
+2014,Shakhtar Donetsk,Ukr,Real Sociedad,Esp,4,0
+2014,Shakhtar Donetsk,Ukr,Manchester United,Eng,1,1
+2014,Manchester United,Eng,Shakhtar Donetsk,Ukr,1,0
+2014,Bayer Leverkusen,Ger,Real Sociedad,Esp,2,1
+2014,Real Sociedad,Esp,Bayer Leverkusen,Ger,0,1
+2014,Bayer Leverkusen,Ger,Shakhtar Donetsk,Ukr,4,0
+2014,Shakhtar Donetsk,Ukr,Bayer Leverkusen,Ger,0,0
+2014,Manchester United,Eng,Real Sociedad,Esp,1,0
+2014,Real Sociedad,Esp,Manchester United,Eng,0,0
+2014,Galatasaray,Tur,Real Madrid,Esp,1,6
+2014,Real Madrid,Esp,Galatasaray,Tur,4,1
+2014,FC København,Den,Juventus,Ita,1,1
+2014,Juventus,Ita,FC København,Den,3,1
+2014,Juventus,Ita,Galatasaray,Tur,2,2
+2014,Galatasaray,Tur,Juventus,Ita,1,0
+2014,Real Madrid,Esp,FC København,Den,4,0
+2014,FC København,Den,Real Madrid,Esp,0,2
+2014,Real Madrid,Esp,Juventus,Ita,2,1
+2014,Juventus,Ita,Real Madrid,Esp,2,2
+2014,Galatasaray,Tur,FC København,Den,3,1
+2014,FC København,Den,Galatasaray,Tur,1,0
+2014,Benfica,Por,Anderlecht,Bel,2,0
+2014,Anderlecht,Bel,Benfica,Por,2,3
+2014,Olympiakos Piraeus,Gre,Paris Saint-Germain,Fra,1,4
+2014,Paris Saint-Germain,Fra,Olympiakos Piraeus,Gre,2,1
+2014,Paris Saint-Germain,Fra,Benfica,Por,3,0
+2014,Benfica,Por,Paris Saint-Germain,Fra,2,1
+2014,Anderlecht,Bel,Olympiakos Piraeus,Gre,0,3
+2014,Olympiakos Piraeus,Gre,Anderlecht,Bel,3,1
+2014,Anderlecht,Bel,Paris Saint-Germain,Fra,0,5
+2014,Paris Saint-Germain,Fra,Anderlecht,Bel,1,1
+2014,Benfica,Por,Olympiakos Piraeus,Gre,1,1
+2014,Olympiakos Piraeus,Gre,Benfica,Por,1,0
+2014,Bayern München,Ger,CSKA Moscow,Rus,3,0
+2014,CSKA Moscow,Rus,Bayern München,Ger,1,3
+2014,Viktoria Plzen,Cze,Manchester City,Eng,0,3
+2014,Manchester City,Eng,Viktoria Plzen,Cze,4,2
+2014,Manchester City,Eng,Bayern München,Ger,1,3
+2014,Bayern München,Ger,Manchester City,Eng,2,3
+2014,CSKA Moscow,Rus,Viktoria Plzen,Cze,3,2
+2014,Viktoria Plzen,Cze,CSKA Moscow,Rus,2,1
+2014,CSKA Moscow,Rus,Manchester City,Eng,1,2
+2014,Manchester City,Eng,CSKA Moscow,Rus,5,2
+2014,Bayern München,Ger,Viktoria Plzen,Cze,5,0
+2014,Viktoria Plzen,Cze,Bayern München,Ger,0,1
+2014,Schalke 04,Ger,Steaua Bucuresti,Rom,3,0
+2014,Steaua Bucuresti,Rom,Schalke 04,Ger,0,0
+2014,Chelsea,Eng,FC Basel,Sui,1,2
+2014,FC Basel,Sui,Chelsea,Eng,1,0
+2014,FC Basel,Sui,Schalke 04,Ger,0,1
+2014,Schalke 04,Ger,FC Basel,Sui,2,0
+2014,Steaua Bucuresti,Rom,Chelsea,Eng,0,4
+2014,Chelsea,Eng,Steaua Bucuresti,Rom,1,0
+2014,Steaua Bucuresti,Rom,FC Basel,Sui,1,1
+2014,FC Basel,Sui,Steaua Bucuresti,Rom,1,1
+2014,Schalke 04,Ger,Chelsea,Eng,0,3
+2014,Chelsea,Eng,Schalke 04,Ger,3,0
+2014,Olympique Marseille,Fra,Arsenal,Eng,1,2
+2014,Arsenal,Eng,Olympique Marseille,Fra,2,0
+2014,Napoli,Ita,Borussia Dortmund,Ger,2,1
+2014,Borussia Dortmund,Ger,Napoli,Ita,3,1
+2014,Borussia Dortmund,Ger,Olympique Marseille,Fra,3,0
+2014,Olympique Marseille,Fra,Borussia Dortmund,Ger,1,2
+2014,Arsenal,Eng,Napoli,Ita,2,0
+2014,Napoli,Ita,Arsenal,Eng,2,0
+2014,Arsenal,Eng,Borussia Dortmund,Ger,1,2
+2014,Borussia Dortmund,Ger,Arsenal,Eng,0,1
+2014,Olympique Marseille,Fra,Napoli,Ita,1,2
+2014,Napoli,Ita,Olympique Marseille,Fra,3,2
+2014,Austria Wien,Aut,FC Porto,Por,0,1
+2014,FC Porto,Por,Austria Wien,Aut,1,1
+2014,Atlético Madrid,Esp,Zenit St. Petersburg,Rus,3,1
+2014,Zenit St. Petersburg,Rus,Atlético Madrid,Esp,1,1
+2014,Zenit St. Petersburg,Rus,Austria Wien,Aut,0,0
+2014,Austria Wien,Aut,Zenit St. Petersburg,Rus,4,1
+2014,FC Porto,Por,Atlético Madrid,Esp,1,2
+2014,Atlético Madrid,Esp,FC Porto,Por,2,0
+2014,FC Porto,Por,Zenit St. Petersburg,Rus,0,1
+2014,Zenit St. Petersburg,Rus,FC Porto,Por,1,1
+2014,Austria Wien,Aut,Atlético Madrid,Esp,0,3
+2014,Atlético Madrid,Esp,Austria Wien,Aut,4,0
+2014,AC Milan,Ita,Celtic,Sco,2,0
+2014,Celtic,Sco,AC Milan,Ita,0,3
+2014,FC Barcelona,Esp,Ajax,Ned,4,0
+2014,Ajax,Ned,FC Barcelona,Esp,2,1
+2014,Ajax,Ned,AC Milan,Ita,1,1
+2014,AC Milan,Ita,Ajax,Ned,0,0
+2014,Celtic,Sco,FC Barcelona,Esp,0,1
+2014,FC Barcelona,Esp,Celtic,Sco,6,1
+2014,Celtic,Sco,Ajax,Ned,2,1
+2014,Ajax,Ned,Celtic,Sco,1,0
+2014,AC Milan,Ita,FC Barcelona,Esp,1,1
+2014,FC Barcelona,Esp,AC Milan,Ita,3,1
+2014,Manchester City,Eng,FC Barcelona,Esp,0,2
+2014,FC Barcelona,Esp,Manchester City,Eng,2,1
+2014,Bayer Leverkusen,Ger,Paris Saint-Germain,Fra,0,4
+2014,Paris Saint-Germain,Fra,Bayer Leverkusen,Ger,2,1
+2014,AC Milan,Ita,Atlético Madrid,Esp,0,1
+2014,Atlético Madrid,Esp,AC Milan,Ita,4,1
+2014,Arsenal,Eng,Bayern München,Ger,0,2
+2014,Bayern München,Ger,Arsenal,Eng,1,1
+2014,Olympiakos Piraeus,Gre,Manchester United,Eng,2,0
+2014,Manchester United,Eng,Olympiakos Piraeus,Gre,3,0
+2014,Zenit St. Petersburg,Rus,Borussia Dortmund,Ger,2,4
+2014,Borussia Dortmund,Ger,Zenit St. Petersburg,Rus,1,2
+2014,Galatasaray,Tur,Chelsea,Eng,1,1
+2014,Chelsea,Eng,Galatasaray,Tur,2,0
+2014,Schalke 04,Ger,Real Madrid,Esp,1,6
+2014,Real Madrid,Esp,Schalke 04,Ger,3,1
+2014,FC Barcelona,Esp,Atlético Madrid,Esp,1,1
+2014,Atlético Madrid,Esp,FC Barcelona,Esp,1,0
+2014,Manchester United,Eng,Bayern München,Ger,1,1
+2014,Bayern München,Ger,Manchester United,Eng,3,1
+2014,Real Madrid,Esp,Borussia Dortmund,Ger,3,0
+2014,Borussia Dortmund,Ger,Real Madrid,Esp,2,0
+2014,Paris Saint-Germain,Fra,Chelsea,Eng,3,1
+2014,Chelsea,Eng,Paris Saint-Germain,Fra,2,0
+2014,Real Madrid,Esp,Bayern München,Ger,1,0
+2014,Bayern München,Ger,Real Madrid,Esp,0,4
+2014,Atlético Madrid,Esp,Chelsea,Eng,0,0
+2014,Chelsea,Eng,Atlético Madrid,Esp,1,3
+2014,Real Madrid,Esp,Atlético Madrid,Esp,4,1
